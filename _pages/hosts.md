@@ -8,7 +8,7 @@ permalink: /hosts/
     <h2>Who are we?</h2>
     <hr />
     <p>
-      The Routing Loop has a regular pannel of host/moderators with varied netwroking and content delivery background. 
+      The Routing Loop has a regular panel of host/moderators with varied networking and content delivery background. 
     </p>
     <p>
       Check out the profiles below to learn about the show hosts.
