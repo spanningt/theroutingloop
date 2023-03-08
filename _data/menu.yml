@@ -1,0 +1,11 @@
+- title: Home
+  link: /
+
+- title: Previous episodes 
+  link: "/past/"
+
+- title: Upcoming episodes
+  link: "/upcoming/"
+
+- title: Hosts
+  link: "/hosts/"

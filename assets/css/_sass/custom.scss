@@ -1,0 +1,14 @@
+/* Add your custom styles here */
+ .btn-primary{
+     background-color: #ffc00f;
+     border-color: #ffc00f;
+     color: #1d4367;
+     &:hover{
+         background-color: #a37b08;
+         border-color: #a37b08;
+         color: #1d4367;
+     }
+ }
+ .bg-primary{
+     background-color: #1d4367 !important
+ }
