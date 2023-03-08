@@ -21,7 +21,7 @@ guests: "Stanley Su, AWS Principal Product Manager for AWS Infrastructure"
 {% capture posttime %}{{page.date | date: '%s'}}{% endcapture %}
 {% if posttime < nowunix %}   
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=pages.tomadamski.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video={{ page.videoid }}&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
  
@@ -31,7 +31,7 @@ guests: "Stanley Su, AWS Principal Product Manager for AWS Infrastructure"
 
 
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&parent=pages.tomadamski.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 {% endif %}
