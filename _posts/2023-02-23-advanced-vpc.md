@@ -27,7 +27,7 @@ guests: ""
  
 
 {% else %}
-<p>Session hasn't started. Join live on <b>{{ page.date | date: "%-d %B %Y" }} at 10:30AM PST </b><p>
+<p>Session hasn't started. Join live on <b>{{ page.date | date: "%-d %B %Y" }} at 10:30AM PST / 1:30PM EST / 6:30PM GMT </b><p>
 
 
 <div class="video-container">
