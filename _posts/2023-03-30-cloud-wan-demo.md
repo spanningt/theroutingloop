@@ -1,12 +1,11 @@
 ---
 layout: default
-title:  "Networking with AWS API Gateway"
-videoid:
-date:   2023-03-23 10:30:00 -0800
-abstract: "We'll go over the networking aspects of AWS API Gateway service. This includes executing the API (from 
-the Internet or privately from other VPCs) as well as backend integrations."
-hosts: "Tom Adamski"
-guests: "Giedrius Praspaliauskas, Senior Solutions Architect specializing in Serverless"
+title:  "Getting started with AWS CloudWAN - Live deployment from start to finish!"
+videoid: 
+date:   2023-03-30 10:30:00 -0800
+abstract: "Join us in this live session where we’ll configure AWS CloudWAN from start to finish!"
+hosts: "Alexandra Huides, Matt Lehwess"
+guests: 
 ---
 {{ page.date | date: "%-d %B %Y" }}
 
