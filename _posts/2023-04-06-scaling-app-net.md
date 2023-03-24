@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Getting started with Amazon VPC Lattice - Live deployment from start to finish!"
+title:  "Scaling your application network"
 videoid: 
-date:   2023-03-30 10:30:00 -0800
-abstract: "Join us in this live session where we’ll configure Amazon VPC Lattice from start to finish!"
-hosts: "Alexandra Huides, Matt Lehwess"
-guests: 
+date:   2023-04-06 10:30:00 -0800
+abstract: "We will discuss the various application networking components including but not limited to  ELB, Lattice, R53, APIGW and PrivateLink. We will discuss how and when to scale these services such as sharding, looking at limits, and when to call for help."
+hosts: "Jamie Wenzel"
+guests: "John Zobrist (aka Zob), Head of ELB Customer Success"
 ---
 {{ page.date | date: "%-d %B %Y" }}
 

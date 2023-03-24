@@ -1,10 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-24T08:54:03-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Getting started with AWS CloudWAN - Live deployment from start to finish!</title><link href="/2023/03/30/cloud-wan-demo.html" rel="alternate" type="text/html" title="Getting started with AWS CloudWAN - Live deployment from start to finish!" /><published>2023-03-30T11:30:00-07:00</published><updated>2023-03-30T11:30:00-07:00</updated><id>/2023/03/30/cloud-wan-demo</id><content type="html" xml:base="/2023/03/30/cloud-wan-demo.html"><![CDATA[<p>30 March 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-24T11:37:32-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Scaling your application network</title><link href="/2023/04/06/scaling-app-net.html" rel="alternate" type="text/html" title="Scaling your application network" /><published>2023-04-06T11:30:00-07:00</published><updated>2023-04-06T11:30:00-07:00</updated><id>/2023/04/06/scaling-app-net</id><content type="html" xml:base="/2023/04/06/scaling-app-net.html"><![CDATA[<p>6 April 2023</p>
 
-<h1> Getting started with AWS CloudWAN - Live deployment from start to finish! </h1>
+<h1> Scaling your application network </h1>
+
+<p><b> Hosts: </b> <br /> Jamie Wenzel  </p>
+<p><b> Guests: </b> <br /> John Zobrist (aka Zob), Head of ELB Customer Success  </p>
+<p> <b> Abstract: </b> <br /> We will discuss the various application networking components including but not limited to  ELB, Lattice, R53, APIGW and PrivateLink. We will discuss how and when to scale these services such as sharding, looking at limits, and when to call for help. </p>
+
+<p>Session hasn't started. Join live on <b>6 April 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[6 April 2023]]></summary></entry><entry><title type="html">Getting started with Amazon VPC Lattice - Live deployment from start to finish!</title><link href="/2023/03/30/cloud-wan-demo.html" rel="alternate" type="text/html" title="Getting started with Amazon VPC Lattice - Live deployment from start to finish!" /><published>2023-03-30T11:30:00-07:00</published><updated>2023-03-30T11:30:00-07:00</updated><id>/2023/03/30/cloud-wan-demo</id><content type="html" xml:base="/2023/03/30/cloud-wan-demo.html"><![CDATA[<p>30 March 2023</p>
+
+<h1> Getting started with Amazon VPC Lattice - Live deployment from start to finish! </h1>
 
 <p><b> Hosts: </b> <br /> Alexandra Huides, Matt Lehwess  </p>
 <p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> Join us in this live session where we’ll configure AWS CloudWAN from start to finish! </p>
+<p> <b> Abstract: </b> <br /> Join us in this live session where we’ll configure Amazon VPC Lattice from start to finish! </p>
 
 <p>Session hasn't started. Join live on <b>30 March 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
