@@ -12,7 +12,8 @@ permalink: /upcoming/
     {% if posttime > nowunix %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
+        <b>{{ post.date | date: "%-d %B %Y" }}</b><br>
+        Host(s): {{ post.hosts}}
 
       </li>
       {% endif %}

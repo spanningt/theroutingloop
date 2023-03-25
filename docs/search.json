@@ -1,0 +1,67 @@
+[
+  
+    {
+      "title"    : "Scaling your application network",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2023/04/06/scaling-app-net.html",
+      "date"     : "06 Apr 2023",
+      "abstract" : "We will discuss the various application networking components including but not limited to  ELB, Lattice, R53, APIGW and PrivateLink. We will discuss how and when to scale these services such as sharding, looking at limits, and when to call for help."
+    } ,
+  
+    {
+      "title"    : "Getting started with Amazon VPC Lattice - Live deployment from start to finish!",
+      "hosts"    : "Alexandra Huides, Matt Lehwess",
+      "url"      : "/2023/03/30/lattice-getting-started.html",
+      "date"     : "30 Mar 2023",
+      "abstract" : "Join us in this live session where we’ll configure Amazon VPC Lattice from start to finish!"
+    } ,
+  
+    {
+      "title"    : "Networking with Amazon API Gateway",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2023/03/23/api-gateway.html",
+      "date"     : "23 Mar 2023",
+      "abstract" : "We&#39;ll go over the networking aspects of Amazon API Gateway service. This includes executing the API (from the Internet or privately from other VPCs) as well as backend integrations."
+    } ,
+  
+    {
+      "title"    : "Integrated AWS WAF Bot at the Edge: Where, how, and when?",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2023/03/16/waf-bot.html",
+      "date"     : "16 Mar 2023",
+      "abstract" : "Application and workload resiliency within AWS centers around the global footprint of Amazon CloudFront with the integrated security of AWS WAF. AWS has now released 3 bot solutions within AWS WAF: Common Bots, Targeted Bots, and Account Takeover Prevention. In this discussion we will cover the differences of the solutions, talk about best practices for seamless integration with Amazon CloudFront, and discuss how customers can gain visibility into bots at no additional cost today."
+    } ,
+  
+    {
+      "title"    : "Networking Ask Me Anything with Jamie and Matt",
+      "hosts"    : "Jamie Wenzel, Matt Lehwess",
+      "url"      : "/2023/03/02/net-ama.html",
+      "date"     : "02 Mar 2023",
+      "abstract" : "Jamie and Matt answer your questions in this Ask Me Anything Episode (AMA)"
+    } ,
+  
+    {
+      "title"    : "Advanced VPC design, and Application Architectures",
+      "hosts"    : "Jamie Wenzel, Matt Lehwess",
+      "url"      : "/2023/02/23/advanced-vpc.html",
+      "date"     : "23 Feb 2023",
+      "abstract" : "Jamie and Matt cover advanced VPC architectures and basics of VPC networking."
+    } ,
+  
+    {
+      "title"    : "Building highly available Multi-AZ/Multi-region applications",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2023/02/16/building-ha.html",
+      "date"     : "16 Feb 2023",
+      "abstract" : "Learn how to build highly highly available applications spanning multiple Availability Zoner or AWS Regions"
+    } ,
+  
+    {
+      "title"    : "More past episodes",
+      "hosts"    : "",
+      "url"      : "/2023/01/01/past-episodes.html",
+      "date"     : "01 Jan 2023",
+      "abstract" : ""
+    } 
+  
+]
