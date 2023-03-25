@@ -3,11 +3,15 @@ layout: default
 permalink: /past/
 ---
 
-## Previous episodes
+## Episode Search
 
 {% include search-form.html %}
 
+
 ----
+
+
+## Previous episodes
 
 <ul>
   {% for post in site.posts %}
