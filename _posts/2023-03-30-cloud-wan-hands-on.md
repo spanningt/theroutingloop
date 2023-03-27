@@ -1,9 +1,9 @@
 ---
 layout: default
-title:  "Getting started with Amazon VPC Lattice - Live deployment from start to finish!"
+title:  "Getting started with AWS CloudWAN - Live deployment from start to finish!"
 videoid: 
 date:   2023-03-30 10:30:00 -0800
-abstract: "Join us in this live session where we’ll configure Amazon VPC Lattice from start to finish!"
+abstract: "Join us in this live session where we’ll configure AWS CloudWAN from start to finish!"
 hosts: "Alexandra Huides, Matt Lehwess"
 guests: 
 ---

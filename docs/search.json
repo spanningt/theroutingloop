@@ -9,11 +9,11 @@
     } ,
   
     {
-      "title"    : "Getting started with Amazon VPC Lattice - Live deployment from start to finish!",
+      "title"    : "Getting started with AWS CloudWAN - Live deployment from start to finish!",
       "hosts"    : "Alexandra Huides, Matt Lehwess",
-      "url"      : "/2023/03/30/lattice-getting-started.html",
+      "url"      : "/2023/03/30/cloud-wan-hands-on.html",
       "date"     : "30 Mar 2023",
-      "abstract" : "Join us in this live session where we’ll configure Amazon VPC Lattice from start to finish!"
+      "abstract" : "Join us in this live session where we’ll configure AWS CloudWAN from start to finish!"
     } ,
   
     {
