@@ -57,6 +57,14 @@
     } ,
   
     {
+      "title"    : "AWS Verified Access",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2023/01/12/aws-verified-access.html",
+      "date"     : "12 Jan 2023",
+      "abstract" : "Join us for an overview of AWS Verified Access. Built on AWS Zero Trust guiding principles, AWS Verified Access validates each and every application request before granting access. Verified Access removes the need for a VPN, which simplifies the remote connectivity experience for end users and reduces the management complexity for IT administrators."
+    } ,
+  
+    {
       "title"    : "More past episodes",
       "hosts"    : "",
       "url"      : "/2023/01/01/past-episodes.html",

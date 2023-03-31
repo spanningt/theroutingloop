@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-31T08:11:06-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Scaling your application network</title><link href="/2023/04/06/scaling-app-net.html" rel="alternate" type="text/html" title="Scaling your application network" /><published>2023-04-06T11:30:00-07:00</published><updated>2023-04-06T11:30:00-07:00</updated><id>/2023/04/06/scaling-app-net</id><content type="html" xml:base="/2023/04/06/scaling-app-net.html"><![CDATA[<p>6 April 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-03-31T10:24:35-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Scaling your application network</title><link href="/2023/04/06/scaling-app-net.html" rel="alternate" type="text/html" title="Scaling your application network" /><published>2023-04-06T11:30:00-07:00</published><updated>2023-04-06T11:30:00-07:00</updated><id>/2023/04/06/scaling-app-net</id><content type="html" xml:base="/2023/04/06/scaling-app-net.html"><![CDATA[<p>6 April 2023</p>
 
 <h1> Scaling your application network </h1>
 
@@ -83,7 +83,18 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1745817855&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 February 2023]]></summary></entry><entry><title type="html">More past episodes</title><link href="/2023/01/01/past-episodes.html" rel="alternate" type="text/html" title="More past episodes" /><published>2023-01-01T10:30:00-08:00</published><updated>2023-01-01T10:30:00-08:00</updated><id>/2023/01/01/past-episodes</id><content type="html" xml:base="/2023/01/01/past-episodes.html"><![CDATA[<p>For older episodes check out the Twitch collection below.</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 February 2023]]></summary></entry><entry><title type="html">AWS Verified Access</title><link href="/2023/01/12/aws-verified-access.html" rel="alternate" type="text/html" title="AWS Verified Access" /><published>2023-01-12T10:30:00-08:00</published><updated>2023-01-12T10:30:00-08:00</updated><id>/2023/01/12/aws-verified-access</id><content type="html" xml:base="/2023/01/12/aws-verified-access.html"><![CDATA[<p>12 January 2023</p>
+
+<h1> AWS Verified Access </h1>
+
+<p><b> Hosts: </b> <br /> Tom Adamski  </p>
+<p><b> Guests: </b> <br /> Jess Szmajda, GM for AWS VPN  </p>
+<p> <b> Abstract: </b> <br /> Join us for an overview of AWS Verified Access. Built on AWS Zero Trust guiding principles, AWS Verified Access validates each and every application request before granting access. Verified Access removes the need for a VPN, which simplifies the remote connectivity experience for end users and reduces the management complexity for IT administrators. </p>
+
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1705366644&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 January 2023]]></summary></entry><entry><title type="html">More past episodes</title><link href="/2023/01/01/past-episodes.html" rel="alternate" type="text/html" title="More past episodes" /><published>2023-01-01T10:30:00-08:00</published><updated>2023-01-01T10:30:00-08:00</updated><id>/2023/01/01/past-episodes</id><content type="html" xml:base="/2023/01/01/past-episodes.html"><![CDATA[<p>For older episodes check out the Twitch collection below.</p>
 
 <p>Use the embed navigation to browse through episodes or access the collection directly on Twitch <a href="https://www.twitch.tv/collections/HBANRY7lIxagXQ">here</a></p>
 
