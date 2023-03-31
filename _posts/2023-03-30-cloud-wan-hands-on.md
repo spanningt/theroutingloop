@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Getting started with AWS CloudWAN - Live deployment from start to finish!"
-videoid: 
+videoid: 1780284273
 date:   2023-03-30 10:30:00 -0800
 abstract: "Join us in this live session where we’ll configure AWS CloudWAN from start to finish!"
 hosts: "Alexandra Huides, Matt Lehwess"
