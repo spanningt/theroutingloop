@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Scaling your application network"
+title:  "AWS Cloud WAN Live deployment - Part 2 & Amazon VPC Lattice"
 videoid: 
 date:   2023-04-06 10:30:00 -0800
-abstract: "We will discuss the various application networking components including but not limited to  ELB, Lattice, R53, APIGW and PrivateLink. We will discuss how and when to scale these services such as sharding, looking at limits, and when to call for help."
-hosts: "Jamie Wenzel"
-guests: "John Zobrist (aka Zob), Head of ELB Customer Success"
+abstract: "A followup to last weeks hand's on session showing Cloud WAN live deployment. The session will also touch on recently launched VPC Lattice"
+hosts: "Jamie Wenzel, Alexandra Huides"
+guests: 
 ---
 {{ page.date | date: "%-d %B %Y" }}
 

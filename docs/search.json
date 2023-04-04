@@ -1,15 +1,23 @@
 [
   
     {
-      "title"    : "Scaling your application network",
-      "hosts"    : "Jamie Wenzel",
-      "url"      : "/2023/04/06/scaling-app-net.html",
-      "date"     : "06 Apr 2023",
-      "abstract" : "We will discuss the various application networking components including but not limited to  ELB, Lattice, R53, APIGW and PrivateLink. We will discuss how and when to scale these services such as sharding, looking at limits, and when to call for help."
+      "title"    : "Introduction to NetDevSecOps",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2023/04/13/netdevops.html",
+      "date"     : "13 Apr 2023",
+      "abstract" : "In this session, come learn about the concept of NetDevSecOps and the key considerations that are required to be kept in mind when operating at scale. We will cover the architectural patterns, services and features, learnings that can be leveraged by you and an end-to-end demonstration of NetDevSecOps in practice"
     } ,
   
     {
-      "title"    : "Getting started with AWS CloudWAN - Live deployment from start to finish!",
+      "title"    : "AWS Cloud WAN Live deployment - Part 2 & Amazon VPC Lattice",
+      "hosts"    : "Jamie Wenzel, Alexandra Huides",
+      "url"      : "/2023/04/06/cloud-wan-part2.html",
+      "date"     : "06 Apr 2023",
+      "abstract" : "A followup to last weeks hand&#39;s on session showing Cloud WAN live deployment. The session will also touch on recently launched VPC Lattice"
+    } ,
+  
+    {
+      "title"    : "Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1",
       "hosts"    : "Alexandra Huides, Matt Lehwess",
       "url"      : "/2023/03/30/cloud-wan-hands-on.html",
       "date"     : "30 Mar 2023",

@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1"
-videoid: 1780284273
-date:   2023-03-30 10:30:00 -0800
-abstract: "Join us in this live session where we’ll configure AWS CloudWAN from start to finish!"
-hosts: "Alexandra Huides, Matt Lehwess"
-guests: 
+title:  "Introduction to NetDevSecOps"
+videoid: 
+date:   2023-04-13 10:30:00 -0800
+abstract: "In this session, come learn about the concept of NetDevSecOps and the key considerations that are required to be kept in mind when operating at scale. We will cover the architectural patterns, services and features, learnings that can be leveraged by you and an end-to-end demonstration of NetDevSecOps in practice"
+hosts: "Sidhartha Chauhan"
+guests: Shiva Vaidyanathan, Principal Cloud Architect "
 ---
 {{ page.date | date: "%-d %B %Y" }}
 
