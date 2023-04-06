@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-04-06T08:12:03-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Using AWS WAF labeling to address false positive with AMR</title><link href="/2023/04/20/waf-managed-rules.html" rel="alternate" type="text/html" title="Using AWS WAF labeling to address false positive with AMR" /><published>2023-04-20T11:30:00-07:00</published><updated>2023-04-20T11:30:00-07:00</updated><id>/2023/04/20/waf-managed-rules</id><content type="html" xml:base="/2023/04/20/waf-managed-rules.html"><![CDATA[<p>20 April 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-04-06T12:56:01-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Using AWS WAF labeling to address false positive with AMR</title><link href="/2023/04/20/waf-managed-rules.html" rel="alternate" type="text/html" title="Using AWS WAF labeling to address false positive with AMR" /><published>2023-04-20T11:30:00-07:00</published><updated>2023-04-20T11:30:00-07:00</updated><id>/2023/04/20/waf-managed-rules</id><content type="html" xml:base="/2023/04/20/waf-managed-rules.html"><![CDATA[<p>20 April 2023</p>
 
 <h1> Using AWS WAF labeling to address false positive with AMR </h1>
 
@@ -44,18 +44,10 @@
 <p><b> Guests: </b> <br />   </p>
 <p> <b> Abstract: </b> <br /> A followup to last weeks hand's on session showing Cloud WAN live deployment. The session will also touch on recently launched VPC Lattice </p>
 
-<p>Session hasn't started. Join live on <b>6 April 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=1786506791&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
-
-
-
-
-<b> Video on demand will become available soon after the livestream </b>
-
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[6 April 2023]]></summary></entry><entry><title type="html">Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1</title><link href="/2023/03/30/cloud-wan-hands-on.html" rel="alternate" type="text/html" title="Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1" /><published>2023-03-30T11:30:00-07:00</published><updated>2023-03-30T11:30:00-07:00</updated><id>/2023/03/30/cloud-wan-hands-on</id><content type="html" xml:base="/2023/03/30/cloud-wan-hands-on.html"><![CDATA[<p>30 March 2023</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[6 April 2023]]></summary></entry><entry><title type="html">Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1</title><link href="/2023/03/30/cloud-wan-hands-on.html" rel="alternate" type="text/html" title="Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1" /><published>2023-03-30T11:30:00-07:00</published><updated>2023-03-30T11:30:00-07:00</updated><id>/2023/03/30/cloud-wan-hands-on</id><content type="html" xml:base="/2023/03/30/cloud-wan-hands-on.html"><![CDATA[<p>30 March 2023</p>
 
 <h1> Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1 </h1>
 

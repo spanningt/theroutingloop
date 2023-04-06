@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "AWS Cloud WAN Live deployment - Part 2 & Amazon VPC Lattice"
-videoid: 
+videoid: 1786506791
 date:   2023-04-06 10:30:00 -0800
 abstract: "A followup to last weeks hand's on session showing Cloud WAN live deployment. The session will also touch on recently launched VPC Lattice"
 hosts: "Jamie Wenzel, Alexandra Huides"
