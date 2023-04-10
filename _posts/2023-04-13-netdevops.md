@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Introduction to NetDevSecOps"
+title:  "TBC - Last minute speaker change"
 videoid: 
 date:   2023-04-13 10:30:00 -0800
-abstract: "In this session, come learn about the concept of NetDevSecOps and the key considerations that are required to be kept in mind when operating at scale. We will cover the architectural patterns, services and features, learnings that can be leveraged by you and an end-to-end demonstration of NetDevSecOps in practice"
+abstract: "Details of the session will be confirmed soon"
 hosts: "Sidhartha Chauhan"
-guests: Shiva Vaidyanathan, Principal Cloud Architect "
+guests:
 ---
 {{ page.date | date: "%-d %B %Y" }}
 
