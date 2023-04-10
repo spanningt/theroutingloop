@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "TBC - Last minute speaker change"
+title:  "Amazon VPC Lattice Deep Dive"
 videoid: 
 date:   2023-04-13 10:30:00 -0800
-abstract: "Details of the session will be confirmed soon"
-hosts: "Sidhartha Chauhan"
-guests:
+abstract: "Join us to deep dive into recently launched Amazon VPC Lattice service with the product manager. VPC Lattice is an application networking service that consistently connects, monitors, and secures communications between your services, helping to improve productivity so that your developers can focus on building features that matter to your business. "
+hosts: "Sidhartha Chauhan, Jamie Wenzel"
+guests: "Justin Davies, Principal Product Manager for Amazon VPC Lattice"
 ---
 {{ page.date | date: "%-d %B %Y" }}
 
