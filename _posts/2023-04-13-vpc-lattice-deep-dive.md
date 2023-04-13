@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Amazon VPC Lattice Deep Dive"
-videoid: 
+videoid: 1792807190
 date:   2023-04-13 10:30:00 -0800
 abstract: "Join us to deep dive into recently launched Amazon VPC Lattice service with the product manager. VPC Lattice is an application networking service that consistently connects, monitors, and secures communications between your services, helping to improve productivity so that your developers can focus on building features that matter to your business. "
 hosts: "Sidhartha Chauhan, Jamie Wenzel"
