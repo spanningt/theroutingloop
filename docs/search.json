@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Layer 4 Load Balancing - Where we are and the future",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2023/05/11/layer4-loadbalancing.html",
+      "date"     : "11 May 2023",
+      "abstract" : "Join us to discuss what L4 load balancing options you have in AWS. We will be joined by Milind, the product manager of Gateway Load Balancer and Networking Load Balancer. We will discuss each service, their features, how they were built and why. Bring your questions!"
+    } ,
+  
+    {
+      "title"    : "AWS Verified Access - OIDC Provider Integration",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2023/05/04/ava-handson.html",
+      "date"     : "04 May 2023",
+      "abstract" : "Join us for a live demo of AWS Verified Access. Built on AWS Zero Trust guiding principles, AWS Verified Access validates each and every application request before granting access. Verified Access removes the need for a VPN, which simplifies the remote connectivity experience for end users and reduces the management complexity for IT administrators."
+    } ,
+  
+    {
       "title"    : "Using AWS WAF labeling to address false positive with AMR",
       "hosts"    : "Tom Adamski",
       "url"      : "/2023/04/20/waf-managed-rules.html",

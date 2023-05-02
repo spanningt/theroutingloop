@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-04-20T11:37:51-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Using AWS WAF labeling to address false positive with AMR</title><link href="/2023/04/20/waf-managed-rules.html" rel="alternate" type="text/html" title="Using AWS WAF labeling to address false positive with AMR" /><published>2023-04-20T11:30:00-07:00</published><updated>2023-04-20T11:30:00-07:00</updated><id>/2023/04/20/waf-managed-rules</id><content type="html" xml:base="/2023/04/20/waf-managed-rules.html"><![CDATA[<p>20 April 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-02T10:42:27-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Layer 4 Load Balancing - Where we are and the future</title><link href="/2023/05/11/layer4-loadbalancing.html" rel="alternate" type="text/html" title="Layer 4 Load Balancing - Where we are and the future" /><published>2023-05-11T11:30:00-07:00</published><updated>2023-05-11T11:30:00-07:00</updated><id>/2023/05/11/layer4-loadbalancing</id><content type="html" xml:base="/2023/05/11/layer4-loadbalancing.html"><![CDATA[<p>11 May 2023</p>
+
+<h1> Layer 4 Load Balancing - Where we are and the future </h1>
+
+<p><b> Hosts: </b> <br /> Jamie Wenzel  </p>
+<p><b> Guests: </b> <br /> Milind Kulkarni, Principal Product Manager, EC2 Load Balancing  </p>
+<p> <b> Abstract: </b> <br /> Join us to discuss what L4 load balancing options you have in AWS. We will be joined by Milind, the product manager of Gateway Load Balancer and Networking Load Balancer. We will discuss each service, their features, how they were built and why. Bring your questions! </p>
+
+<p>Session hasn't started. Join live on <b>11 May 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[11 May 2023]]></summary></entry><entry><title type="html">AWS Verified Access - OIDC Provider Integration</title><link href="/2023/05/04/ava-handson.html" rel="alternate" type="text/html" title="AWS Verified Access - OIDC Provider Integration" /><published>2023-05-04T11:30:00-07:00</published><updated>2023-05-04T11:30:00-07:00</updated><id>/2023/05/04/ava-handson</id><content type="html" xml:base="/2023/05/04/ava-handson.html"><![CDATA[<p>4 May 2023</p>
+
+<h1> AWS Verified Access - OIDC Provider Integration </h1>
+
+<p><b> Hosts: </b> <br /> Tom Adamski  </p>
+<p><b> Guests: </b> <br />   </p>
+<p> <b> Abstract: </b> <br /> Join us for a live demo of AWS Verified Access. Built on AWS Zero Trust guiding principles, AWS Verified Access validates each and every application request before granting access. Verified Access removes the need for a VPN, which simplifies the remote connectivity experience for end users and reduces the management complexity for IT administrators. </p>
+
+<p>Session hasn't started. Join live on <b>4 May 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[4 May 2023]]></summary></entry><entry><title type="html">Using AWS WAF labeling to address false positive with AMR</title><link href="/2023/04/20/waf-managed-rules.html" rel="alternate" type="text/html" title="Using AWS WAF labeling to address false positive with AMR" /><published>2023-04-20T11:30:00-07:00</published><updated>2023-04-20T11:30:00-07:00</updated><id>/2023/04/20/waf-managed-rules</id><content type="html" xml:base="/2023/04/20/waf-managed-rules.html"><![CDATA[<p>20 April 2023</p>
 
 <h1> Using AWS WAF labeling to address false positive with AMR </h1>
 
@@ -86,26 +124,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1747798356&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 February 2023]]></summary></entry><entry><title type="html">Building highly available Multi-AZ/Multi-region applications</title><link href="/2023/02/16/building-ha.html" rel="alternate" type="text/html" title="Building highly available Multi-AZ/Multi-region applications" /><published>2023-02-16T10:30:00-08:00</published><updated>2023-02-16T10:30:00-08:00</updated><id>/2023/02/16/building-ha</id><content type="html" xml:base="/2023/02/16/building-ha.html"><![CDATA[<p>16 February 2023</p>
-
-<h1> Building highly available Multi-AZ/Multi-region applications </h1>
-
-<p><b> Hosts: </b> <br /> Sidhartha Chauhan  </p>
-<p><b> Guests: </b> <br /> Stanley Su, AWS Principal Product Manager for AWS Infrastructure  </p>
-<p> <b> Abstract: </b> <br /> Learn how to build highly highly available applications spanning multiple Availability Zoner or AWS Regions </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1745817855&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 February 2023]]></summary></entry><entry><title type="html">AWS Verified Access</title><link href="/2023/01/12/aws-verified-access.html" rel="alternate" type="text/html" title="AWS Verified Access" /><published>2023-01-12T10:30:00-08:00</published><updated>2023-01-12T10:30:00-08:00</updated><id>/2023/01/12/aws-verified-access</id><content type="html" xml:base="/2023/01/12/aws-verified-access.html"><![CDATA[<p>12 January 2023</p>
-
-<h1> AWS Verified Access </h1>
-
-<p><b> Hosts: </b> <br /> Tom Adamski  </p>
-<p><b> Guests: </b> <br /> Jess Szmajda, GM for AWS VPN  </p>
-<p> <b> Abstract: </b> <br /> Join us for an overview of AWS Verified Access. Built on AWS Zero Trust guiding principles, AWS Verified Access validates each and every application request before granting access. Verified Access removes the need for a VPN, which simplifies the remote connectivity experience for end users and reduces the management complexity for IT administrators. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1705366644&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 January 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 February 2023]]></summary></entry></feed>
