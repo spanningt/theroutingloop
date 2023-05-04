@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "AWS Verified Access - OIDC Provider Integration"
-videoid: 
+videoid: 1811338068
 date:   2023-05-04 10:30:00 -0800
 abstract: "Join us for a live demo of AWS Verified Access. Built on AWS Zero Trust guiding principles, AWS Verified Access validates each and every application request before granting access. Verified Access removes the need for a VPN, which simplifies the remote connectivity experience for end users and reduces the management complexity for IT administrators."
 hosts: "Tom Adamski"
