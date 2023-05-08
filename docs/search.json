@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Optimize SEO with Amazon CloudFront",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2023/05/18/cloudfront-seo.html",
+      "date"     : "18 May 2023",
+      "abstract" : "Amazon CloudFront improves the speed and quality of web delivery to the end user, and it can also be used as part of an SEO toolkit to improve page-load performance as measured by Core Web Vitals. In this talk, learn about a number of Amazon CloudFront features that can help you optimize your SEO workflow."
+    } ,
+  
+    {
       "title"    : "Layer 4 Load Balancing - Where we are and the future",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2023/05/11/layer4-loadbalancing.html",

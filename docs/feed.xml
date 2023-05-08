@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-04T11:33:51-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Layer 4 Load Balancing - Where we are and the future</title><link href="/2023/05/11/layer4-loadbalancing.html" rel="alternate" type="text/html" title="Layer 4 Load Balancing - Where we are and the future" /><published>2023-05-11T11:30:00-07:00</published><updated>2023-05-11T11:30:00-07:00</updated><id>/2023/05/11/layer4-loadbalancing</id><content type="html" xml:base="/2023/05/11/layer4-loadbalancing.html"><![CDATA[<p>11 May 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-08T09:39:07-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Optimize SEO with Amazon CloudFront</title><link href="/2023/05/18/cloudfront-seo.html" rel="alternate" type="text/html" title="Optimize SEO with Amazon CloudFront" /><published>2023-05-18T11:30:00-07:00</published><updated>2023-05-18T11:30:00-07:00</updated><id>/2023/05/18/cloudfront-seo</id><content type="html" xml:base="/2023/05/18/cloudfront-seo.html"><![CDATA[<p>18 May 2023</p>
+
+<h1> Optimize SEO with Amazon CloudFront </h1>
+
+<p><b> Hosts: </b> <br /> Sidhartha Chauhan  </p>
+<p><b> Guests: </b> <br /> Sagar Desarda, Enterprise Support Manager  </p>
+<p> <b> Abstract: </b> <br /> Amazon CloudFront improves the speed and quality of web delivery to the end user, and it can also be used as part of an SEO toolkit to improve page-load performance as measured by Core Web Vitals. In this talk, learn about a number of Amazon CloudFront features that can help you optimize your SEO workflow. </p>
+
+<p>Session hasn't started. Join live on <b>18 May 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[18 May 2023]]></summary></entry><entry><title type="html">Layer 4 Load Balancing - Where we are and the future</title><link href="/2023/05/11/layer4-loadbalancing.html" rel="alternate" type="text/html" title="Layer 4 Load Balancing - Where we are and the future" /><published>2023-05-11T11:30:00-07:00</published><updated>2023-05-11T11:30:00-07:00</updated><id>/2023/05/11/layer4-loadbalancing</id><content type="html" xml:base="/2023/05/11/layer4-loadbalancing.html"><![CDATA[<p>11 May 2023</p>
 
 <h1> Layer 4 Load Balancing - Where we are and the future </h1>
 
@@ -105,15 +124,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1753782428&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 March 2023]]></summary></entry><entry><title type="html">Advanced VPC design, and Application Architectures</title><link href="/2023/02/23/advanced-vpc.html" rel="alternate" type="text/html" title="Advanced VPC design, and Application Architectures" /><published>2023-02-23T10:30:00-08:00</published><updated>2023-02-23T10:30:00-08:00</updated><id>/2023/02/23/advanced-vpc</id><content type="html" xml:base="/2023/02/23/advanced-vpc.html"><![CDATA[<p>23 February 2023</p>
-
-<h1> Advanced VPC design, and Application Architectures </h1>
-
-<p><b> Hosts: </b> <br /> Jamie Wenzel, Matt Lehwess  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> Jamie and Matt cover advanced VPC architectures and basics of VPC networking. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1747798356&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 February 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 March 2023]]></summary></entry></feed>
