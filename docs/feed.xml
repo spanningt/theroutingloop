@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-11T08:58:57-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Optimize SEO with Amazon CloudFront</title><link href="/2023/05/18/cloudfront-seo.html" rel="alternate" type="text/html" title="Optimize SEO with Amazon CloudFront" /><published>2023-05-18T11:30:00-07:00</published><updated>2023-05-18T11:30:00-07:00</updated><id>/2023/05/18/cloudfront-seo</id><content type="html" xml:base="/2023/05/18/cloudfront-seo.html"><![CDATA[<p>18 May 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-11T12:03:50-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Optimize SEO with Amazon CloudFront</title><link href="/2023/05/18/cloudfront-seo.html" rel="alternate" type="text/html" title="Optimize SEO with Amazon CloudFront" /><published>2023-05-18T11:30:00-07:00</published><updated>2023-05-18T11:30:00-07:00</updated><id>/2023/05/18/cloudfront-seo</id><content type="html" xml:base="/2023/05/18/cloudfront-seo.html"><![CDATA[<p>18 May 2023</p>
 
 <h1> Optimize SEO with Amazon CloudFront </h1>
 
@@ -25,18 +25,12 @@
 <p><b> Guests: </b> <br /> Milind Kulkarni, Principal Product Manager, EC2 Load Balancing  </p>
 <p> <b> Abstract: </b> <br /> Join us to discuss what L4 load balancing options you have in AWS. We will be joined by Milind, the product manager of Gateway Load Balancer and Networking Load Balancer. We will discuss each service, their features, how they were built and why. Bring your questions! </p>
 
-<p>Session hasn't started. Join live on <b>11 May 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
-
-
-
-<b> Video on demand will become available soon after the livestream </b>
-
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[11 May 2023]]></summary></entry><entry><title type="html">AWS Verified Access - OIDC Provider Integration</title><link href="/2023/05/04/ava-handson.html" rel="alternate" type="text/html" title="AWS Verified Access - OIDC Provider Integration" /><published>2023-05-04T11:30:00-07:00</published><updated>2023-05-04T11:30:00-07:00</updated><id>/2023/05/04/ava-handson</id><content type="html" xml:base="/2023/05/04/ava-handson.html"><![CDATA[<p>4 May 2023</p>
+<p><b> Video on demand will become available soon after the livestream </b></p>]]></content><author><name></name></author><summary type="html"><![CDATA[11 May 2023]]></summary></entry><entry><title type="html">AWS Verified Access - OIDC Provider Integration</title><link href="/2023/05/04/ava-handson.html" rel="alternate" type="text/html" title="AWS Verified Access - OIDC Provider Integration" /><published>2023-05-04T11:30:00-07:00</published><updated>2023-05-04T11:30:00-07:00</updated><id>/2023/05/04/ava-handson</id><content type="html" xml:base="/2023/05/04/ava-handson.html"><![CDATA[<p>4 May 2023</p>
 
 <h1> AWS Verified Access - OIDC Provider Integration </h1>
 
