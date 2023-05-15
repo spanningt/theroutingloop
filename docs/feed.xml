@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-11T12:04:29-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Optimize SEO with Amazon CloudFront</title><link href="/2023/05/18/cloudfront-seo.html" rel="alternate" type="text/html" title="Optimize SEO with Amazon CloudFront" /><published>2023-05-18T11:30:00-07:00</published><updated>2023-05-18T11:30:00-07:00</updated><id>/2023/05/18/cloudfront-seo</id><content type="html" xml:base="/2023/05/18/cloudfront-seo.html"><![CDATA[<p>18 May 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-15T11:21:08-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/ipv6-world-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/ipv6-world-day</id><content type="html" xml:base="/2023/06/08/ipv6-world-day.html"><![CDATA[<p>8 June 2023</p>
+
+<h1> World IPv6 Day (ALL DAY) </h1>
+
+<p><b> Hosts: </b> <br /> Alexandra Huides, Tom Adamski  </p>
+<p><b> Guests: </b> <br /> Various Guests and Presenters throughout the day  </p>
+<p> <b> Abstract: </b> <br /> Join us for a whole day (10AM PST - 7PM PST) of sessions highlighting IPv6 within AWS networking. We'll have a mix of fireside chats, white boarding, hands-on demonstrations and presentations </p>
+
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+
+<h2> Agenda </h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%;">Time (PST)</th>
+      <th style="width: 20%;">Session Title</th>
+      <th style="width: 35%;">Session Abstract</th>
+      <th style="width: 15%;">Speaker</th>
+      <th style="width: 20%;">Video</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>10:00 - 11:00</td>
+      <td>Introduction to IPv6</td>
+      <td>Intro to IPv6 networking, VPC, subnets, DNS, routing etc</td>
+      <td>Alex, Tom</td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+    <tr>
+      <td>11:00 - 12:00</td>
+      <td>IPv6 Adoption Path</td>
+      <td>How to think about IPv6 adoption. Should I use dual stack? Should I start at the edge?</td>
+      <td><b>Adi Santhanam </b> Senior Product Manager EC2<br /> <b>Jordan Garcia Rojas </b> Networking Solutions Architect </td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+    <tr>
+      <td>12:00 - 1:00</td>
+      <td>Containers from the Couch</td>
+      <td>A look into IPv6 for containers </td>
+      <td>TBC </td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+    <tr>
+      <td>1:00 - 2:00</td>
+      <td>IPv6 AWS celebration - Features, capabilities and architectures</td>
+      <td>Fireside chat with the leadership/engineering AWS folks sharing their view on IPv6 today and in the future </td>
+      <td>TBC </td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+    <tr>
+      <td>2:00 - 3:00</td>
+      <td>Customer architectures reviews</td>
+      <td>Discuss real life customer IPv6 architectures and deployments. </td>
+      <td>TBC </td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+    <tr>
+      <td>3:00 - 4:00</td>
+      <td>Build IPv6 Global Networks</td>
+      <td>Explore AWS Cloud WAN and other network connectivity services and how they can help with IPv6 deployments </td>
+      <td><b>Ankit Chadha </b> Senior Networking Solutions Architect<br /> <b>Jordan Garcia Rojas </b> Networking Solutions Architect  </td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+    <tr>
+      <td>4:00 - 5:00</td>
+      <td>IPv6 in application networking </td>
+      <td> Amazon VPC Lattice - Secure scalable service connectivity on IPv6 </td>
+      <td><b>Justin Davies </b> Principal Product Manager<br />  <b>Ankit Chadha </b> Senior Networking Solutions Architect </td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+    <tr>
+      <td>5:00 - 6:00</td>
+      <td>IPv6 permitter </td>
+      <td> Edge connectivity and security on IPv6 - Amazon CloudFront, Amazon Global Accelerator, AWS Gateway Load Balancer, AWS Network Firewall </td>
+      <td><b>Marcin Jarota </b> Senior Networking Solutions Architect <br />  <b>Tom Adamski </b> Principal Networking Solutions Architect </td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+    <tr>
+      <td>6:00 - 7:00</td>
+      <td>Get started with IPv6 on AWS today!</td>
+      <td> Closing remarks and guidance on how to get started. </td>
+      <td><b>Peter McKiernan </b> Senior Product Marketing Manager </td>
+      <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><b> Videos on demand for each session will become available soon after the live stream </b></p>]]></content><author><name></name></author><summary type="html"><![CDATA[8 June 2023]]></summary></entry><entry><title type="html">Optimize SEO with Amazon CloudFront</title><link href="/2023/05/18/cloudfront-seo.html" rel="alternate" type="text/html" title="Optimize SEO with Amazon CloudFront" /><published>2023-05-18T11:30:00-07:00</published><updated>2023-05-18T11:30:00-07:00</updated><id>/2023/05/18/cloudfront-seo</id><content type="html" xml:base="/2023/05/18/cloudfront-seo.html"><![CDATA[<p>18 May 2023</p>
 
 <h1> Optimize SEO with Amazon CloudFront </h1>
 
@@ -105,15 +210,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1766945707&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 March 2023]]></summary></entry><entry><title type="html">Networking Ask Me Anything with Jamie and Matt</title><link href="/2023/03/02/net-ama.html" rel="alternate" type="text/html" title="Networking Ask Me Anything with Jamie and Matt" /><published>2023-03-02T10:30:00-08:00</published><updated>2023-03-02T10:30:00-08:00</updated><id>/2023/03/02/net-ama</id><content type="html" xml:base="/2023/03/02/net-ama.html"><![CDATA[<p>2 March 2023</p>
-
-<h1> Networking Ask Me Anything with Jamie and Matt </h1>
-
-<p><b> Hosts: </b> <br /> Jamie Wenzel, Matt Lehwess  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> Jamie and Matt answer your questions in this Ask Me Anything Episode (AMA) </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1753782428&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 March 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 March 2023]]></summary></entry></feed>
