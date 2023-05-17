@@ -98,7 +98,7 @@ guests: "Various Guests and Presenters throughout the day"
     </tr>
     <tr>
       <td>5:00 - 6:00</td>
-      <td>IPv6 permitter </td>
+      <td>IPv6 perimeter </td>
       <td> Edge connectivity and security on IPv6 - Amazon CloudFront, Amazon Global Accelerator, AWS Gateway Load Balancer, AWS Network Firewall </td>
       <td><b>Marcin Jarota </b> Senior Networking Solutions Architect <br>  <b>Tom Adamski </b> Principal Networking Solutions Architect </td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
