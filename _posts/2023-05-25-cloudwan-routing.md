@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Global routing with AW Cloud WAN and Direct Connect"
+title:  "Global routing with AWS Cloud WAN and Direct Connect"
 videoid: 
 date:   2023-05-25 10:30:00 -0800
 abstract: " In this session we'll whiteboard global routing scenarios with Cloud WAN and Direct Connect. We'll also highlight considerations for route manipulation across multiple DX VIFs, and Direct Connect Gateway best path selection algorithm."
