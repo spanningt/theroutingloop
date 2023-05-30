@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-24T16:02:02-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-29T21:09:56-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
 
 <h1> World IPv6 Day (ALL DAY) </h1>
 
@@ -125,18 +125,10 @@
 <p><b> Guests: </b> <br />   </p>
 <p> <b> Abstract: </b> <br />  In this session we'll whiteboard global routing scenarios with Cloud WAN and Direct Connect. We'll also highlight considerations for route manipulation across multiple DX VIFs, and Direct Connect Gateway best path selection algorithm. </p>
 
-<p>Session hasn't started. Join live on <b>25 May 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=1832965881&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
-
-
-
-
-<b> Video on demand will become available soon after the livestream </b>
-
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[25 May 2023]]></summary></entry><entry><title type="html">Optimize SEO with Amazon CloudFront</title><link href="/2023/05/18/cloudfront-seo.html" rel="alternate" type="text/html" title="Optimize SEO with Amazon CloudFront" /><published>2023-05-18T11:30:00-07:00</published><updated>2023-05-18T11:30:00-07:00</updated><id>/2023/05/18/cloudfront-seo</id><content type="html" xml:base="/2023/05/18/cloudfront-seo.html"><![CDATA[<p>18 May 2023</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 May 2023]]></summary></entry><entry><title type="html">Optimize SEO with Amazon CloudFront</title><link href="/2023/05/18/cloudfront-seo.html" rel="alternate" type="text/html" title="Optimize SEO with Amazon CloudFront" /><published>2023-05-18T11:30:00-07:00</published><updated>2023-05-18T11:30:00-07:00</updated><id>/2023/05/18/cloudfront-seo</id><content type="html" xml:base="/2023/05/18/cloudfront-seo.html"><![CDATA[<p>18 May 2023</p>
 
 <h1> Optimize SEO with Amazon CloudFront </h1>
 
