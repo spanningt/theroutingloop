@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Optimize SEO with Amazon CloudFront"
-videoid: 
+videoid: 1833382259
 date:   2023-05-18 10:30:00 -0800
 abstract: "Amazon CloudFront improves the speed and quality of web delivery to the end user, and it can also be used as part of an SEO toolkit to improve page-load performance as measured by Core Web Vitals. In this talk, learn about a number of Amazon CloudFront features that can help you optimize your SEO workflow."
 hosts: "Sidhartha Chauhan"
