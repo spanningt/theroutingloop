@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-30T11:52:44-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-05-31T08:17:39-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
 
 <h1> World IPv6 Day (ALL DAY) </h1>
 
@@ -117,7 +117,26 @@
   </tbody>
 </table>
 
-<p><b> Videos on demand for each session will become available soon after the live stream </b></p>]]></content><author><name></name></author><summary type="html"><![CDATA[8 June 2023]]></summary></entry><entry><title type="html">Global routing with AWS Cloud WAN and Direct Connect</title><link href="/2023/05/25/cloudwan-routing.html" rel="alternate" type="text/html" title="Global routing with AWS Cloud WAN and Direct Connect" /><published>2023-05-25T11:30:00-07:00</published><updated>2023-05-25T11:30:00-07:00</updated><id>/2023/05/25/cloudwan-routing</id><content type="html" xml:base="/2023/05/25/cloudwan-routing.html"><![CDATA[<p>25 May 2023</p>
+<p><b> Videos on demand for each session will become available soon after the live stream </b></p>]]></content><author><name></name></author><summary type="html"><![CDATA[8 June 2023]]></summary></entry><entry><title type="html">Hands on with VPC Lattice</title><link href="/2023/06/01/lattice-demo.html" rel="alternate" type="text/html" title="Hands on with VPC Lattice" /><published>2023-06-01T11:30:00-07:00</published><updated>2023-06-01T11:30:00-07:00</updated><id>/2023/06/01/lattice-demo</id><content type="html" xml:base="/2023/06/01/lattice-demo.html"><![CDATA[<p>1 June 2023</p>
+
+<h1> Hands on with VPC Lattice </h1>
+
+<p><b> Hosts: </b> <br /> Tom Adamski  </p>
+<p><b> Guests: </b> <br /> Tim Dormer, Specialist Solutions Architect, App Networking  </p>
+<p> <b> Abstract: </b> <br /> Join us to see Tim go through Amazon VPC Lattice Demo. VPC Lattice is an application networking service that consistently connects, monitors, and secures communications between your services, helping to improve productivity so that your developers can focus on building features that matter to your business. You can define policies for network traffic management, access, and monitoring to connect compute services in a simplified and consistent way across instances, containers, and serverless applications.  </p>
+
+<p>Session hasn't started. Join live on <b>1 June 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[1 June 2023]]></summary></entry><entry><title type="html">Global routing with AWS Cloud WAN and Direct Connect</title><link href="/2023/05/25/cloudwan-routing.html" rel="alternate" type="text/html" title="Global routing with AWS Cloud WAN and Direct Connect" /><published>2023-05-25T11:30:00-07:00</published><updated>2023-05-25T11:30:00-07:00</updated><id>/2023/05/25/cloudwan-routing</id><content type="html" xml:base="/2023/05/25/cloudwan-routing.html"><![CDATA[<p>25 May 2023</p>
 
 <h1> Global routing with AWS Cloud WAN and Direct Connect </h1>
 
@@ -205,15 +224,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1780284273&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[30 March 2023]]></summary></entry><entry><title type="html">Networking with Amazon API Gateway</title><link href="/2023/03/23/api-gateway.html" rel="alternate" type="text/html" title="Networking with Amazon API Gateway" /><published>2023-03-23T11:30:00-07:00</published><updated>2023-03-23T11:30:00-07:00</updated><id>/2023/03/23/api-gateway</id><content type="html" xml:base="/2023/03/23/api-gateway.html"><![CDATA[<p>23 March 2023</p>
-
-<h1> Networking with Amazon API Gateway </h1>
-
-<p><b> Hosts: </b> <br /> Tom Adamski  </p>
-<p><b> Guests: </b> <br /> Giedrius Praspaliauskas, Senior Solutions Architect specializing in Serverless  </p>
-<p> <b> Abstract: </b> <br /> We'll go over the networking aspects of Amazon API Gateway service. This includes executing the API (from the Internet or privately from other VPCs) as well as backend integrations. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1773477247&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 March 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[30 March 2023]]></summary></entry></feed>

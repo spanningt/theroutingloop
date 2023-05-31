@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Hands on with VPC Lattice",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2023/06/01/lattice-demo.html",
+      "date"     : "01 Jun 2023",
+      "abstract" : "Join us to see Tim go through Amazon VPC Lattice Demo. VPC Lattice is an application networking service that consistently connects, monitors, and secures communications between your services, helping to improve productivity so that your developers can focus on building features that matter to your business. You can define policies for network traffic management, access, and monitoring to connect compute services in a simplified and consistent way across instances, containers, and serverless applications. "
+    } ,
+  
+    {
       "title"    : "Global routing with AWS Cloud WAN and Direct Connect",
       "hosts"    : "Alex & Jamie",
       "url"      : "/2023/05/25/cloudwan-routing.html",
