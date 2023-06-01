@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Hands on with VPC Lattice"
-videoid: 
+videoid: 1835121086
 date:   2023-06-01 10:30:00 -0800
 abstract: "Join us to see Tim go through Amazon VPC Lattice Demo. VPC Lattice is an application networking service that consistently connects, monitors, and secures communications between your services, helping to improve productivity so that your developers can focus on building features that matter to your business. You can define policies for network traffic management, access, and monitoring to connect compute services in a simplified and consistent way across instances, containers, and serverless applications. "
 hosts: "Tom Adamski"
