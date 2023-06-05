@@ -85,7 +85,7 @@ guests: "Various Guests and Presenters throughout the day"
     <tr>
       <td>2:00 - 3:00</td>
       <td>Build IPv6 Global Networks</td>
-      <td>Explore AWS Cloud WAN and other network connectivity services and how they can help with IPv6 deployments </td>
+      <td>Explore Amazon VPC IP Address Manager for managing your IPv6 CIDRs, and AWS Cloud WAN for building a global IPv6 deployment on AWS </td>
       <td><b>Ankit Chadha </b> Senior Networking Solutions Architect<br> <b>Jordan Garcia Rojas </b> Networking Solutions Architect  </td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
     </tr>
