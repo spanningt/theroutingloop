@@ -77,7 +77,7 @@ guests: "Various Guests and Presenters throughout the day"
     </tr>
     <tr>
       <td>1:30 - 2:00</td>
-      <td>Netflix - Use Case</td>
+      <td>Netflix - Customer Use Case</td>
       <td>Hear directly from Netflix on how they implemented their IPv6 strategy </td>
       <td><b>Donavan Fritz </b>  Staff Network Platform Engineer<br> <b>Joel Kodama </b>  Senior Network Site Reliability Engineer </td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
@@ -91,16 +91,16 @@ guests: "Various Guests and Presenters throughout the day"
     </tr>
     <tr>
       <td>3:00 - 3:30</td>
-      <td>Infor - Use Case</td>
+      <td>Infor - Customer Use Case</td>
       <td>Hear directly from Infor on how they implemented their IPv6 strategy </td>
-      <td>TBC </td>
+      <td><b>Donavan Pantke </b> Director Cloud Development <br> <b>Steve Savage </b> Network Architect </td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
     </tr>
     <tr>
       <td>3:30 - 4:00</td>
       <td>IPv6 Leadership Fireside Chat</td>
       <td>Chat with AWS networking leadership and learn how AWS thinks about IPv6 strategy </td>
-      <td>TBC </td>
+      <td><b>Colin Brace</b> Director of Software Dev, EC2 VPC</td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
     </tr>
     <tr>

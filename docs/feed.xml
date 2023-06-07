@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-06T19:16:24-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-07T14:33:41-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
 
 <h1> World IPv6 Day (ALL DAY) </h1>
 
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>1:30 - 2:00</td>
-      <td>Netflix - Use Case</td>
+      <td>Netflix - Customer Use Case</td>
       <td>Hear directly from Netflix on how they implemented their IPv6 strategy </td>
       <td><b>Donavan Fritz </b>  Staff Network Platform Engineer<br /> <b>Joel Kodama </b>  Senior Network Site Reliability Engineer </td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
@@ -81,16 +81,16 @@
     </tr>
     <tr>
       <td>3:00 - 3:30</td>
-      <td>Infor - Use Case</td>
+      <td>Infor - Customer Use Case</td>
       <td>Hear directly from Infor on how they implemented their IPv6 strategy </td>
-      <td>TBC </td>
+      <td><b>Donavan Pantke </b> Director Cloud Development <br /> <b>Steve Savage </b> Network Architect </td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
     </tr>
     <tr>
       <td>3:30 - 4:00</td>
       <td>IPv6 Leadership Fireside Chat</td>
       <td>Chat with AWS networking leadership and learn how AWS thinks about IPv6 strategy </td>
-      <td>TBC </td>
+      <td><b>Colin Brace</b> Director of Software Dev, EC2 VPC</td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
     </tr>
     <tr>
