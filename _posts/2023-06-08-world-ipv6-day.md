@@ -79,7 +79,7 @@ guests: "Various Guests and Presenters throughout the day"
       <td>1:30 - 2:00</td>
       <td>Netflix - Use Case</td>
       <td>Hear directly from Netflix on how they implemented their IPv6 strategy </td>
-      <td>TBC </td>
+      <td><b>Donavan Fritz </b>  Staff Network Platform Engineer<br> <b>Joel Kodama </b>  Senior Network Site Reliability Engineer </td>
       <td><iframe src="https://player.twitch.tv/?channel=aws&parent=www.theroutingloop.net&parent=127.0.0.1&autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
     </tr>
     <tr>
