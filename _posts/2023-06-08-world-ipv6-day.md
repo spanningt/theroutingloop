@@ -3,7 +3,7 @@ layout: ipv6-layout
 title:  "World IPv6 Day (ALL DAY)"
 videoid: 
 date:   2023-06-08 10:00:00 -0800
-abstract: "Join us for a whole day (10AM PST - 7PM PST) of sessions highlighting IPv6 within AWS networking. We'll have a mix of fireside chats, white boarding, hands-on demonstrations and presentations"
+abstract: "Join us for a whole day (10:30 AM PST - 6:30 PM PST) of sessions highlighting IPv6 within AWS networking. We'll have a mix of fireside chats, white boarding, hands-on demonstrations and presentations"
 hosts: "Alexandra Huides, Tom Adamski"
 guests: "Various Guests and Presenters throughout the day"
 ---
