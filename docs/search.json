@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Operational Best Practices for Hybrid Networking",
+      "hosts"    : "Riggs Goodman",
+      "url"      : "/2023/06/29/ops-best-practice-hybrid.html",
+      "date"     : "29 Jun 2023",
+      "abstract" : "In this session, we will go deep into understanding Direct Connect.  We will provide an overview of what Direct Connect is, why customers us it, different models with connectivity, security, and resiliency."
+    } ,
+  
+    {
       "title"    : "Hybrid inspection architectures with AWS Local Zones",
       "hosts"    : "Sidhartha Chauhan",
       "url"      : "/2023/06/15/hybrid-inspeciton-lz.html",

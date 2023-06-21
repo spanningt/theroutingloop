@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-21T09:25:05-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Hybrid inspection architectures with AWS Local Zones</title><link href="/2023/06/15/hybrid-inspeciton-lz.html" rel="alternate" type="text/html" title="Hybrid inspection architectures with AWS Local Zones" /><published>2023-06-15T11:30:00-07:00</published><updated>2023-06-15T11:30:00-07:00</updated><id>/2023/06/15/hybrid-inspeciton-lz</id><content type="html" xml:base="/2023/06/15/hybrid-inspeciton-lz.html"><![CDATA[<p>15 June 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-21T09:47:38-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Operational Best Practices for Hybrid Networking</title><link href="/2023/06/29/ops-best-practice-hybrid.html" rel="alternate" type="text/html" title="Operational Best Practices for Hybrid Networking" /><published>2023-06-29T11:30:00-07:00</published><updated>2023-06-29T11:30:00-07:00</updated><id>/2023/06/29/ops-best-practice-hybrid</id><content type="html" xml:base="/2023/06/29/ops-best-practice-hybrid.html"><![CDATA[<p>29 June 2023</p>
+
+<h1> Operational Best Practices for Hybrid Networking </h1>
+
+<p><b> Hosts: </b> <br /> Riggs Goodman  </p>
+<p><b> Guests: </b> <br /> Azeem Ayaz, Specialist Technical Account Manager, Networking  </p>
+<p> <b> Abstract: </b> <br /> In this session, we will go deep into understanding Direct Connect.  We will provide an overview of what Direct Connect is, why customers us it, different models with connectivity, security, and resiliency. </p>
+
+<p>Session hasn't started. Join live on <b>29 June 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[29 June 2023]]></summary></entry><entry><title type="html">Hybrid inspection architectures with AWS Local Zones</title><link href="/2023/06/15/hybrid-inspeciton-lz.html" rel="alternate" type="text/html" title="Hybrid inspection architectures with AWS Local Zones" /><published>2023-06-15T11:30:00-07:00</published><updated>2023-06-15T11:30:00-07:00</updated><id>/2023/06/15/hybrid-inspeciton-lz</id><content type="html" xml:base="/2023/06/15/hybrid-inspeciton-lz.html"><![CDATA[<p>15 June 2023</p>
 
 <h1> Hybrid inspection architectures with AWS Local Zones </h1>
 
@@ -205,15 +224,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1792807190&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 April 2023]]></summary></entry><entry><title type="html">AWS Cloud WAN Live deployment - Part 2 &amp;amp; Amazon VPC Lattice</title><link href="/2023/04/06/cloud-wan-part2.html" rel="alternate" type="text/html" title="AWS Cloud WAN Live deployment - Part 2 &amp;amp; Amazon VPC Lattice" /><published>2023-04-06T11:30:00-07:00</published><updated>2023-04-06T11:30:00-07:00</updated><id>/2023/04/06/cloud-wan-part2</id><content type="html" xml:base="/2023/04/06/cloud-wan-part2.html"><![CDATA[<p>6 April 2023</p>
-
-<h1> AWS Cloud WAN Live deployment - Part 2 &amp; Amazon VPC Lattice </h1>
-
-<p><b> Hosts: </b> <br /> Jamie Wenzel, Alexandra Huides  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> A followup to last weeks hand's on session showing Cloud WAN live deployment. The session will also touch on recently launched VPC Lattice </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1786506791&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[6 April 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 April 2023]]></summary></entry></feed>
