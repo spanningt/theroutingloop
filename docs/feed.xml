@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-08T18:27:29-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-06-21T09:25:05-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Hybrid inspection architectures with AWS Local Zones</title><link href="/2023/06/15/hybrid-inspeciton-lz.html" rel="alternate" type="text/html" title="Hybrid inspection architectures with AWS Local Zones" /><published>2023-06-15T11:30:00-07:00</published><updated>2023-06-15T11:30:00-07:00</updated><id>/2023/06/15/hybrid-inspeciton-lz</id><content type="html" xml:base="/2023/06/15/hybrid-inspeciton-lz.html"><![CDATA[<p>15 June 2023</p>
+
+<h1> Hybrid inspection architectures with AWS Local Zones </h1>
+
+<p><b> Hosts: </b> <br /> Sidhartha Chauhan  </p>
+<p><b> Guests: </b> <br /> Mandar Alankar, Specialist Solutions Architect, Networking, Rizwan Mushtaq, Principal Solutions Architect  </p>
+<p> <b> Abstract: </b> <br /> We will talk about some hybrid inspection architectures with traffic flows, where both workloads and security inspection appliances run inside of the Local Zone, allowing customers to access their workloads from on-premises via DX not only for low latency and consistent performance but also for performing traffic inspection. </p>
+
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1852037160&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 June 2023]]></summary></entry><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
 
 <h1> World IPv6 Day (ALL DAY) </h1>
 
@@ -205,15 +216,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1786506791&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[6 April 2023]]></summary></entry><entry><title type="html">Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1</title><link href="/2023/03/30/cloud-wan-hands-on.html" rel="alternate" type="text/html" title="Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1" /><published>2023-03-30T11:30:00-07:00</published><updated>2023-03-30T11:30:00-07:00</updated><id>/2023/03/30/cloud-wan-hands-on</id><content type="html" xml:base="/2023/03/30/cloud-wan-hands-on.html"><![CDATA[<p>30 March 2023</p>
-
-<h1> Getting started with AWS CloudWAN - Live deployment from start to finish - Part 1 </h1>
-
-<p><b> Hosts: </b> <br /> Alexandra Huides, Matt Lehwess  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> Join us in this live session where we’ll configure AWS CloudWAN from start to finish! </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1780284273&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[30 March 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[6 April 2023]]></summary></entry></feed>

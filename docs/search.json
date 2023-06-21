@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Hybrid inspection architectures with AWS Local Zones",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2023/06/15/hybrid-inspeciton-lz.html",
+      "date"     : "15 Jun 2023",
+      "abstract" : "We will talk about some hybrid inspection architectures with traffic flows, where both workloads and security inspection appliances run inside of the Local Zone, allowing customers to access their workloads from on-premises via DX not only for low latency and consistent performance but also for performing traffic inspection."
+    } ,
+  
+    {
       "title"    : "World IPv6 Day (ALL DAY)",
       "hosts"    : "Alexandra Huides, Tom Adamski",
       "url"      : "/2023/06/08/world-ipv6-day.html",
