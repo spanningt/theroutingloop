@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Operational Best Practices for Hybrid Networking"
-videoid: 
+videoid: 1864000687
 date:   2023-06-29 10:30:00 -0800
 abstract: "In this session, we will go deep into understanding Direct Connect.  We will provide an overview of what Direct Connect is, why customers us it, different models with connectivity, security, and resiliency."
 hosts: "Riggs Goodman"
