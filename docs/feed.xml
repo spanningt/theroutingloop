@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-07-05T14:38:54-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Operational Best Practices for Hybrid Networking</title><link href="/2023/06/29/ops-best-practice-hybrid.html" rel="alternate" type="text/html" title="Operational Best Practices for Hybrid Networking" /><published>2023-06-29T11:30:00-07:00</published><updated>2023-06-29T11:30:00-07:00</updated><id>/2023/06/29/ops-best-practice-hybrid</id><content type="html" xml:base="/2023/06/29/ops-best-practice-hybrid.html"><![CDATA[<p>29 June 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-07-05T14:40:38-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Global routing with AWS Cloud WAN and Direct Connect - Part 2</title><link href="/2023/07/06/cloud-wan-and-dx-part-2.html" rel="alternate" type="text/html" title="Global routing with AWS Cloud WAN and Direct Connect - Part 2" /><published>2023-07-06T11:30:00-07:00</published><updated>2023-07-06T11:30:00-07:00</updated><id>/2023/07/06/cloud-wan-and-dx-part-2</id><content type="html" xml:base="/2023/07/06/cloud-wan-and-dx-part-2.html"><![CDATA[<p>6 July 2023</p>
+
+<h1> Global routing with AWS Cloud WAN and Direct Connect - Part 2 </h1>
+
+<p><b> Hosts: </b> <br /> Matt Lehwess &amp; Alexandra Huides  </p>
+<p><b> Guests: </b> <br />   </p>
+<p> <b> Abstract: </b> <br /> n this session we'll dive deeper and whiteboard more global routing scenarios with Cloud WAN and Direct Connect. We'll also highlight considerations for route manipulation across multiple DX VIFs, and Direct Connect Gateway best path selection algorithm. </p>
+
+<p>Session hasn't started. Join live on <b>6 July 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[6 July 2023]]></summary></entry><entry><title type="html">Operational Best Practices for Hybrid Networking</title><link href="/2023/06/29/ops-best-practice-hybrid.html" rel="alternate" type="text/html" title="Operational Best Practices for Hybrid Networking" /><published>2023-06-29T11:30:00-07:00</published><updated>2023-06-29T11:30:00-07:00</updated><id>/2023/06/29/ops-best-practice-hybrid</id><content type="html" xml:base="/2023/06/29/ops-best-practice-hybrid.html"><![CDATA[<p>29 June 2023</p>
 
 <h1> Operational Best Practices for Hybrid Networking </h1>
 
@@ -205,15 +224,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1798947451&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[20 April 2023]]></summary></entry><entry><title type="html">Amazon VPC Lattice Deep Dive</title><link href="/2023/04/13/vpc-lattice-deep-dive.html" rel="alternate" type="text/html" title="Amazon VPC Lattice Deep Dive" /><published>2023-04-13T11:30:00-07:00</published><updated>2023-04-13T11:30:00-07:00</updated><id>/2023/04/13/vpc-lattice-deep-dive</id><content type="html" xml:base="/2023/04/13/vpc-lattice-deep-dive.html"><![CDATA[<p>13 April 2023</p>
-
-<h1> Amazon VPC Lattice Deep Dive </h1>
-
-<p><b> Hosts: </b> <br /> Sidhartha Chauhan, Jamie Wenzel  </p>
-<p><b> Guests: </b> <br /> Justin Davies, Principal Product Manager for Amazon VPC Lattice  </p>
-<p> <b> Abstract: </b> <br /> Join us to deep dive into recently launched Amazon VPC Lattice service with the product manager. VPC Lattice is an application networking service that consistently connects, monitors, and secures communications between your services, helping to improve productivity so that your developers can focus on building features that matter to your business.  </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1792807190&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 April 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[20 April 2023]]></summary></entry></feed>
