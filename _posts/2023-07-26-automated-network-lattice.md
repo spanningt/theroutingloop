@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Global routing with AWS Cloud WAN and Direct Connect - Part 2"
-videoid: 1865201935
-date:   2023-07-06 10:30:00 -0800
-abstract: "n this session we'll dive deeper and whiteboard more global routing scenarios with Cloud WAN and Direct Connect. We'll also highlight considerations for route manipulation across multiple DX VIFs, and Direct Connect Gateway best path selection algorithm."
-hosts: "Matt Lehwess & Alexandra Huides"
-guests: 
+title:  "Automated Network Creation With VPC Lattice and Tags"
+videoid: 
+date:   2023-07-26 10:30:00 -0800
+abstract: "Come join Shawn Kaplan, an AWS Software Development Engineer helping build VPC Lattice, demonstrates a new automation tool that boosts productivity for service owners and network admins."
+hosts: "Alexandra Huides"
+guests: "Shawn Kaplan, an AWS Software Development Engineer"
 ---
 {{ page.date | date: "%-d %B %Y" }}
 
