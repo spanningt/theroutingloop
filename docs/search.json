@@ -3,8 +3,8 @@
     {
       "title"    : "Automated Network Creation With VPC Lattice and Tags",
       "hosts"    : "Alexandra Huides",
-      "url"      : "/2023/07/26/automated-network-lattice.html",
-      "date"     : "26 Jul 2023",
+      "url"      : "/2023/07/27/automated-network-lattice.html",
+      "date"     : "27 Jul 2023",
       "abstract" : "Come join Shawn Kaplan, an AWS Software Development Engineer helping build VPC Lattice, demonstrates a new automation tool that boosts productivity for service owners and network admins."
     } ,
   
