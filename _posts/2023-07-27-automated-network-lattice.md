@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Automated Network Creation With VPC Lattice and Tags"
-videoid: 
+videoid: 1883310875
 date:   2023-07-27 10:30:00 -0800
 abstract: "Come join Shawn Kaplan, an AWS Software Development Engineer helping build VPC Lattice, demonstrates a new automation tool that boosts productivity for service owners and network admins."
 hosts: "Alexandra Huides"
