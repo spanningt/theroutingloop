@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Networking Chat with Matt and Jamie",
+      "hosts"    : "Matt Lehwess & Jamie Wenzel",
+      "url"      : "/2023/08/03/net-chat.html",
+      "date"     : "03 Aug 2023",
+      "abstract" : "We’ll cover recent launches, networking architectures, and all things AWS Networking."
+    } ,
+  
+    {
       "title"    : "Automated Network Creation With VPC Lattice and Tags",
       "hosts"    : "Alexandra Huides",
       "url"      : "/2023/07/27/automated-network-lattice.html",

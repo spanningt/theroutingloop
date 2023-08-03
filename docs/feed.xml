@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-07-27T14:29:57-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Automated Network Creation With VPC Lattice and Tags</title><link href="/2023/07/27/automated-network-lattice.html" rel="alternate" type="text/html" title="Automated Network Creation With VPC Lattice and Tags" /><published>2023-07-27T11:30:00-07:00</published><updated>2023-07-27T11:30:00-07:00</updated><id>/2023/07/27/automated-network-lattice</id><content type="html" xml:base="/2023/07/27/automated-network-lattice.html"><![CDATA[<p>27 July 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-03T08:06:33-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Networking Chat with Matt and Jamie</title><link href="/2023/08/03/net-chat.html" rel="alternate" type="text/html" title="Networking Chat with Matt and Jamie" /><published>2023-08-03T11:30:00-07:00</published><updated>2023-08-03T11:30:00-07:00</updated><id>/2023/08/03/net-chat</id><content type="html" xml:base="/2023/08/03/net-chat.html"><![CDATA[<p>3 August 2023</p>
+
+<h1> Networking Chat with Matt and Jamie </h1>
+
+<p><b> Hosts: </b> <br /> Matt Lehwess &amp; Jamie Wenzel  </p>
+<p><b> Guests: </b> <br />   </p>
+<p> <b> Abstract: </b> <br /> We’ll cover recent launches, networking architectures, and all things AWS Networking. </p>
+
+<p>Session hasn't started. Join live on <b>3 August 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[3 August 2023]]></summary></entry><entry><title type="html">Automated Network Creation With VPC Lattice and Tags</title><link href="/2023/07/27/automated-network-lattice.html" rel="alternate" type="text/html" title="Automated Network Creation With VPC Lattice and Tags" /><published>2023-07-27T11:30:00-07:00</published><updated>2023-07-27T11:30:00-07:00</updated><id>/2023/07/27/automated-network-lattice</id><content type="html" xml:base="/2023/07/27/automated-network-lattice.html"><![CDATA[<p>27 July 2023</p>
 
 <h1> Automated Network Creation With VPC Lattice and Tags </h1>
 
@@ -205,15 +224,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1832965881&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 May 2023]]></summary></entry><entry><title type="html">Optimize SEO with Amazon CloudFront</title><link href="/2023/05/18/cloudfront-seo.html" rel="alternate" type="text/html" title="Optimize SEO with Amazon CloudFront" /><published>2023-05-18T11:30:00-07:00</published><updated>2023-05-18T11:30:00-07:00</updated><id>/2023/05/18/cloudfront-seo</id><content type="html" xml:base="/2023/05/18/cloudfront-seo.html"><![CDATA[<p>18 May 2023</p>
-
-<h1> Optimize SEO with Amazon CloudFront </h1>
-
-<p><b> Hosts: </b> <br /> Sidhartha Chauhan  </p>
-<p><b> Guests: </b> <br /> Sagar Desarda, AMER Tech Leader – Edge Services  </p>
-<p> <b> Abstract: </b> <br /> Amazon CloudFront improves the speed and quality of web delivery to the end user, and it can also be used as part of an SEO toolkit to improve page-load performance as measured by Core Web Vitals. In this talk, learn about a number of Amazon CloudFront features that can help you optimize your SEO workflow. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1833382259&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 May 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 May 2023]]></summary></entry></feed>
