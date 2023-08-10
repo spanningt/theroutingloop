@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-03T08:06:33-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Networking Chat with Matt and Jamie</title><link href="/2023/08/03/net-chat.html" rel="alternate" type="text/html" title="Networking Chat with Matt and Jamie" /><published>2023-08-03T11:30:00-07:00</published><updated>2023-08-03T11:30:00-07:00</updated><id>/2023/08/03/net-chat</id><content type="html" xml:base="/2023/08/03/net-chat.html"><![CDATA[<p>3 August 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-10T12:47:12-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">NetDevSecOps, and why it matters</title><link href="/2023/08/10/netdevsecops.html" rel="alternate" type="text/html" title="NetDevSecOps, and why it matters" /><published>2023-08-10T11:30:00-07:00</published><updated>2023-08-10T11:30:00-07:00</updated><id>/2023/08/10/netdevsecops</id><content type="html" xml:base="/2023/08/10/netdevsecops.html"><![CDATA[<p>10 August 2023</p>
+
+<h1> NetDevSecOps, and why it matters </h1>
+
+<p><b> Hosts: </b> <br /> Sidhartha Chauhan  </p>
+<p><b> Guests: </b> <br /> Shiva Vaidyanathan, Principal Cloud Architect  </p>
+<p> <b> Abstract: </b> <br /> Organizations are moving from traditional monolithic data center networks to an agile application programming interface (API)-driven cloud network. As a result, customers are looking for a secure and automated way to make changes to their cloud network infrastructure. In this session we will cover the modern practices of NetDevSecOps in AWS and how it will benefit organizations to build, configure and manage networks. You will see a live demo on how to inject network security and compliance as part of CI/CD pipelines and perform automated vulnerability management in networking at scale. You will leave this session understanding how to confidently release changes to your network infrastructure while maintaining the highest levels of security, auditing and compliance. </p>
+
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1895319554&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[10 August 2023]]></summary></entry><entry><title type="html">Networking Chat with Matt and Jamie</title><link href="/2023/08/03/net-chat.html" rel="alternate" type="text/html" title="Networking Chat with Matt and Jamie" /><published>2023-08-03T11:30:00-07:00</published><updated>2023-08-03T11:30:00-07:00</updated><id>/2023/08/03/net-chat</id><content type="html" xml:base="/2023/08/03/net-chat.html"><![CDATA[<p>3 August 2023</p>
 
 <h1> Networking Chat with Matt and Jamie </h1>
 
@@ -6,18 +17,12 @@
 <p><b> Guests: </b> <br />   </p>
 <p> <b> Abstract: </b> <br /> We’ll cover recent launches, networking architectures, and all things AWS Networking. </p>
 
-<p>Session hasn't started. Join live on <b>3 August 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
-
-
-
-<b> Video on demand will become available soon after the livestream </b>
-
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[3 August 2023]]></summary></entry><entry><title type="html">Automated Network Creation With VPC Lattice and Tags</title><link href="/2023/07/27/automated-network-lattice.html" rel="alternate" type="text/html" title="Automated Network Creation With VPC Lattice and Tags" /><published>2023-07-27T11:30:00-07:00</published><updated>2023-07-27T11:30:00-07:00</updated><id>/2023/07/27/automated-network-lattice</id><content type="html" xml:base="/2023/07/27/automated-network-lattice.html"><![CDATA[<p>27 July 2023</p>
+<p><b> Video on demand will become available soon after the livestream </b></p>]]></content><author><name></name></author><summary type="html"><![CDATA[3 August 2023]]></summary></entry><entry><title type="html">Automated Network Creation With VPC Lattice and Tags</title><link href="/2023/07/27/automated-network-lattice.html" rel="alternate" type="text/html" title="Automated Network Creation With VPC Lattice and Tags" /><published>2023-07-27T11:30:00-07:00</published><updated>2023-07-27T11:30:00-07:00</updated><id>/2023/07/27/automated-network-lattice</id><content type="html" xml:base="/2023/07/27/automated-network-lattice.html"><![CDATA[<p>27 July 2023</p>
 
 <h1> Automated Network Creation With VPC Lattice and Tags </h1>
 
@@ -213,15 +218,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1835121086&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 June 2023]]></summary></entry><entry><title type="html">Global routing with AWS Cloud WAN and Direct Connect</title><link href="/2023/05/25/cloudwan-routing.html" rel="alternate" type="text/html" title="Global routing with AWS Cloud WAN and Direct Connect" /><published>2023-05-25T11:30:00-07:00</published><updated>2023-05-25T11:30:00-07:00</updated><id>/2023/05/25/cloudwan-routing</id><content type="html" xml:base="/2023/05/25/cloudwan-routing.html"><![CDATA[<p>25 May 2023</p>
-
-<h1> Global routing with AWS Cloud WAN and Direct Connect </h1>
-
-<p><b> Hosts: </b> <br /> Alex &amp; Jamie  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br />  In this session we'll whiteboard global routing scenarios with Cloud WAN and Direct Connect. We'll also highlight considerations for route manipulation across multiple DX VIFs, and Direct Connect Gateway best path selection algorithm. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1832965881&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 May 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 June 2023]]></summary></entry></feed>
