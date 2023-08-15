@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-10T12:47:12-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">NetDevSecOps, and why it matters</title><link href="/2023/08/10/netdevsecops.html" rel="alternate" type="text/html" title="NetDevSecOps, and why it matters" /><published>2023-08-10T11:30:00-07:00</published><updated>2023-08-10T11:30:00-07:00</updated><id>/2023/08/10/netdevsecops</id><content type="html" xml:base="/2023/08/10/netdevsecops.html"><![CDATA[<p>10 August 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-14T17:06:10-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service.</title><link href="/2023/08/24/ai_with_pl.html" rel="alternate" type="text/html" title="Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service." /><published>2023-08-24T11:30:00-07:00</published><updated>2023-08-24T11:30:00-07:00</updated><id>/2023/08/24/ai_with_pl</id><content type="html" xml:base="/2023/08/24/ai_with_pl.html"><![CDATA[<p>24 August 2023</p>
+
+<h1> Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service. </h1>
+
+<p><b> Hosts: </b> <br /> Tom Adamski  </p>
+<p><b> Guests: </b> <br /> Uchenna Egbe, Solutions Architect AI/ML <br /> Savi Venkatachalapathy, Senior Networking Specialist  </p>
+<p> <b> Abstract: </b> <br /> Security of proprietary and sensitive data, and maintaining data privacy while continuing to access AWS services and third-party applications has been top of mind for customers and this is bolstered by the emergence of Generative AI capabilities. AWS PrivateLink provides secure, private connectivity to AWS services, SaaS applications, and customer's own applications/services. With PrivateLink AWS customer data doesn’t cross the public internet and stays within AWS private network. This allows for better security, reduced data processing costs, and improved performance with lower latency and higher throughput. In this session learn more about AWS PrivateLink service followed by a demo of PrivateLink for Amazon SagaMaker. </p>
+
+<p>Session hasn't started. Join live on <b>24 August 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[24 August 2023]]></summary></entry><entry><title type="html">Introducing NLB security groups</title><link href="/2023/08/17/nlb-sg.html" rel="alternate" type="text/html" title="Introducing NLB security groups" /><published>2023-08-17T11:30:00-07:00</published><updated>2023-08-17T11:30:00-07:00</updated><id>/2023/08/17/nlb-sg</id><content type="html" xml:base="/2023/08/17/nlb-sg.html"><![CDATA[<p>17 August 2023</p>
+
+<h1> Introducing NLB security groups </h1>
+
+<p><b> Hosts: </b> <br /> Jamie Wenzel  </p>
+<p><b> Guests: </b> <br /> Milind Kulkarni, Principal Product Manager, EC2 Load Balancing  </p>
+<p> <b> Abstract: </b> <br /> Learn how to make the most of the recent launch of Security Groups on Network Load Balancer. We'll take a look on how to enable security groups on NLB and strategies for how to use them. </p>
+
+<p>Session hasn't started. Join live on <b>17 August 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[17 August 2023]]></summary></entry><entry><title type="html">NetDevSecOps, and why it matters</title><link href="/2023/08/10/netdevsecops.html" rel="alternate" type="text/html" title="NetDevSecOps, and why it matters" /><published>2023-08-10T11:30:00-07:00</published><updated>2023-08-10T11:30:00-07:00</updated><id>/2023/08/10/netdevsecops</id><content type="html" xml:base="/2023/08/10/netdevsecops.html"><![CDATA[<p>10 August 2023</p>
 
 <h1> NetDevSecOps, and why it matters </h1>
 
@@ -88,134 +126,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1852037160&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 June 2023]]></summary></entry><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2023/06/08/world-ipv6-day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2023-06-08T11:00:00-07:00</published><updated>2023-06-08T11:00:00-07:00</updated><id>/2023/06/08/world-ipv6-day</id><content type="html" xml:base="/2023/06/08/world-ipv6-day.html"><![CDATA[<p>8 June 2023</p>
-
-<h1> World IPv6 Day (ALL DAY) </h1>
-
-<p><b> Hosts: </b> <br /> Alexandra Huides, Tom Adamski  </p>
-<p><b> Guests: </b> <br /> Various Guests and Presenters throughout the day  </p>
-<p> <b> Abstract: </b> <br /> Join us for a whole day (10:30 AM PST - 6:30 PM PST) of sessions highlighting IPv6 within AWS networking. We'll have a mix of fireside chats, white boarding, hands-on demonstrations and presentations </p>
-
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 30px;
-  }
-  
-  th, td {
-    border: 1px solid black;
-    padding: 10px;
-    text-align: left;
-  }
-  
-  th {
-    background-color: #f2f2f2;
-  }
-</style>
-
-<h2> Agenda </h2>
-
-<table>
-  <thead>
-    <tr>
-      <th style="width: 10%;">Time (PST)</th>
-      <th style="width: 20%;">Session Title</th>
-      <th style="width: 35%;">Session Abstract</th>
-      <th style="width: 15%;">Speaker</th>
-      <th style="width: 20%;">Video</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>10:30 - 11:00</td>
-      <td>Introduction to IPv6</td>
-      <td>Broad overview of IPv6 and current state globally and on AWS</td>
-      <td>Alex, Tom</td>
-      <td><iframe src="https://player.twitch.tv/?video=1841440895&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>11:00 - 12:00</td>
-      <td>IPv6 AWS celebration - Features, capabilities and architectures</td>
-      <td>Broad overview of how IPv6 is implemented across various AWS services</td>
-      <td><b>Adi Santhanam </b> Senior Product Manager EC2<br /> <b>Tom Adamski </b> Principal Networking Solutions Architect </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841444084&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>12:00 - 1:00</td>
-      <td>Containers from the Couch</td>
-      <td>How IPv6 helps with scaling container environments on EKS </td>
-      <td><b>Sheetal Joshi </b> Principal Developer Advocate<br /><b>Alexandra Huides </b> Principal Networking Solutions Architect </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841444766&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>1:00 - 1:30</td>
-      <td>IPv6 Adoption Path</td>
-      <td>How to think about IPv6 adoption. Should I use dual stack? Should I start at the edge?</td>
-      <td><b>Adi Santhanam </b> Senior Product Manager EC2<br /> <b>Jordan Garcia Rojas </b> Networking Solutions Architect </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841446362&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>1:30 - 2:00</td>
-      <td>Netflix - Customer Use Case</td>
-      <td>Hear directly from Netflix on how they implemented their IPv6 strategy </td>
-      <td><b>Donavan Fritz </b>  Staff Network Platform Engineer<br /> <b>Joel Kodama </b>  Senior Network Site Reliability Engineer </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841446783&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>2:00 - 3:00</td>
-      <td>Build IPv6 Global Networks</td>
-      <td>Explore Amazon VPC IP Address Manager for managing your IPv6 CIDRs, and AWS Cloud WAN for building a global IPv6 deployment on AWS </td>
-      <td><b>Ankit Chadha </b> Senior Networking Solutions Architect<br /> <b>Jordan Garcia Rojas </b> Networking Solutions Architect  </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841447993&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>3:00 - 3:30</td>
-      <td>Infor - Customer Use Case</td>
-      <td>Hear directly from Infor on how they implemented their IPv6 strategy </td>
-      <td><b>Donavan Pantke </b> Director Cloud Development <br /> <b>Steve Savage </b> Network Architect </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841448418&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>3:30 - 4:00</td>
-      <td>IPv6 Leadership Fireside Chat</td>
-      <td>Chat with AWS networking leadership and learn how AWS thinks about IPv6 strategy </td>
-      <td><b>Colin Brace</b> Director of Software Dev, EC2 VPC</td>
-      <td><iframe src="https://player.twitch.tv/?video=1841448852&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>4:00 - 5:00</td>
-      <td>IPv6 in application networking </td>
-      <td> Amazon VPC Lattice - Secure scalable service connectivity on IPv6 </td>
-      <td><b>Justin Davies </b> Principal Product Manager<br /> <b>Ankit Chadha </b> Senior Networking Solutions Architect </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841449406&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>5:00 - 6:00</td>
-      <td>IPv6 perimeter </td>
-      <td> Edge connectivity and security on IPv6 - Amazon CloudFront, Amazon Global Accelerator, AWS Gateway Load Balancer, AWS Network Firewall </td>
-      <td><b>Marcin Jarota </b> Senior Networking Solutions Architect <br /> <b>Tom Adamski </b> Principal Networking Solutions Architect </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841449751&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-    <tr>
-      <td>6:00 - 6:30</td>
-      <td>Get started with IPv6 on AWS today!</td>
-      <td> Closing remarks and guidance on how to get started. </td>
-      <td><b>Peter McKiernan </b> Senior Product Marketing Manager </td>
-      <td><iframe src="https://player.twitch.tv/?video=1841450487&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" frameborder="0" allowfullscreen="true"></iframe></td>
-    </tr>
-  </tbody>
-</table>
-
-<p><b> Videos on demand for each session will become available soon after the live stream </b></p>]]></content><author><name></name></author><summary type="html"><![CDATA[8 June 2023]]></summary></entry><entry><title type="html">Hands on with VPC Lattice</title><link href="/2023/06/01/lattice-demo.html" rel="alternate" type="text/html" title="Hands on with VPC Lattice" /><published>2023-06-01T11:30:00-07:00</published><updated>2023-06-01T11:30:00-07:00</updated><id>/2023/06/01/lattice-demo</id><content type="html" xml:base="/2023/06/01/lattice-demo.html"><![CDATA[<p>1 June 2023</p>
-
-<h1> Hands on with VPC Lattice </h1>
-
-<p><b> Hosts: </b> <br /> Tom Adamski  </p>
-<p><b> Guests: </b> <br /> Tim Dormer, Specialist Solutions Architect, App Networking  </p>
-<p> <b> Abstract: </b> <br /> Join us to see Tim go through Amazon VPC Lattice Demo. VPC Lattice is an application networking service that consistently connects, monitors, and secures communications between your services, helping to improve productivity so that your developers can focus on building features that matter to your business. You can define policies for network traffic management, access, and monitoring to connect compute services in a simplified and consistent way across instances, containers, and serverless applications.  </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1835121086&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 June 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 June 2023]]></summary></entry></feed>

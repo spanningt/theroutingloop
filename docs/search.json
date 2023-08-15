@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service.",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2023/08/24/ai_with_pl.html",
+      "date"     : "24 Aug 2023",
+      "abstract" : "Security of proprietary and sensitive data, and maintaining data privacy while continuing to access AWS services and third-party applications has been top of mind for customers and this is bolstered by the emergence of Generative AI capabilities. AWS PrivateLink provides secure, private connectivity to AWS services, SaaS applications, and customer&#39;s own applications/services. With PrivateLink AWS customer data doesn’t cross the public internet and stays within AWS private network. This allows for better security, reduced data processing costs, and improved performance with lower latency and higher throughput. In this session learn more about AWS PrivateLink service followed by a demo of PrivateLink for Amazon SagaMaker."
+    } ,
+  
+    {
+      "title"    : "Introducing NLB security groups",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2023/08/17/nlb-sg.html",
+      "date"     : "17 Aug 2023",
+      "abstract" : "Learn how to make the most of the recent launch of Security Groups on Network Load Balancer. We&#39;ll take a look on how to enable security groups on NLB and strategies for how to use them."
+    } ,
+  
+    {
       "title"    : "NetDevSecOps, and why it matters",
       "hosts"    : "Sidhartha Chauhan",
       "url"      : "/2023/08/10/netdevsecops.html",
