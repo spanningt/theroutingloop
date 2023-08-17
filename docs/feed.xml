@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-14T17:06:10-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service.</title><link href="/2023/08/24/ai_with_pl.html" rel="alternate" type="text/html" title="Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service." /><published>2023-08-24T11:30:00-07:00</published><updated>2023-08-24T11:30:00-07:00</updated><id>/2023/08/24/ai_with_pl</id><content type="html" xml:base="/2023/08/24/ai_with_pl.html"><![CDATA[<p>24 August 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-08-17T12:27:45-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service.</title><link href="/2023/08/24/ai_with_pl.html" rel="alternate" type="text/html" title="Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service." /><published>2023-08-24T11:30:00-07:00</published><updated>2023-08-24T11:30:00-07:00</updated><id>/2023/08/24/ai_with_pl</id><content type="html" xml:base="/2023/08/24/ai_with_pl.html"><![CDATA[<p>24 August 2023</p>
 
 <h1> Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service. </h1>
 
@@ -25,18 +25,10 @@
 <p><b> Guests: </b> <br /> Milind Kulkarni, Principal Product Manager, EC2 Load Balancing  </p>
 <p> <b> Abstract: </b> <br /> Learn how to make the most of the recent launch of Security Groups on Network Load Balancer. We'll take a look on how to enable security groups on NLB and strategies for how to use them. </p>
 
-<p>Session hasn't started. Join live on <b>17 August 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=1901380339&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
-
-
-
-
-<b> Video on demand will become available soon after the livestream </b>
-
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[17 August 2023]]></summary></entry><entry><title type="html">NetDevSecOps, and why it matters</title><link href="/2023/08/10/netdevsecops.html" rel="alternate" type="text/html" title="NetDevSecOps, and why it matters" /><published>2023-08-10T11:30:00-07:00</published><updated>2023-08-10T11:30:00-07:00</updated><id>/2023/08/10/netdevsecops</id><content type="html" xml:base="/2023/08/10/netdevsecops.html"><![CDATA[<p>10 August 2023</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[17 August 2023]]></summary></entry><entry><title type="html">NetDevSecOps, and why it matters</title><link href="/2023/08/10/netdevsecops.html" rel="alternate" type="text/html" title="NetDevSecOps, and why it matters" /><published>2023-08-10T11:30:00-07:00</published><updated>2023-08-10T11:30:00-07:00</updated><id>/2023/08/10/netdevsecops</id><content type="html" xml:base="/2023/08/10/netdevsecops.html"><![CDATA[<p>10 August 2023</p>
 
 <h1> NetDevSecOps, and why it matters </h1>
 
