@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Introduction to Amazon Route 53 Domains Service",
+      "hosts"    : "Riggs Goodman III",
+      "url"      : "/2023/08/31/r53_domains.html",
+      "date"     : "31 Aug 2023",
+      "abstract" : "In this session, we will provide an overview of the Amazon Route 53 Domains business which enables customers to register and manage their domains on AWS. We&#39;ll also provide background on domain operations and the unique benefits of using Route 53&#39;s domain registration service."
+    } ,
+  
+    {
       "title"    : "Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service.",
       "hosts"    : "Tom Adamski",
       "url"      : "/2023/08/24/ai_with_pl.html",
