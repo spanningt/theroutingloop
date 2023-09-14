@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "AWS Network Manger: Centralize management and monitoring of networking resource",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2023/09/14/net_manager.html",
+      "date"     : "14 Sep 2023",
+      "abstract" : "In this session we will provide an overview of AWS Network Manager and discuss in detail how customers can leverage Network Manager for monitoring their Transit Gateways (TGWs). We will walk through a demo of how to register and visualize your TGWs in Network Manager as well as configure (TGW) events via Network Manager for monitoring/troubleshooting purposes. We will also cover how Route Analyzer can be utilized to perform an analysis of the routes in your transit gateway route tables. "
+    } ,
+  
+    {
       "title"    : "Fireside chat with John Zobrist on the Application networking Customer Success team",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2023/09/07/app_net_fireside.html",

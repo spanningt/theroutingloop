@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-07T15:43:03-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Fireside chat with John Zobrist on the Application networking Customer Success team</title><link href="/2023/09/07/app_net_fireside.html" rel="alternate" type="text/html" title="Fireside chat with John Zobrist on the Application networking Customer Success team" /><published>2023-09-07T11:30:00-07:00</published><updated>2023-09-07T11:30:00-07:00</updated><id>/2023/09/07/app_net_fireside</id><content type="html" xml:base="/2023/09/07/app_net_fireside.html"><![CDATA[<p>7 September 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-14T11:57:57-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">AWS Network Manger: Centralize management and monitoring of networking resource</title><link href="/2023/09/14/net_manager.html" rel="alternate" type="text/html" title="AWS Network Manger: Centralize management and monitoring of networking resource" /><published>2023-09-14T11:30:00-07:00</published><updated>2023-09-14T11:30:00-07:00</updated><id>/2023/09/14/net_manager</id><content type="html" xml:base="/2023/09/14/net_manager.html"><![CDATA[<p>14 September 2023</p>
+
+<h1> AWS Network Manger: Centralize management and monitoring of networking resource </h1>
+
+<p><b> Hosts: </b> <br /> Sidhartha Chauhan  </p>
+<p><b> Guests: </b> <br /> Ankush Goyal, Senior Technical Account Manager <br /> Nishant Kumar, Senior Product Manager   </p>
+<p> <b> Abstract: </b> <br /> In this session we will provide an overview of AWS Network Manager and discuss in detail how customers can leverage Network Manager for monitoring their Transit Gateways (TGWs). We will walk through a demo of how to register and visualize your TGWs in Network Manager as well as configure (TGW) events via Network Manager for monitoring/troubleshooting purposes. We will also cover how Route Analyzer can be utilized to perform an analysis of the routes in your transit gateway route tables.  </p>
+
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1925430811&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[14 September 2023]]></summary></entry><entry><title type="html">Fireside chat with John Zobrist on the Application networking Customer Success team</title><link href="/2023/09/07/app_net_fireside.html" rel="alternate" type="text/html" title="Fireside chat with John Zobrist on the Application networking Customer Success team" /><published>2023-09-07T11:30:00-07:00</published><updated>2023-09-07T11:30:00-07:00</updated><id>/2023/09/07/app_net_fireside</id><content type="html" xml:base="/2023/09/07/app_net_fireside.html"><![CDATA[<p>7 September 2023</p>
 
 <h1> Fireside chat with John Zobrist on the Application networking Customer Success team </h1>
 
@@ -99,15 +110,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1871171375&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 July 2023]]></summary></entry><entry><title type="html">Global routing with AWS Cloud WAN and Direct Connect - Part 2</title><link href="/2023/07/06/cloud-wan-and-dx-part-2.html" rel="alternate" type="text/html" title="Global routing with AWS Cloud WAN and Direct Connect - Part 2" /><published>2023-07-06T11:30:00-07:00</published><updated>2023-07-06T11:30:00-07:00</updated><id>/2023/07/06/cloud-wan-and-dx-part-2</id><content type="html" xml:base="/2023/07/06/cloud-wan-and-dx-part-2.html"><![CDATA[<p>6 July 2023</p>
-
-<h1> Global routing with AWS Cloud WAN and Direct Connect - Part 2 </h1>
-
-<p><b> Hosts: </b> <br /> Matt Lehwess &amp; Alexandra Huides  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> n this session we'll dive deeper and whiteboard more global routing scenarios with Cloud WAN and Direct Connect. We'll also highlight considerations for route manipulation across multiple DX VIFs, and Direct Connect Gateway best path selection algorithm. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1865201935&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[6 July 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 July 2023]]></summary></entry></feed>
