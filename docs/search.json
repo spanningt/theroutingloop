@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Security for Networking",
+      "hosts"    : "Riggs Goodman III, Jamie Wenzel",
+      "url"      : "/2023/09/21/network_security.html",
+      "date"     : "21 Sep 2023",
+      "abstract" : "In this twitch session, we will focus on many security mechanisms within AWS VPC Networking, including VPC Lattice and other constructs.  If you have questions, please bring them to the show"
+    } ,
+  
+    {
       "title"    : "AWS Network Manger: Centralize management and monitoring of networking resource",
       "hosts"    : "Sidhartha Chauhan",
       "url"      : "/2023/09/14/net_manager.html",
