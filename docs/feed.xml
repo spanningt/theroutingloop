@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-18T09:53:27-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Security for Networking</title><link href="/2023/09/21/network_security.html" rel="alternate" type="text/html" title="Security for Networking" /><published>2023-09-21T11:30:00-07:00</published><updated>2023-09-21T11:30:00-07:00</updated><id>/2023/09/21/network_security</id><content type="html" xml:base="/2023/09/21/network_security.html"><![CDATA[<p>21 September 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-21T12:09:17-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Security for Networking</title><link href="/2023/09/21/network_security.html" rel="alternate" type="text/html" title="Security for Networking" /><published>2023-09-21T11:30:00-07:00</published><updated>2023-09-21T11:30:00-07:00</updated><id>/2023/09/21/network_security</id><content type="html" xml:base="/2023/09/21/network_security.html"><![CDATA[<p>21 September 2023</p>
 
 <h1> Security for Networking </h1>
 
@@ -6,18 +6,10 @@
 <p><b> Guests: </b> <br />   </p>
 <p> <b> Abstract: </b> <br /> In this twitch session, we will focus on many security mechanisms within AWS VPC Networking, including VPC Lattice and other constructs.  If you have questions, please bring them to the show </p>
 
-<p>Session hasn't started. Join live on <b>21 September 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=1931509437&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
-
-
-
-
-<b> Video on demand will become available soon after the livestream </b>
-
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[21 September 2023]]></summary></entry><entry><title type="html">AWS Network Manger: Centralize management and monitoring of networking resource</title><link href="/2023/09/14/net_manager.html" rel="alternate" type="text/html" title="AWS Network Manger: Centralize management and monitoring of networking resource" /><published>2023-09-14T11:30:00-07:00</published><updated>2023-09-14T11:30:00-07:00</updated><id>/2023/09/14/net_manager</id><content type="html" xml:base="/2023/09/14/net_manager.html"><![CDATA[<p>14 September 2023</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 September 2023]]></summary></entry><entry><title type="html">AWS Network Manger: Centralize management and monitoring of networking resource</title><link href="/2023/09/14/net_manager.html" rel="alternate" type="text/html" title="AWS Network Manger: Centralize management and monitoring of networking resource" /><published>2023-09-14T11:30:00-07:00</published><updated>2023-09-14T11:30:00-07:00</updated><id>/2023/09/14/net_manager</id><content type="html" xml:base="/2023/09/14/net_manager.html"><![CDATA[<p>14 September 2023</p>
 
 <h1> AWS Network Manger: Centralize management and monitoring of networking resource </h1>
 

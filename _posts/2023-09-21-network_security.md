@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Security for Networking"
-videoid: 
+videoid: 1931509437
 date:   2023-09-21 10:30:00 -0800
 abstract: "In this twitch session, we will focus on many security mechanisms within AWS VPC Networking, including VPC Lattice and other constructs.  If you have questions, please bring them to the show"
 hosts: "Riggs Goodman III, Jamie Wenzel"
