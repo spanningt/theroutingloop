@@ -5,7 +5,7 @@ videoid:
 date:   2023-10-19 10:30:00 -0800
 abstract: "Organizations looking to provide superior digital experiences to their users need to monitor these digital experiences proactively. In this session, you will learn more about Amazon CloudWatch Internet Monitor capabilities and roadmap that help you continuously monitor internet performance metrics, such as availability and performance between your AWS-hosted applications and application end users. Explore how you can visualize impact, pinpoint the geographic locations and providers that are impacted, and take actions as an application developer or network engineer to improve your end users’ network experience."
 hosts: "Alexandra Huides"
-guests: "Subbu Mahadevan, Senior Manager, Technical Product Management, Network Availability"
+guests: "Subbu Mahadevan, Senior Manager, Technical Product Management, Network Availability <br> Chandan Rao, Software Development Manager, IP Insights"
 ---
 {{ page.date | date: "%-d %B %Y" }}
 
