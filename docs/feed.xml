@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-09-21T12:09:17-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Security for Networking</title><link href="/2023/09/21/network_security.html" rel="alternate" type="text/html" title="Security for Networking" /><published>2023-09-21T11:30:00-07:00</published><updated>2023-09-21T11:30:00-07:00</updated><id>/2023/09/21/network_security</id><content type="html" xml:base="/2023/09/21/network_security.html"><![CDATA[<p>21 September 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-03T14:24:54-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Insights into Internet woes and application performance using CloudWatch Internet Monitor</title><link href="/2023/10/19/net_monitor.html" rel="alternate" type="text/html" title="Insights into Internet woes and application performance using CloudWatch Internet Monitor" /><published>2023-10-19T11:30:00-07:00</published><updated>2023-10-19T11:30:00-07:00</updated><id>/2023/10/19/net_monitor</id><content type="html" xml:base="/2023/10/19/net_monitor.html"><![CDATA[<p>19 October 2023</p>
+
+<h1> Insights into Internet woes and application performance using CloudWatch Internet Monitor </h1>
+
+<p><b> Hosts: </b> <br /> Alexandra Huides  </p>
+<p><b> Guests: </b> <br /> Subbu Mahadevan, Senior Manager, Technical Product Management, Network Availability  </p>
+<p> <b> Abstract: </b> <br /> Organizations looking to provide superior digital experiences to their users need to monitor these digital experiences proactively. In this session, you will learn more about Amazon CloudWatch Internet Monitor capabilities and roadmap that help you continuously monitor internet performance metrics, such as availability and performance between your AWS-hosted applications and application end users. Explore how you can visualize impact, pinpoint the geographic locations and providers that are impacted, and take actions as an application developer or network engineer to improve your end users’ network experience. </p>
+
+<p>Session hasn't started. Join live on <b>19 October 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[19 October 2023]]></summary></entry><entry><title type="html">Security for Networking</title><link href="/2023/09/21/network_security.html" rel="alternate" type="text/html" title="Security for Networking" /><published>2023-09-21T11:30:00-07:00</published><updated>2023-09-21T11:30:00-07:00</updated><id>/2023/09/21/network_security</id><content type="html" xml:base="/2023/09/21/network_security.html"><![CDATA[<p>21 September 2023</p>
 
 <h1> Security for Networking </h1>
 
@@ -99,15 +118,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1883310875&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 July 2023]]></summary></entry><entry><title type="html">Move your domain to Amazon Route 53</title><link href="/2023/07/20/migrate-to-r53.html" rel="alternate" type="text/html" title="Move your domain to Amazon Route 53" /><published>2023-07-20T11:30:00-07:00</published><updated>2023-07-20T11:30:00-07:00</updated><id>/2023/07/20/migrate-to-r53</id><content type="html" xml:base="/2023/07/20/migrate-to-r53.html"><![CDATA[<p>20 July 2023</p>
-
-<h1> Move your domain to Amazon Route 53 </h1>
-
-<p><b> Hosts: </b> <br /> Tom Adamski  </p>
-<p><b> Guests: </b> <br /> Christian Elsen, Principal Solutions Architect - Networking  </p>
-<p> <b> Abstract: </b> <br /> Join us for a live demo on how to migrate your domain to Amazon Route 53. Our DNS expert Christian will cover the best practices and pitfalls to avoid for moving your registration and/or hosting. We'll also touch on DNSSEC and how it influences the migration </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1877197514&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[20 July 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 July 2023]]></summary></entry></feed>
