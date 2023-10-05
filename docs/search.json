@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Cutting cost, not corners. You don't have to be Netflix to do IPv6 ",
+      "hosts"    : "Alexandra Huides, Tom Adamski",
+      "url"      : "/2023/10/12/netflix_ipv6.html",
+      "date"     : "12 Oct 2023",
+      "abstract" : "Join us for a session with Netflix. We&#39;ll cover how Netflix approached their migration to IPv6 and the the lessons they&#39;ve learned along the way. Expect to see practical insights into the real-world implications of adopting IPv6 at scale, including the challenges faced and the innovative solutions employed to ensure a seamless transition."
+    } ,
+  
+    {
       "title"    : "AWS Global Accelerator launches (including ELB features).",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2023/10/05/aga.html",
