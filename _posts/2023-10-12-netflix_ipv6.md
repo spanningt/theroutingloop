@@ -3,7 +3,7 @@ layout: default
 title:  "Cutting cost, not corners. You don't have to be Netflix to do IPv6 "
 videoid: 
 date:   2023-10-12 10:30:00 -0800
-abstract: "Join us for a session with Netflix. We'll cover how Netflix approached their migration to IPv6 and the the lessons they've learned along the way. Expect to see practical insights into the real-world implications of adopting IPv6 at scale, including the challenges faced and the innovative solutions employed to ensure a seamless transition."
+abstract: "Join us for a session with Netflix. We'll cover how Netflix approached their migration to IPv6 and the lessons they've learned along the way. Expect practical insights into the real-world implications of adopting IPv6 at scale, including the challenges faced and the innovative solutions employed to ensure a seamless transition."
 hosts: "Alexandra Huides, Tom Adamski"
 guests: "Donavan Fritz, Staff Network Platform Engineer <br> Joel Kodama, Senior Network Site Reliability Engineer"
 ---
