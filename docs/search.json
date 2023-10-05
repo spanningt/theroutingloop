@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "AWS Global Accelerator launches (including ELB features).",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2023/10/05/aga.html",
+      "date"     : "05 Oct 2023",
+      "abstract" : "Join us to learn about the new AWS Global Accelerator launch for supporting Source IP Preservation with AWS Network Load Balancer targets."
+    } ,
+  
+    {
       "title"    : "Security for Networking",
       "hosts"    : "Riggs Goodman III, Jamie Wenzel",
       "url"      : "/2023/09/21/network_security.html",

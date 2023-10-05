@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-03T15:24:42-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Insights into Internet woes and application performance using CloudWatch Internet Monitor</title><link href="/2023/10/19/net_monitor.html" rel="alternate" type="text/html" title="Insights into Internet woes and application performance using CloudWatch Internet Monitor" /><published>2023-10-19T11:30:00-07:00</published><updated>2023-10-19T11:30:00-07:00</updated><id>/2023/10/19/net_monitor</id><content type="html" xml:base="/2023/10/19/net_monitor.html"><![CDATA[<p>19 October 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-05T12:21:47-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Insights into Internet woes and application performance using CloudWatch Internet Monitor</title><link href="/2023/10/19/net_monitor.html" rel="alternate" type="text/html" title="Insights into Internet woes and application performance using CloudWatch Internet Monitor" /><published>2023-10-19T11:30:00-07:00</published><updated>2023-10-19T11:30:00-07:00</updated><id>/2023/10/19/net_monitor</id><content type="html" xml:base="/2023/10/19/net_monitor.html"><![CDATA[<p>19 October 2023</p>
 
 <h1> Insights into Internet woes and application performance using CloudWatch Internet Monitor </h1>
 
@@ -17,7 +17,18 @@
 
 <b> Video on demand will become available soon after the livestream </b>
 
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[19 October 2023]]></summary></entry><entry><title type="html">Security for Networking</title><link href="/2023/09/21/network_security.html" rel="alternate" type="text/html" title="Security for Networking" /><published>2023-09-21T11:30:00-07:00</published><updated>2023-09-21T11:30:00-07:00</updated><id>/2023/09/21/network_security</id><content type="html" xml:base="/2023/09/21/network_security.html"><![CDATA[<p>21 September 2023</p>
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[19 October 2023]]></summary></entry><entry><title type="html">AWS Global Accelerator launches (including ELB features).</title><link href="/2023/10/05/aga.html" rel="alternate" type="text/html" title="AWS Global Accelerator launches (including ELB features)." /><published>2023-10-05T11:30:00-07:00</published><updated>2023-10-05T11:30:00-07:00</updated><id>/2023/10/05/aga</id><content type="html" xml:base="/2023/10/05/aga.html"><![CDATA[<p>5 October 2023</p>
+
+<h1> AWS Global Accelerator launches (including ELB features). </h1>
+
+<p><b> Hosts: </b> <br /> Jamie Wenzel  </p>
+<p><b> Guests: </b> <br /> Sandeep Panda, Senior Product Manager  </p>
+<p> <b> Abstract: </b> <br /> Join us to learn about the new AWS Global Accelerator launch for supporting Source IP Preservation with AWS Network Load Balancer targets. </p>
+
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1943415852&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[5 October 2023]]></summary></entry><entry><title type="html">Security for Networking</title><link href="/2023/09/21/network_security.html" rel="alternate" type="text/html" title="Security for Networking" /><published>2023-09-21T11:30:00-07:00</published><updated>2023-09-21T11:30:00-07:00</updated><id>/2023/09/21/network_security</id><content type="html" xml:base="/2023/09/21/network_security.html"><![CDATA[<p>21 September 2023</p>
 
 <h1> Security for Networking </h1>
 
@@ -107,15 +118,4 @@
     </iframe>
 </div>
 
-<p><b> Video on demand will become available soon after the livestream </b></p>]]></content><author><name></name></author><summary type="html"><![CDATA[3 August 2023]]></summary></entry><entry><title type="html">Automated Network Creation With VPC Lattice and Tags</title><link href="/2023/07/27/automated-network-lattice.html" rel="alternate" type="text/html" title="Automated Network Creation With VPC Lattice and Tags" /><published>2023-07-27T11:30:00-07:00</published><updated>2023-07-27T11:30:00-07:00</updated><id>/2023/07/27/automated-network-lattice</id><content type="html" xml:base="/2023/07/27/automated-network-lattice.html"><![CDATA[<p>27 July 2023</p>
-
-<h1> Automated Network Creation With VPC Lattice and Tags </h1>
-
-<p><b> Hosts: </b> <br /> Alexandra Huides  </p>
-<p><b> Guests: </b> <br /> Shawn Kaplan, AWS Software Development Engineer <br /> Justin Davies, Principal Product Manager  </p>
-<p> <b> Abstract: </b> <br /> Come join Shawn Kaplan, an AWS Software Development Engineer helping build VPC Lattice, demonstrates a new automation tool that boosts productivity for service owners and network admins. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1883310875&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[27 July 2023]]></summary></entry></feed>
+<p><b> Video on demand will become available soon after the livestream </b></p>]]></content><author><name></name></author><summary type="html"><![CDATA[3 August 2023]]></summary></entry></feed>
