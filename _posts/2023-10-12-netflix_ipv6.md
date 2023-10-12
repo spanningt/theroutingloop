@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Cutting cost, not corners. You don't have to be Netflix to do IPv6 "
-videoid: 
+videoid: 1949353252
 date:   2023-10-12 10:30:00 -0800
 abstract: "Join us for a session with Netflix. We'll cover how Netflix approached their migration to IPv6 and the lessons they've learned along the way. Expect practical insights into the real-world implications of adopting IPv6 at scale, including the challenges faced and the innovative solutions employed to ensure a seamless transition."
 hosts: "Alexandra Huides, Tom Adamski"
