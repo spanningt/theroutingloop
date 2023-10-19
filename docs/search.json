@@ -5,7 +5,7 @@
       "hosts"    : "Tom Adamski",
       "url"      : "/2023/10/26/fraud_fingerprints.html",
       "date"     : "26 Oct 2023",
-      "abstract" : "Join us to deep dive into signals on multiple IP reuse by bots, password brute force attacks and username traversal attempts. We will also suspicious TLS fingerprints signal and composite rate limiting using JA3 fingerprints and JWT tokens."
+      "abstract" : "Join us to deep dive into signals on multiple IP reuse by bots, password brute force attacks and username traversal attempts. We will also discuss suspicious TLS fingerprints signal and composite rate limiting using JA3 fingerprints and JWT tokens."
     } ,
   
     {
