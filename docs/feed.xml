@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-12T13:39:57-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Insights into Internet woes and application performance using CloudWatch Internet Monitor</title><link href="/2023/10/19/net_monitor.html" rel="alternate" type="text/html" title="Insights into Internet woes and application performance using CloudWatch Internet Monitor" /><published>2023-10-19T11:30:00-07:00</published><updated>2023-10-19T11:30:00-07:00</updated><id>/2023/10/19/net_monitor</id><content type="html" xml:base="/2023/10/19/net_monitor.html"><![CDATA[<p>19 October 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-19T12:17:04-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Protecting against login fraud using WAF/ATP/JA3 fingerprints</title><link href="/2023/10/26/fraud_fingerprints.html" rel="alternate" type="text/html" title="Protecting against login fraud using WAF/ATP/JA3 fingerprints" /><published>2023-10-26T11:30:00-07:00</published><updated>2023-10-26T11:30:00-07:00</updated><id>/2023/10/26/fraud_fingerprints</id><content type="html" xml:base="/2023/10/26/fraud_fingerprints.html"><![CDATA[<p>26 October 2023</p>
 
-<h1> Insights into Internet woes and application performance using CloudWatch Internet Monitor </h1>
+<h1> Protecting against login fraud using WAF/ATP/JA3 fingerprints  </h1>
 
-<p><b> Hosts: </b> <br /> Alexandra Huides  </p>
-<p><b> Guests: </b> <br /> Subbu Mahadevan, Senior Manager, Technical Product Management, Network Availability <br /> Chandan Rao, Software Development Manager, IP Insights  </p>
-<p> <b> Abstract: </b> <br /> Organizations looking to provide superior digital experiences to their users need to monitor these digital experiences proactively. In this session, you will learn more about Amazon CloudWatch Internet Monitor capabilities and roadmap that help you continuously monitor internet performance metrics, such as availability and performance between your AWS-hosted applications and application end users. Explore how you can visualize impact, pinpoint the geographic locations and providers that are impacted, and take actions as an application developer or network engineer to improve your end users’ network experience. </p>
+<p><b> Hosts: </b> <br /> Tom Adamski  </p>
+<p><b> Guests: </b> <br /> Oleksandr Golovatyi, Senior Technical Account Manager <br /> Jess Izen, Senior Software Development Engineer  </p>
+<p> <b> Abstract: </b> <br /> Join us to deep dive into signals on multiple IP reuse by bots, password brute force attacks and username traversal attempts. We will also suspicious TLS fingerprints signal and composite rate limiting using JA3 fingerprints and JWT tokens. </p>
 
-<p>Session hasn't started. Join live on <b>19 October 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<p>Session hasn't started. Join live on <b>26 October 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
@@ -17,7 +17,18 @@
 
 <b> Video on demand will become available soon after the livestream </b>
 
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[19 October 2023]]></summary></entry><entry><title type="html">Cutting cost, not corners. You don’t have to be Netflix to do IPv6</title><link href="/2023/10/12/netflix_ipv6.html" rel="alternate" type="text/html" title="Cutting cost, not corners. You don’t have to be Netflix to do IPv6" /><published>2023-10-12T11:30:00-07:00</published><updated>2023-10-12T11:30:00-07:00</updated><id>/2023/10/12/netflix_ipv6</id><content type="html" xml:base="/2023/10/12/netflix_ipv6.html"><![CDATA[<p>12 October 2023</p>
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[26 October 2023]]></summary></entry><entry><title type="html">Insights into Internet woes and application performance using CloudWatch Internet Monitor</title><link href="/2023/10/19/net_monitor.html" rel="alternate" type="text/html" title="Insights into Internet woes and application performance using CloudWatch Internet Monitor" /><published>2023-10-19T11:30:00-07:00</published><updated>2023-10-19T11:30:00-07:00</updated><id>/2023/10/19/net_monitor</id><content type="html" xml:base="/2023/10/19/net_monitor.html"><![CDATA[<p>19 October 2023</p>
+
+<h1> Insights into Internet woes and application performance using CloudWatch Internet Monitor </h1>
+
+<p><b> Hosts: </b> <br /> Alexandra Huides  </p>
+<p><b> Guests: </b> <br /> Subbu Mahadevan, Senior Manager, Technical Product Management, Network Availability <br /> Chandan Rao, Software Development Manager, IP Insights  </p>
+<p> <b> Abstract: </b> <br /> Organizations looking to provide superior digital experiences to their users need to monitor these digital experiences proactively. In this session, you will learn more about Amazon CloudWatch Internet Monitor capabilities and roadmap that help you continuously monitor internet performance metrics, such as availability and performance between your AWS-hosted applications and application end users. Explore how you can visualize impact, pinpoint the geographic locations and providers that are impacted, and take actions as an application developer or network engineer to improve your end users’ network experience. </p>
+
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=1955090316&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 October 2023]]></summary></entry><entry><title type="html">Cutting cost, not corners. You don’t have to be Netflix to do IPv6</title><link href="/2023/10/12/netflix_ipv6.html" rel="alternate" type="text/html" title="Cutting cost, not corners. You don’t have to be Netflix to do IPv6" /><published>2023-10-12T11:30:00-07:00</published><updated>2023-10-12T11:30:00-07:00</updated><id>/2023/10/12/netflix_ipv6</id><content type="html" xml:base="/2023/10/12/netflix_ipv6.html"><![CDATA[<p>12 October 2023</p>
 
 <h1> Cutting cost, not corners. You don't have to be Netflix to do IPv6  </h1>
 
@@ -105,15 +116,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1901380339&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[17 August 2023]]></summary></entry><entry><title type="html">NetDevSecOps, and why it matters</title><link href="/2023/08/10/netdevsecops.html" rel="alternate" type="text/html" title="NetDevSecOps, and why it matters" /><published>2023-08-10T11:30:00-07:00</published><updated>2023-08-10T11:30:00-07:00</updated><id>/2023/08/10/netdevsecops</id><content type="html" xml:base="/2023/08/10/netdevsecops.html"><![CDATA[<p>10 August 2023</p>
-
-<h1> NetDevSecOps, and why it matters </h1>
-
-<p><b> Hosts: </b> <br /> Sidhartha Chauhan  </p>
-<p><b> Guests: </b> <br /> Shiva Vaidyanathan, Principal Cloud Architect  </p>
-<p> <b> Abstract: </b> <br /> Organizations are moving from traditional monolithic data center networks to an agile application programming interface (API)-driven cloud network. As a result, customers are looking for a secure and automated way to make changes to their cloud network infrastructure. In this session we will cover the modern practices of NetDevSecOps in AWS and how it will benefit organizations to build, configure and manage networks. You will see a live demo on how to inject network security and compliance as part of CI/CD pipelines and perform automated vulnerability management in networking at scale. You will leave this session understanding how to confidently release changes to your network infrastructure while maintaining the highest levels of security, auditing and compliance. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1895319554&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[10 August 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[17 August 2023]]></summary></entry></feed>

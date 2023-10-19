@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Insights into Internet woes and application performance using CloudWatch Internet Monitor"
-videoid: 1955090316
-date:   2023-10-19 10:30:00 -0800
-abstract: "Organizations looking to provide superior digital experiences to their users need to monitor these digital experiences proactively. In this session, you will learn more about Amazon CloudWatch Internet Monitor capabilities and roadmap that help you continuously monitor internet performance metrics, such as availability and performance between your AWS-hosted applications and application end users. Explore how you can visualize impact, pinpoint the geographic locations and providers that are impacted, and take actions as an application developer or network engineer to improve your end users’ network experience."
-hosts: "Alexandra Huides"
-guests: "Subbu Mahadevan, Senior Manager, Technical Product Management, Network Availability <br> Chandan Rao, Software Development Manager, IP Insights"
+title:  "Protecting against login fraud using WAF/ATP/JA3 fingerprints "
+videoid: 
+date:   2023-10-26 10:30:00 -0800
+abstract: "Join us to deep dive into signals on multiple IP reuse by bots, password brute force attacks and username traversal attempts. We will also suspicious TLS fingerprints signal and composite rate limiting using JA3 fingerprints and JWT tokens."
+hosts: "Tom Adamski"
+guests: "Oleksandr Golovatyi, Senior Technical Account Manager <br> Jess Izen, Senior Software Development Engineer"
 ---
 {{ page.date | date: "%-d %B %Y" }}
 
