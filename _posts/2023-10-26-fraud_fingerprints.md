@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Protecting against login fraud using WAF/ATP/JA3 fingerprints "
-videoid: 
+videoid: 1960957170
 date:   2023-10-26 10:30:00 -0800
 abstract: "Join us to deep dive into signals on multiple IP reuse by bots, password brute force attacks and username traversal attempts. We will also discuss suspicious TLS fingerprints signal and composite rate limiting using JA3 fingerprints and JWT tokens."
 hosts: "Tom Adamski"
