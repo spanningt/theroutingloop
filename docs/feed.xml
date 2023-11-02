@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-10-26T12:56:02-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Protecting against login fraud using WAF/ATP/JA3 fingerprints</title><link href="/2023/10/26/fraud_fingerprints.html" rel="alternate" type="text/html" title="Protecting against login fraud using WAF/ATP/JA3 fingerprints" /><published>2023-10-26T11:30:00-07:00</published><updated>2023-10-26T11:30:00-07:00</updated><id>/2023/10/26/fraud_fingerprints</id><content type="html" xml:base="/2023/10/26/fraud_fingerprints.html"><![CDATA[<p>26 October 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-11-02T08:06:58-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Sneak Peak - AWS Networking</title><link href="/2023/11/09/reInvent_sneak_peak.html" rel="alternate" type="text/html" title="re:Invent 2023 Sneak Peak - AWS Networking" /><published>2023-11-09T10:30:00-08:00</published><updated>2023-11-09T10:30:00-08:00</updated><id>/2023/11/09/reInvent_sneak_peak</id><content type="html" xml:base="/2023/11/09/reInvent_sneak_peak.html"><![CDATA[<p>9 November 2023</p>
+
+<h1> re:Invent 2023 Sneak Peak - AWS Networking  </h1>
+
+<p><b> Hosts: </b> <br /> Riggs Goodman III &amp; Tom Adamski  </p>
+<p><b> Guests: </b> <br />   </p>
+<p> <b> Abstract: </b> <br /> In this session, we will cover the Networking focused sessions that we will have at re:Invent this year. These include breakout sessions, chalk talks, workshops,and builder sessions.  If you are not going to re:Invent, we will also cover how to attend virtually or how to watch the sessions after the event. </p>
+
+<p>Session hasn't started. Join live on <b>9 November 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[9 November 2023]]></summary></entry><entry><title type="html">Designing AWS networks for growth and scale</title><link href="/2023/11/02/network_scale.html" rel="alternate" type="text/html" title="Designing AWS networks for growth and scale" /><published>2023-11-02T11:30:00-07:00</published><updated>2023-11-02T11:30:00-07:00</updated><id>/2023/11/02/network_scale</id><content type="html" xml:base="/2023/11/02/network_scale.html"><![CDATA[<p>2 November 2023</p>
+
+<h1> Designing AWS networks for growth and scale  </h1>
+
+<p><b> Hosts: </b> <br /> Sidhartha Chauhan &amp; Tom Adamski  </p>
+<p><b> Guests: </b> <br />   </p>
+<p> <b> Abstract: </b> <br /> As companies grow, their AWS network architectures need to evolve to accommodate increasing traffic, security needs, and complexity. This session will provide strategies and best practices for designing scalable, secure, and highly available AWS networks. We will discuss how to design VPCs, subnets, route tables, security groups, and other components to allow for future growth. Topics will include choosing the right VPC topology, connecting VPCs and hybrid networks with AWS Transit Gateway, AWS Cloud WAN, building hub-and-spoke models, and integrating network security tools. Attendees will learn how to assess current workloads and plan network changes to support growth over time. The session will cover options for scaling up network capacity, segmenting resources, and automating network management tasks. Architects, network administrators, and cloud practitioners looking to design future-ready AWS networks that can evolve smoothly will find practical takeaways. </p>
+
+<p>Session hasn't started. Join live on <b>2 November 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
+
+
+
+<b> Video on demand will become available soon after the livestream </b>
+
+</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[2 November 2023]]></summary></entry><entry><title type="html">Protecting against login fraud using WAF/ATP/JA3 fingerprints</title><link href="/2023/10/26/fraud_fingerprints.html" rel="alternate" type="text/html" title="Protecting against login fraud using WAF/ATP/JA3 fingerprints" /><published>2023-10-26T11:30:00-07:00</published><updated>2023-10-26T11:30:00-07:00</updated><id>/2023/10/26/fraud_fingerprints</id><content type="html" xml:base="/2023/10/26/fraud_fingerprints.html"><![CDATA[<p>26 October 2023</p>
 
 <h1> Protecting against login fraud using WAF/ATP/JA3 fingerprints  </h1>
 
@@ -86,26 +124,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1916605881&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[31 August 2023]]></summary></entry><entry><title type="html">Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service.</title><link href="/2023/08/24/ai_with_pl.html" rel="alternate" type="text/html" title="Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service." /><published>2023-08-24T11:30:00-07:00</published><updated>2023-08-24T11:30:00-07:00</updated><id>/2023/08/24/ai_with_pl</id><content type="html" xml:base="/2023/08/24/ai_with_pl.html"><![CDATA[<p>24 August 2023</p>
-
-<h1> Enhance data security and privacy for traditional AI/ML and Generative AI workloads with AWS PrivateLink service. </h1>
-
-<p><b> Hosts: </b> <br /> Tom Adamski  </p>
-<p><b> Guests: </b> <br /> Uchenna Egbe, Solutions Architect AI/ML <br /> Savi Venkatachalapathy, Senior Networking Specialist  </p>
-<p> <b> Abstract: </b> <br /> Security of proprietary and sensitive data, and maintaining data privacy while continuing to access AWS services and third-party applications has been top of mind for customers and this is bolstered by the emergence of Generative AI capabilities. AWS PrivateLink provides secure, private connectivity to AWS services, SaaS applications, and customer's own applications/services. With PrivateLink AWS customer data doesn’t cross the public internet and stays within AWS private network. This allows for better security, reduced data processing costs, and improved performance with lower latency and higher throughput. In this session learn more about AWS PrivateLink service followed by a demo of PrivateLink for Amazon SagaMaker. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1907475624&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[24 August 2023]]></summary></entry><entry><title type="html">Introducing NLB security groups</title><link href="/2023/08/17/nlb-sg.html" rel="alternate" type="text/html" title="Introducing NLB security groups" /><published>2023-08-17T11:30:00-07:00</published><updated>2023-08-17T11:30:00-07:00</updated><id>/2023/08/17/nlb-sg</id><content type="html" xml:base="/2023/08/17/nlb-sg.html"><![CDATA[<p>17 August 2023</p>
-
-<h1> Introducing NLB security groups </h1>
-
-<p><b> Hosts: </b> <br /> Jamie Wenzel  </p>
-<p><b> Guests: </b> <br /> Milind Kulkarni, Principal Product Manager, EC2 Load Balancing  </p>
-<p> <b> Abstract: </b> <br /> Learn how to make the most of the recent launch of Security Groups on Network Load Balancer. We'll take a look on how to enable security groups on NLB and strategies for how to use them. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1901380339&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[17 August 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[31 August 2023]]></summary></entry></feed>
