@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Designing AWS networks for growth and scale "
-videoid: 
+videoid: 1966828693
 date:   2023-11-02 10:30:00 -0800
 abstract: "As companies grow, their AWS network architectures need to evolve to accommodate increasing traffic, security needs, and complexity. This session will provide strategies and best practices for designing scalable, secure, and highly available AWS networks. We will discuss how to design VPCs, subnets, route tables, security groups, and other components to allow for future growth. Topics will include choosing the right VPC topology, connecting VPCs and hybrid networks with AWS Transit Gateway, AWS Cloud WAN, building hub-and-spoke models, and integrating network security tools. Attendees will learn how to assess current workloads and plan network changes to support growth over time. The session will cover options for scaling up network capacity, segmenting resources, and automating network management tasks. Architects, network administrators, and cloud practitioners looking to design future-ready AWS networks that can evolve smoothly will find practical takeaways."
 hosts: "Sidhartha Chauhan & Tom Adamski"

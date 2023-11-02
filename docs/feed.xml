@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-11-02T08:06:58-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Sneak Peak - AWS Networking</title><link href="/2023/11/09/reInvent_sneak_peak.html" rel="alternate" type="text/html" title="re:Invent 2023 Sneak Peak - AWS Networking" /><published>2023-11-09T10:30:00-08:00</published><updated>2023-11-09T10:30:00-08:00</updated><id>/2023/11/09/reInvent_sneak_peak</id><content type="html" xml:base="/2023/11/09/reInvent_sneak_peak.html"><![CDATA[<p>9 November 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-11-02T12:13:16-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Sneak Peak - AWS Networking</title><link href="/2023/11/09/reInvent_sneak_peak.html" rel="alternate" type="text/html" title="re:Invent 2023 Sneak Peak - AWS Networking" /><published>2023-11-09T10:30:00-08:00</published><updated>2023-11-09T10:30:00-08:00</updated><id>/2023/11/09/reInvent_sneak_peak</id><content type="html" xml:base="/2023/11/09/reInvent_sneak_peak.html"><![CDATA[<p>9 November 2023</p>
 
 <h1> re:Invent 2023 Sneak Peak - AWS Networking  </h1>
 
@@ -25,18 +25,10 @@
 <p><b> Guests: </b> <br />   </p>
 <p> <b> Abstract: </b> <br /> As companies grow, their AWS network architectures need to evolve to accommodate increasing traffic, security needs, and complexity. This session will provide strategies and best practices for designing scalable, secure, and highly available AWS networks. We will discuss how to design VPCs, subnets, route tables, security groups, and other components to allow for future growth. Topics will include choosing the right VPC topology, connecting VPCs and hybrid networks with AWS Transit Gateway, AWS Cloud WAN, building hub-and-spoke models, and integrating network security tools. Attendees will learn how to assess current workloads and plan network changes to support growth over time. The session will cover options for scaling up network capacity, segmenting resources, and automating network management tasks. Architects, network administrators, and cloud practitioners looking to design future-ready AWS networks that can evolve smoothly will find practical takeaways. </p>
 
-<p>Session hasn't started. Join live on <b>2 November 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=1966828693&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
-
-
-
-
-<b> Video on demand will become available soon after the livestream </b>
-
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[2 November 2023]]></summary></entry><entry><title type="html">Protecting against login fraud using WAF/ATP/JA3 fingerprints</title><link href="/2023/10/26/fraud_fingerprints.html" rel="alternate" type="text/html" title="Protecting against login fraud using WAF/ATP/JA3 fingerprints" /><published>2023-10-26T11:30:00-07:00</published><updated>2023-10-26T11:30:00-07:00</updated><id>/2023/10/26/fraud_fingerprints</id><content type="html" xml:base="/2023/10/26/fraud_fingerprints.html"><![CDATA[<p>26 October 2023</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 November 2023]]></summary></entry><entry><title type="html">Protecting against login fraud using WAF/ATP/JA3 fingerprints</title><link href="/2023/10/26/fraud_fingerprints.html" rel="alternate" type="text/html" title="Protecting against login fraud using WAF/ATP/JA3 fingerprints" /><published>2023-10-26T11:30:00-07:00</published><updated>2023-10-26T11:30:00-07:00</updated><id>/2023/10/26/fraud_fingerprints</id><content type="html" xml:base="/2023/10/26/fraud_fingerprints.html"><![CDATA[<p>26 October 2023</p>
 
 <h1> Protecting against login fraud using WAF/ATP/JA3 fingerprints  </h1>
 
