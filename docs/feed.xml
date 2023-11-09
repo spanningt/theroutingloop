@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-11-02T12:13:16-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Sneak Peak - AWS Networking</title><link href="/2023/11/09/reInvent_sneak_peak.html" rel="alternate" type="text/html" title="re:Invent 2023 Sneak Peak - AWS Networking" /><published>2023-11-09T10:30:00-08:00</published><updated>2023-11-09T10:30:00-08:00</updated><id>/2023/11/09/reInvent_sneak_peak</id><content type="html" xml:base="/2023/11/09/reInvent_sneak_peak.html"><![CDATA[<p>9 November 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-11-09T12:06:20-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Sneak Peak - AWS Networking</title><link href="/2023/11/09/reInvent_sneak_peak.html" rel="alternate" type="text/html" title="re:Invent 2023 Sneak Peak - AWS Networking" /><published>2023-11-09T10:30:00-08:00</published><updated>2023-11-09T10:30:00-08:00</updated><id>/2023/11/09/reInvent_sneak_peak</id><content type="html" xml:base="/2023/11/09/reInvent_sneak_peak.html"><![CDATA[<p>9 November 2023</p>
 
 <h1> re:Invent 2023 Sneak Peak - AWS Networking  </h1>
 
@@ -6,18 +6,10 @@
 <p><b> Guests: </b> <br />   </p>
 <p> <b> Abstract: </b> <br /> In this session, we will cover the Networking focused sessions that we will have at re:Invent this year. These include breakout sessions, chalk talks, workshops,and builder sessions.  If you are not going to re:Invent, we will also cover how to attend virtually or how to watch the sessions after the event. </p>
 
-<p>Session hasn't started. Join live on <b>9 November 2023 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
 <div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    <iframe src="https://player.twitch.tv/?video=1972974532&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>
-
-
-
-
-<b> Video on demand will become available soon after the livestream </b>
-
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[9 November 2023]]></summary></entry><entry><title type="html">Designing AWS networks for growth and scale</title><link href="/2023/11/02/network_scale.html" rel="alternate" type="text/html" title="Designing AWS networks for growth and scale" /><published>2023-11-02T11:30:00-07:00</published><updated>2023-11-02T11:30:00-07:00</updated><id>/2023/11/02/network_scale</id><content type="html" xml:base="/2023/11/02/network_scale.html"><![CDATA[<p>2 November 2023</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[9 November 2023]]></summary></entry><entry><title type="html">Designing AWS networks for growth and scale</title><link href="/2023/11/02/network_scale.html" rel="alternate" type="text/html" title="Designing AWS networks for growth and scale" /><published>2023-11-02T11:30:00-07:00</published><updated>2023-11-02T11:30:00-07:00</updated><id>/2023/11/02/network_scale</id><content type="html" xml:base="/2023/11/02/network_scale.html"><![CDATA[<p>2 November 2023</p>
 
 <h1> Designing AWS networks for growth and scale  </h1>
 

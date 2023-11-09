@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2023 Sneak Peak - AWS Networking "
-videoid: 
+videoid: 1972974532
 date:   2023-11-09 10:30:00 -0800
 abstract: "In this session, we will cover the Networking focused sessions that we will have at re:Invent this year. These include breakout sessions, chalk talks, workshops,and builder sessions.  If you are not going to re:Invent, we will also cover how to attend virtually or how to watch the sessions after the event."
 hosts: "Riggs Goodman III & Tom Adamski"
