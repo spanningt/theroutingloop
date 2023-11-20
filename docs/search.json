@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Strategies for adopting, maintaining and innovating with AWS Application networking.",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2023/11/16/app_net.html",
+      "date"     : "16 Nov 2023",
+      "abstract" : "In this session we will talk about the journey to adopting AWS managed Application networking services from ELB to VPC Lattice. We will discuss strategies on how to start, and continually innovate. We will also talk about how application networking affects the various roles in an organization such as DevOps, SecOps and Networking administration."
+    } ,
+  
+    {
       "title"    : "re:Invent 2023 Sneak Peak - AWS Networking ",
       "hosts"    : "Riggs Goodman III & Tom Adamski",
       "url"      : "/2023/11/09/reInvent_sneak_peak.html",
