@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Christmas/Holiday round table with Jamie, Alex and Matt",
+      "hosts"    : "Jamie Wenzel, Alex Huides, Matt Lehwess",
+      "url"      : "/2023/12/21/x_mas.html",
+      "date"     : "21 Dec 2023",
+      "abstract" : "Join us for an open round table Q&amp;A. We&#39;ll check out the recent launches and do some white boarding deep dives on some of them"
+    } ,
+  
+    {
       "title"    : "Strategies for adopting, maintaining and innovating with AWS Application networking.",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2023/11/16/app_net.html",
