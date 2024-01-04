@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-12-21T12:32:50-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Christmas/Holiday round table with Jamie, Alex and Matt</title><link href="/2023/12/21/x_mas.html" rel="alternate" type="text/html" title="Christmas/Holiday round table with Jamie, Alex and Matt" /><published>2023-12-21T10:30:00-08:00</published><updated>2023-12-21T10:30:00-08:00</updated><id>/2023/12/21/x_mas</id><content type="html" xml:base="/2023/12/21/x_mas.html"><![CDATA[<p>21 December 2023</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-01-04T12:23:35-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 recap and VPC architectures</title><link href="/2024/01/04/vpc_arch.html" rel="alternate" type="text/html" title="re:Invent 2023 recap and VPC architectures" /><published>2024-01-04T10:30:00-08:00</published><updated>2024-01-04T10:30:00-08:00</updated><id>/2024/01/04/vpc_arch</id><content type="html" xml:base="/2024/01/04/vpc_arch.html"><![CDATA[<p>4 January 2024</p>
+
+<h1> re:Invent 2023 recap and VPC architectures </h1>
+
+<p><b> Hosts: </b> <br /> Tom Adamski, Matt Lehwess  </p>
+<p><b> Guests: </b> <br />   </p>
+<p> <b> Abstract: </b> <br /> Start of the year with review of Advanced VPC Architectures sessions from re:Invent but slowed down from 5 slides a minute to 0.5 slide per minute and open for Q&amp;A </p>
+
+<div class="video-container">
+    <iframe src="https://player.twitch.tv/?video=2022745860&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[4 January 2024]]></summary></entry><entry><title type="html">Christmas/Holiday round table with Jamie, Alex and Matt</title><link href="/2023/12/21/x_mas.html" rel="alternate" type="text/html" title="Christmas/Holiday round table with Jamie, Alex and Matt" /><published>2023-12-21T10:30:00-08:00</published><updated>2023-12-21T10:30:00-08:00</updated><id>/2023/12/21/x_mas</id><content type="html" xml:base="/2023/12/21/x_mas.html"><![CDATA[<p>21 December 2023</p>
 
 <h1> Christmas/Holiday round table with Jamie, Alex and Matt </h1>
 
@@ -97,15 +108,4 @@
 <div class="video-container">
     <iframe src="https://player.twitch.tv/?video=1931509437&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
     </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 September 2023]]></summary></entry><entry><title type="html">AWS Network Manger: Centralize management and monitoring of networking resource</title><link href="/2023/09/14/net_manager.html" rel="alternate" type="text/html" title="AWS Network Manger: Centralize management and monitoring of networking resource" /><published>2023-09-14T11:30:00-07:00</published><updated>2023-09-14T11:30:00-07:00</updated><id>/2023/09/14/net_manager</id><content type="html" xml:base="/2023/09/14/net_manager.html"><![CDATA[<p>14 September 2023</p>
-
-<h1> AWS Network Manger: Centralize management and monitoring of networking resource </h1>
-
-<p><b> Hosts: </b> <br /> Sidhartha Chauhan  </p>
-<p><b> Guests: </b> <br /> Ankush Goyal, Senior Technical Account Manager <br /> Nishant Kumar, Senior Product Manager   </p>
-<p> <b> Abstract: </b> <br /> In this session we will provide an overview of AWS Network Manager and discuss in detail how customers can leverage Network Manager for monitoring their Transit Gateways (TGWs). We will walk through a demo of how to register and visualize your TGWs in Network Manager as well as configure (TGW) events via Network Manager for monitoring/troubleshooting purposes. We will also cover how Route Analyzer can be utilized to perform an analysis of the routes in your transit gateway route tables.  </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1925430811&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[14 September 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 September 2023]]></summary></entry></feed>
