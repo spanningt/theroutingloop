@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "re:Invent 2023 recap and VPC architectures - Part 2",
+      "hosts"    : "Tom Adamski, Matt Lehwess",
+      "url"      : "/2024/01/11/vpc_arch.html",
+      "date"     : "11 Jan 2024",
+      "abstract" : "Start of the year with review of Advanced VPC Architectures sessions from re:Invent but slowed down from 5 slides a minute to 0.5 slide per minute and open for Q&amp;A"
+    } ,
+  
+    {
       "title"    : "re:Invent 2023 recap and VPC architectures",
       "hosts"    : "Tom Adamski, Matt Lehwess",
       "url"      : "/2024/01/04/vpc_arch.html",
