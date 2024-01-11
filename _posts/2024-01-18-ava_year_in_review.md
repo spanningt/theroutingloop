@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "re:Invent 2023 recap and VPC architectures - Part 2"
-videoid: 2029671158
-date:   2024-01-11 10:30:00 -0800
-abstract: "Start of the year with review of Advanced VPC Architectures sessions from re:Invent but slowed down from 5 slides a minute to 0.5 slide per minute and open for Q&A"
-hosts: "Tom Adamski, Matt Lehwess"
+title:  "What's new with AWS Verified Access"
+videoid: 
+date:   2024-01-18 10:30:00 -0800
+abstract: "Join us for an overview of AWS Verified Access, zero trust access solution for your private applications in AWS and beyond. We'll recap some of the new launches from 2023"
+hosts: "Alexandra Huides, Tom Adamski"
 guests: 
 ---
 {{ page.date | date: "%-d %B %Y" }}

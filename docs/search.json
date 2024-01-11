@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "What's new with AWS Verified Access",
+      "hosts"    : "Alexandra Huides, Tom Adamski",
+      "url"      : "/2024/01/18/ava_year_in_review.html",
+      "date"     : "18 Jan 2024",
+      "abstract" : "Join us for an overview of AWS Verified Access, zero trust access solution for your private applications in AWS and beyond. We&#39;ll recap some of the new launches from 2023"
+    } ,
+  
+    {
       "title"    : "re:Invent 2023 recap and VPC architectures - Part 2",
       "hosts"    : "Tom Adamski, Matt Lehwess",
       "url"      : "/2024/01/11/vpc_arch.html",
