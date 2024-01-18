@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-01-17T20:52:39-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN</title><link href="/2024/02/29/chalk-talk_inspection.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN" /><published>2024-02-29T10:30:00-08:00</published><updated>2024-02-29T10:30:00-08:00</updated><id>/2024/02/29/chalk-talk_inspection</id><content type="html" xml:base="/2024/02/29/chalk-talk_inspection.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-01-18T10:03:59-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN</title><link href="/2024/02/29/chalk-talk_inspection.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN" /><published>2024-02-29T10:30:00-08:00</published><updated>2024-02-29T10:30:00-08:00</updated><id>/2024/02/29/chalk-talk_inspection</id><content type="html" xml:base="/2024/02/29/chalk-talk_inspection.html"><![CDATA[<div class="content-area">
   <span class="date">29 February 2024</span>
 
   <h1>re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN</h1>
@@ -44,7 +44,30 @@
   
     <b>Video on demand will become available soon after the livestream</b>
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS</title><link href="/2024/02/08/chalk-talk_k8s.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS" /><published>2024-02-08T10:30:00-08:00</published><updated>2024-02-08T10:30:00-08:00</updated><id>/2024/02/08/chalk-talk_k8s</id><content type="html" xml:base="/2024/02/08/chalk-talk_k8s.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 February 2024]]></summary></entry><entry><title type="html">Public IPv4 Pricing Change Q&amp;amp;A</title><link href="/2024/02/15/public_ipv4.html" rel="alternate" type="text/html" title="Public IPv4 Pricing Change Q&amp;amp;A" /><published>2024-02-15T10:30:00-08:00</published><updated>2024-02-15T10:30:00-08:00</updated><id>/2024/02/15/public_ipv4</id><content type="html" xml:base="/2024/02/15/public_ipv4.html"><![CDATA[<div class="content-area">
+  <span class="date">15 February 2024</span>
+
+  <h1>Public IPv4 Pricing Change Q&amp;A</h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel, Alexandra Huides</p>
+  <p><b>Guests:</b><br /></p>
+  <div class="abstract">
+    <b>Abstract:</b><br />On Feb 1st, the new charge for public IPv4 addresses announced on 7/28/2023 came in effect. Join us in this session to dive deeper into how you can identify and optimize these costs. We'll also talk about IPv6, of course, and see if and how adopting IPv6 can help you optimize public IPv4 usage.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>15 February 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS</title><link href="/2024/02/08/chalk-talk_k8s.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS" /><published>2024-02-08T10:30:00-08:00</published><updated>2024-02-08T10:30:00-08:00</updated><id>/2024/02/08/chalk-talk_k8s</id><content type="html" xml:base="/2024/02/08/chalk-talk_k8s.html"><![CDATA[<div class="content-area">
   <span class="date">8 February 2024</span>
 
   <h1>re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS</h1>
@@ -199,25 +222,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 December 2023]]></summary></entry><entry><title type="html">Strategies for adopting, maintaining and innovating with AWS Application networking.</title><link href="/2023/11/16/app_net.html" rel="alternate" type="text/html" title="Strategies for adopting, maintaining and innovating with AWS Application networking." /><published>2023-11-16T10:30:00-08:00</published><updated>2023-11-16T10:30:00-08:00</updated><id>/2023/11/16/app_net</id><content type="html" xml:base="/2023/11/16/app_net.html"><![CDATA[<div class="content-area">
-  <span class="date">16 November 2023</span>
-
-  <h1>Strategies for adopting, maintaining and innovating with AWS Application networking.</h1>
-
-  <p><b>Hosts:</b><br />Jamie Wenzel</p>
-  <p><b>Guests:</b><br />Satish Katpally, Principal Networking Specialist</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />In this session we will talk about the journey to adopting AWS managed Application networking services from ELB to VPC Lattice. We will discuss strategies on how to start, and continually innovate. We will also talk about how application networking affects the various roles in an organization such as DevOps, SecOps and Networking administration.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=1982634569&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 November 2023]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 December 2023]]></summary></entry></feed>
