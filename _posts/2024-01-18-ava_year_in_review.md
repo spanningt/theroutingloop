@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "What's new with AWS Verified Access"
-videoid: 
+videoid: 2036481516
 date:   2024-01-18 10:30:00 -0800
 abstract: "Join us for an overview of AWS Verified Access, zero trust access solution for your private applications in AWS and beyond. We'll recap some of the new launches from 2023"
 hosts: "Alexandra Huides, Tom Adamski"
