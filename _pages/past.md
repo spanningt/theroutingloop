@@ -13,17 +13,60 @@ permalink: /past/
 
 ## Previous episodes
 
-<ul>
+<style>
+  .post-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .post-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+  }
+
+  .post-item h2 {
+    margin-top: 0;
+    color: #333;
+  }
+
+  .post-item a {
+    text-decoration: none;
+    color: #0066cc;
+  }
+
+  .post-item a:hover {
+    text-decoration: underline;
+  }
+
+  .post-date {
+    color: #777;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  /* Optional: if you have images */
+  .post-image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+</style>
+
+<ul class="post-list">
   {% for post in site.posts %}
     {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
     {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
     {% if posttime < nowunix %}
-      <li>
+      <li class="post-item">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <b>{{ post.date | date: "%-d %B %Y" }}</b><br>
+        <span class="post-date">{{ post.date | date: "%-d %B %Y" }}</span>
         Host(s): {{ post.hosts}}
-
       </li>
-      {% endif %}
+    {% endif %}
   {% endfor %}
 </ul>

@@ -1,122 +1,223 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-01-11T14:57:40-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">What’s new with AWS Verified Access</title><link href="/2024/01/18/ava_year_in_review.html" rel="alternate" type="text/html" title="What’s new with AWS Verified Access" /><published>2024-01-18T10:30:00-08:00</published><updated>2024-01-18T10:30:00-08:00</updated><id>/2024/01/18/ava_year_in_review</id><content type="html" xml:base="/2024/01/18/ava_year_in_review.html"><![CDATA[<p>18 January 2024</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-01-17T20:52:39-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN</title><link href="/2024/02/29/chalk-talk_inspection.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN" /><published>2024-02-29T10:30:00-08:00</published><updated>2024-02-29T10:30:00-08:00</updated><id>/2024/02/29/chalk-talk_inspection</id><content type="html" xml:base="/2024/02/29/chalk-talk_inspection.html"><![CDATA[<div class="content-area">
+  <span class="date">29 February 2024</span>
 
-<h1> What's new with AWS Verified Access </h1>
+  <h1>re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN</h1>
 
-<p><b> Hosts: </b> <br /> Alexandra Huides, Tom Adamski  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> Join us for an overview of AWS Verified Access, zero trust access solution for your private applications in AWS and beyond. We'll recap some of the new launches from 2023 </p>
+  <p><b>Hosts:</b><br />Sidhartha Chauhan</p>
+  <p><b>Guests:</b><br />Pratik Mankad, Senior SA, Networking</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />AWS Cloud WAN connects your branch offices, data centers, and Amazon Virtual Private Clouds (Amazon VPCs), helping you build a global network with a few clicks. In this chalk talk, explore architecture models for inspecting ingress, egress, and east-west traffic when using AWS Cloud WAN.
+  </div>
 
-<p>Session hasn't started. Join live on <b>18 January 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT  </b><p>
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>29 February 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
 
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Connecting multicloud and hybrid networks</title><link href="/2024/02/22/chalk-talk_multicloud.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Connecting multicloud and hybrid networks" /><published>2024-02-22T10:30:00-08:00</published><updated>2024-02-22T10:30:00-08:00</updated><id>/2024/02/22/chalk-talk_multicloud</id><content type="html" xml:base="/2024/02/22/chalk-talk_multicloud.html"><![CDATA[<div class="content-area">
+  <span class="date">22 February 2024</span>
 
+  <h1>re:Invent 2023 Chalk Talk - Connecting multicloud and hybrid networks</h1>
 
+  <p><b>Hosts:</b><br />Matt Lehwess</p>
+  <p><b>Guests:</b><br />James Devine, Principal SA <br /> Alexis Marcou, Senior SA</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />There is additional complexity to consider when connecting your network with other cloud providers, your on-premises network, or resources in a collocation facility. In this chalk talk, learn common patterns for multicloud and hybrid connectivity using AWS Direct Connect, AWS Cloud WAN, AWS Transit Gateway, AWS Site-to-Site VPN, or SD-WAN devices. Based on your questions, the talk will introduce real-world use cases and best practices.
+  </div>
 
-<b> Video on demand will become available soon after the livestream </b>
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>22 February 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
 
-</p></p>]]></content><author><name></name></author><summary type="html"><![CDATA[18 January 2024]]></summary></entry><entry><title type="html">re:Invent 2023 recap and VPC architectures - Part 2</title><link href="/2024/01/11/vpc_arch.html" rel="alternate" type="text/html" title="re:Invent 2023 recap and VPC architectures - Part 2" /><published>2024-01-11T10:30:00-08:00</published><updated>2024-01-11T10:30:00-08:00</updated><id>/2024/01/11/vpc_arch</id><content type="html" xml:base="/2024/01/11/vpc_arch.html"><![CDATA[<p>11 January 2024</p>
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS</title><link href="/2024/02/08/chalk-talk_k8s.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS" /><published>2024-02-08T10:30:00-08:00</published><updated>2024-02-08T10:30:00-08:00</updated><id>/2024/02/08/chalk-talk_k8s</id><content type="html" xml:base="/2024/02/08/chalk-talk_k8s.html"><![CDATA[<div class="content-area">
+  <span class="date">8 February 2024</span>
 
-<h1> re:Invent 2023 recap and VPC architectures - Part 2 </h1>
+  <h1>re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS</h1>
 
-<p><b> Hosts: </b> <br /> Tom Adamski, Matt Lehwess  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> Start of the year with review of Advanced VPC Architectures sessions from re:Invent but slowed down from 5 slides a minute to 0.5 slide per minute and open for Q&amp;A </p>
+  <p><b>Hosts:</b><br />Alexandra Huides</p>
+  <p><b>Guests:</b><br />Federica Ciuffo, Senior Containers SA</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Deploying Kubernetes clusters requires collaboration between cluster operators, network operators, and security operators. This chalk talk, intended for developers, system admins, and DevOps engineers, explores strategies and considerations for cluster operators as they begin their journey into Kubernetes. Topics include pod networking, service discovery, cluster policies, load balancing, and service meshes. Join us to learn more about Kubernetes networking on AWS.
+  </div>
 
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=2029671158&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>
-<div>
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>8 February 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[8 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Connecting and securing services with Amazon VPC Lattice</title><link href="/2024/02/01/chalk-talk_lattice.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Connecting and securing services with Amazon VPC Lattice" /><published>2024-02-01T10:30:00-08:00</published><updated>2024-02-01T10:30:00-08:00</updated><id>/2024/02/01/chalk-talk_lattice</id><content type="html" xml:base="/2024/02/01/chalk-talk_lattice.html"><![CDATA[<div class="content-area">
+  <span class="date">1 February 2024</span>
+
+  <h1>re:Invent 2023 Chalk Talk - Connecting and securing services with Amazon VPC Lattice</h1>
+
+  <p><b>Hosts:</b><br />Riggs Goodman III</p>
+  <p><b>Guests:</b><br />Justin Davies, Principal Product Manager <br /> Satish Katpally, Principal Networking Specialist <br /> Jamie Wenzel, Principal Solutions Architect ELB</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Amazon VPC Lattice helps you connect your applications and services securely and simplifies the way microservices communicate in a multi-account and multi-virtual private cloud (VPC) environment. In this chalk talk, learn how you can connect your Amazon EC2, Amazon EKS, Amazon ECS, or AWS Lambda microservices whether they are on AWS or on premises. Explore common use cases like multiple account/VPC connectivity, service-to-service authentication and authorization, load balancing, blue-green/canary deployments, and more. Bring your questions.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>1 February 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[1 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Why is it always DNS? Ask us anything</title><link href="/2024/01/25/chalk-talk_dns.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Why is it always DNS? Ask us anything" /><published>2024-01-25T10:30:00-08:00</published><updated>2024-01-25T10:30:00-08:00</updated><id>/2024/01/25/chalk-talk_dns</id><content type="html" xml:base="/2024/01/25/chalk-talk_dns.html"><![CDATA[<div class="content-area">
+  <span class="date">25 January 2024</span>
+
+  <h1>re:Invent 2023 Chalk Talk - Why is it always DNS? Ask us anything</h1>
+
+  <p><b>Hosts:</b><br />Tom Adamski</p>
+  <p><b>Guests:</b><br />Steve Seymour, WW Tech Leader, Networking <br /> Christian Elsen, Principal Networking SA</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />This chalk talk helps you better understand how the many capabilities of Amazon Route 53—including Route 53 Resolver DNS Firewall and public hosted zones over registrar services and Route 53 Resolver endpoints—fit into the bigger picture of DNS as a foundational networking service. Whether you have been wanting to move your domain to AWS but have been nervous about the widespread impact a mistake could cause or are just curious what benefits DNSSEC might bring you, this session is for you.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>25 January 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 January 2024]]></summary></entry><entry><title type="html">What’s new with AWS Verified Access</title><link href="/2024/01/18/ava_year_in_review.html" rel="alternate" type="text/html" title="What’s new with AWS Verified Access" /><published>2024-01-18T10:30:00-08:00</published><updated>2024-01-18T10:30:00-08:00</updated><id>/2024/01/18/ava_year_in_review</id><content type="html" xml:base="/2024/01/18/ava_year_in_review.html"><![CDATA[<div class="content-area">
+  <span class="date">18 January 2024</span>
+
+  <h1>What's new with AWS Verified Access</h1>
+
+  <p><b>Hosts:</b><br />Alexandra Huides, Tom Adamski</p>
+  <p><b>Guests:</b><br /></p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join us for an overview of AWS Verified Access, zero trust access solution for your private applications in AWS and beyond. We'll recap some of the new launches from 2023
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>18 January 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 January 2024]]></summary></entry><entry><title type="html">re:Invent 2023 recap and VPC architectures - Part 2</title><link href="/2024/01/11/vpc_arch.html" rel="alternate" type="text/html" title="re:Invent 2023 recap and VPC architectures - Part 2" /><published>2024-01-11T10:30:00-08:00</published><updated>2024-01-11T10:30:00-08:00</updated><id>/2024/01/11/vpc_arch</id><content type="html" xml:base="/2024/01/11/vpc_arch.html"><![CDATA[<div class="content-area">
+  <span class="date">11 January 2024</span>
+
+  <h1>re:Invent 2023 recap and VPC architectures - Part 2</h1>
+
+  <p><b>Hosts:</b><br />Tom Adamski, Matt Lehwess</p>
+  <p><b>Guests:</b><br /></p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Start of the year with review of Advanced VPC Architectures sessions from re:Invent but slowed down from 5 slides a minute to 0.5 slide per minute and open for Q&amp;A
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2029671158&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
     <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 January 2024]]></summary></entry><entry><title type="html">re:Invent 2023 recap and VPC architectures - Part 1</title><link href="/2024/01/04/vpc_arch.html" rel="alternate" type="text/html" title="re:Invent 2023 recap and VPC architectures - Part 1" /><published>2024-01-04T10:30:00-08:00</published><updated>2024-01-04T10:30:00-08:00</updated><id>/2024/01/04/vpc_arch</id><content type="html" xml:base="/2024/01/04/vpc_arch.html"><![CDATA[<p>4 January 2024</p>
+  
 
-<h1> re:Invent 2023 recap and VPC architectures - Part 1 </h1>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 January 2024]]></summary></entry><entry><title type="html">re:Invent 2023 recap and VPC architectures - Part 1</title><link href="/2024/01/04/vpc_arch.html" rel="alternate" type="text/html" title="re:Invent 2023 recap and VPC architectures - Part 1" /><published>2024-01-04T10:30:00-08:00</published><updated>2024-01-04T10:30:00-08:00</updated><id>/2024/01/04/vpc_arch</id><content type="html" xml:base="/2024/01/04/vpc_arch.html"><![CDATA[<div class="content-area">
+  <span class="date">4 January 2024</span>
 
-<p><b> Hosts: </b> <br /> Tom Adamski, Matt Lehwess  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> Start of the year with review of Advanced VPC Architectures sessions from re:Invent but slowed down from 5 slides a minute to 0.5 slide per minute and open for Q&amp;A </p>
+  <h1>re:Invent 2023 recap and VPC architectures - Part 1</h1>
 
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=2022745860&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[4 January 2024]]></summary></entry><entry><title type="html">Christmas/Holiday round table with Jamie, Alex and Matt</title><link href="/2023/12/21/x_mas.html" rel="alternate" type="text/html" title="Christmas/Holiday round table with Jamie, Alex and Matt" /><published>2023-12-21T10:30:00-08:00</published><updated>2023-12-21T10:30:00-08:00</updated><id>/2023/12/21/x_mas</id><content type="html" xml:base="/2023/12/21/x_mas.html"><![CDATA[<p>21 December 2023</p>
+  <p><b>Hosts:</b><br />Tom Adamski, Matt Lehwess</p>
+  <p><b>Guests:</b><br /></p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Start of the year with review of Advanced VPC Architectures sessions from re:Invent but slowed down from 5 slides a minute to 0.5 slide per minute and open for Q&amp;A
+  </div>
 
-<h1> Christmas/Holiday round table with Jamie, Alex and Matt </h1>
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2022745860&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
 
-<p><b> Hosts: </b> <br /> Jamie Wenzel, Alex Huides, Matt Lehwess  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> Join us for an open round table Q&amp;A. We'll check out the recent launches and do some white boarding deep dives on some of them </p>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[4 January 2024]]></summary></entry><entry><title type="html">Christmas/Holiday round table with Jamie, Alex and Matt</title><link href="/2023/12/21/x_mas.html" rel="alternate" type="text/html" title="Christmas/Holiday round table with Jamie, Alex and Matt" /><published>2023-12-21T10:30:00-08:00</published><updated>2023-12-21T10:30:00-08:00</updated><id>/2023/12/21/x_mas</id><content type="html" xml:base="/2023/12/21/x_mas.html"><![CDATA[<div class="content-area">
+  <span class="date">21 December 2023</span>
 
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=2010322303&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 December 2023]]></summary></entry><entry><title type="html">Strategies for adopting, maintaining and innovating with AWS Application networking.</title><link href="/2023/11/16/app_net.html" rel="alternate" type="text/html" title="Strategies for adopting, maintaining and innovating with AWS Application networking." /><published>2023-11-16T10:30:00-08:00</published><updated>2023-11-16T10:30:00-08:00</updated><id>/2023/11/16/app_net</id><content type="html" xml:base="/2023/11/16/app_net.html"><![CDATA[<p>16 November 2023</p>
+  <h1>Christmas/Holiday round table with Jamie, Alex and Matt</h1>
 
-<h1> Strategies for adopting, maintaining and innovating with AWS Application networking. </h1>
+  <p><b>Hosts:</b><br />Jamie Wenzel, Alex Huides, Matt Lehwess</p>
+  <p><b>Guests:</b><br /></p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join us for an open round table Q&amp;A. We'll check out the recent launches and do some white boarding deep dives on some of them
+  </div>
 
-<p><b> Hosts: </b> <br /> Jamie Wenzel  </p>
-<p><b> Guests: </b> <br /> Satish Katpally, Principal Networking Specialist  </p>
-<p> <b> Abstract: </b> <br /> In this session we will talk about the journey to adopting AWS managed Application networking services from ELB to VPC Lattice. We will discuss strategies on how to start, and continually innovate. We will also talk about how application networking affects the various roles in an organization such as DevOps, SecOps and Networking administration. </p>
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2010322303&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
 
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1982634569&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 November 2023]]></summary></entry><entry><title type="html">re:Invent 2023 Sneak Peak - AWS Networking</title><link href="/2023/11/09/reInvent_sneak_peak.html" rel="alternate" type="text/html" title="re:Invent 2023 Sneak Peak - AWS Networking" /><published>2023-11-09T10:30:00-08:00</published><updated>2023-11-09T10:30:00-08:00</updated><id>/2023/11/09/reInvent_sneak_peak</id><content type="html" xml:base="/2023/11/09/reInvent_sneak_peak.html"><![CDATA[<p>9 November 2023</p>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 December 2023]]></summary></entry><entry><title type="html">Strategies for adopting, maintaining and innovating with AWS Application networking.</title><link href="/2023/11/16/app_net.html" rel="alternate" type="text/html" title="Strategies for adopting, maintaining and innovating with AWS Application networking." /><published>2023-11-16T10:30:00-08:00</published><updated>2023-11-16T10:30:00-08:00</updated><id>/2023/11/16/app_net</id><content type="html" xml:base="/2023/11/16/app_net.html"><![CDATA[<div class="content-area">
+  <span class="date">16 November 2023</span>
 
-<h1> re:Invent 2023 Sneak Peak - AWS Networking  </h1>
+  <h1>Strategies for adopting, maintaining and innovating with AWS Application networking.</h1>
 
-<p><b> Hosts: </b> <br /> Riggs Goodman III &amp; Tom Adamski  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> In this session, we will cover the Networking focused sessions that we will have at re:Invent this year. These include breakout sessions, chalk talks, workshops,and builder sessions.  If you are not going to re:Invent, we will also cover how to attend virtually or how to watch the sessions after the event. </p>
+  <p><b>Hosts:</b><br />Jamie Wenzel</p>
+  <p><b>Guests:</b><br />Satish Katpally, Principal Networking Specialist</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />In this session we will talk about the journey to adopting AWS managed Application networking services from ELB to VPC Lattice. We will discuss strategies on how to start, and continually innovate. We will also talk about how application networking affects the various roles in an organization such as DevOps, SecOps and Networking administration.
+  </div>
 
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1972974532&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[9 November 2023]]></summary></entry><entry><title type="html">Designing AWS networks for growth and scale</title><link href="/2023/11/02/network_scale.html" rel="alternate" type="text/html" title="Designing AWS networks for growth and scale" /><published>2023-11-02T11:30:00-07:00</published><updated>2023-11-02T11:30:00-07:00</updated><id>/2023/11/02/network_scale</id><content type="html" xml:base="/2023/11/02/network_scale.html"><![CDATA[<p>2 November 2023</p>
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=1982634569&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
 
-<h1> Designing AWS networks for growth and scale  </h1>
-
-<p><b> Hosts: </b> <br /> Sidhartha Chauhan &amp; Tom Adamski  </p>
-<p><b> Guests: </b> <br />   </p>
-<p> <b> Abstract: </b> <br /> As companies grow, their AWS network architectures need to evolve to accommodate increasing traffic, security needs, and complexity. This session will provide strategies and best practices for designing scalable, secure, and highly available AWS networks. We will discuss how to design VPCs, subnets, route tables, security groups, and other components to allow for future growth. Topics will include choosing the right VPC topology, connecting VPCs and hybrid networks with AWS Transit Gateway, AWS Cloud WAN, building hub-and-spoke models, and integrating network security tools. Attendees will learn how to assess current workloads and plan network changes to support growth over time. The session will cover options for scaling up network capacity, segmenting resources, and automating network management tasks. Architects, network administrators, and cloud practitioners looking to design future-ready AWS networks that can evolve smoothly will find practical takeaways. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1966828693&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 November 2023]]></summary></entry><entry><title type="html">Protecting against login fraud using WAF/ATP/JA3 fingerprints</title><link href="/2023/10/26/fraud_fingerprints.html" rel="alternate" type="text/html" title="Protecting against login fraud using WAF/ATP/JA3 fingerprints" /><published>2023-10-26T11:30:00-07:00</published><updated>2023-10-26T11:30:00-07:00</updated><id>/2023/10/26/fraud_fingerprints</id><content type="html" xml:base="/2023/10/26/fraud_fingerprints.html"><![CDATA[<p>26 October 2023</p>
-
-<h1> Protecting against login fraud using WAF/ATP/JA3 fingerprints  </h1>
-
-<p><b> Hosts: </b> <br /> Tom Adamski  </p>
-<p><b> Guests: </b> <br /> Oleksandr Golovatyi, Senior Technical Account Manager <br /> Jess Izen, Senior Software Development Engineer  </p>
-<p> <b> Abstract: </b> <br /> Join us to deep dive into signals on multiple IP reuse by bots, password brute force attacks and username traversal attempts. We will also discuss suspicious TLS fingerprints signal and composite rate limiting using JA3 fingerprints and JWT tokens. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1960957170&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[26 October 2023]]></summary></entry><entry><title type="html">Insights into Internet woes and application performance using CloudWatch Internet Monitor</title><link href="/2023/10/19/net_monitor.html" rel="alternate" type="text/html" title="Insights into Internet woes and application performance using CloudWatch Internet Monitor" /><published>2023-10-19T11:30:00-07:00</published><updated>2023-10-19T11:30:00-07:00</updated><id>/2023/10/19/net_monitor</id><content type="html" xml:base="/2023/10/19/net_monitor.html"><![CDATA[<p>19 October 2023</p>
-
-<h1> Insights into Internet woes and application performance using CloudWatch Internet Monitor </h1>
-
-<p><b> Hosts: </b> <br /> Alexandra Huides  </p>
-<p><b> Guests: </b> <br /> Subbu Mahadevan, Senior Manager, Technical Product Management, Network Availability <br /> Chandan Rao, Software Development Manager, IP Insights  </p>
-<p> <b> Abstract: </b> <br /> Organizations looking to provide superior digital experiences to their users need to monitor these digital experiences proactively. In this session, you will learn more about Amazon CloudWatch Internet Monitor capabilities and roadmap that help you continuously monitor internet performance metrics, such as availability and performance between your AWS-hosted applications and application end users. Explore how you can visualize impact, pinpoint the geographic locations and providers that are impacted, and take actions as an application developer or network engineer to improve your end users’ network experience. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1955090316&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[19 October 2023]]></summary></entry><entry><title type="html">Cutting cost, not corners. You don’t have to be Netflix to do IPv6</title><link href="/2023/10/12/netflix_ipv6.html" rel="alternate" type="text/html" title="Cutting cost, not corners. You don’t have to be Netflix to do IPv6" /><published>2023-10-12T11:30:00-07:00</published><updated>2023-10-12T11:30:00-07:00</updated><id>/2023/10/12/netflix_ipv6</id><content type="html" xml:base="/2023/10/12/netflix_ipv6.html"><![CDATA[<p>12 October 2023</p>
-
-<h1> Cutting cost, not corners. You don't have to be Netflix to do IPv6  </h1>
-
-<p><b> Hosts: </b> <br /> Alexandra Huides, Tom Adamski  </p>
-<p><b> Guests: </b> <br /> Donavan Fritz, Staff Network Platform Engineer <br /> Joel Kodama, Senior Network Site Reliability Engineer  </p>
-<p> <b> Abstract: </b> <br /> Join us for a session with Netflix. We'll cover how Netflix approached their migration to IPv6 and the lessons they've learned along the way. Expect practical insights into the real-world implications of adopting IPv6 at scale, including the challenges faced and the innovative solutions employed to ensure a seamless transition. </p>
-
-<div class="video-container">
-    <iframe src="https://player.twitch.tv/?video=1949353252&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0">
-    </iframe>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[12 October 2023]]></summary></entry></feed>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 November 2023]]></summary></entry></feed>

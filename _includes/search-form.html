@@ -1,7 +1,7 @@
 <!-- HTML search field -->
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search all episodes..." autofocus>
-    <ul id="results-container"></ul>
+  <input type="text" id="search-input" placeholder="Search all episodes..." autofocus>
+  <ul id="results-container" class="post-list"></ul>
 </div>
 
 <!-- Grab search-script.js -->
@@ -10,9 +10,17 @@
 <!-- Configuration -->
 <script>
 SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
-  searchResultTemplate: '<li><h2><a href="{url}">{title}</a><br></h2><b><span class="post-meta">{date}</span></b><br>Host(s): {hosts}</li>'
+searchInput: document.getElementById('search-input'),
+resultsContainer: document.getElementById('results-container'),
+json: '/search.json',
+searchResultTemplate: `
+  <li class="post-item">
+    <!-- Optional: If you have images, you need to add the image URL in the search.json and use it here -->
+    <!-- <img src="{image_url}" alt="{title}" class="post-image"> -->
+
+    <h2><a href="{url}">{title}</a></h2>
+    <span class="post-date">{date}</span>
+    Host(s): {hosts}
+  </li>`
 })
 </script>

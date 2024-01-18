@@ -1,6 +1,46 @@
 [
   
     {
+      "title"    : "re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2024/02/29/chalk-talk_inspection.html",
+      "date"     : "29 Feb 2024",
+      "abstract" : "AWS Cloud WAN connects your branch offices, data centers, and Amazon Virtual Private Clouds (Amazon VPCs), helping you build a global network with a few clicks. In this chalk talk, explore architecture models for inspecting ingress, egress, and east-west traffic when using AWS Cloud WAN."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2023 Chalk Talk - Connecting multicloud and hybrid networks",
+      "hosts"    : "Matt Lehwess",
+      "url"      : "/2024/02/22/chalk-talk_multicloud.html",
+      "date"     : "22 Feb 2024",
+      "abstract" : "There is additional complexity to consider when connecting your network with other cloud providers, your on-premises network, or resources in a collocation facility. In this chalk talk, learn common patterns for multicloud and hybrid connectivity using AWS Direct Connect, AWS Cloud WAN, AWS Transit Gateway, AWS Site-to-Site VPN, or SD-WAN devices. Based on your questions, the talk will introduce real-world use cases and best practices."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS",
+      "hosts"    : "Alexandra Huides",
+      "url"      : "/2024/02/08/chalk-talk_k8s.html",
+      "date"     : "08 Feb 2024",
+      "abstract" : "Deploying Kubernetes clusters requires collaboration between cluster operators, network operators, and security operators. This chalk talk, intended for developers, system admins, and DevOps engineers, explores strategies and considerations for cluster operators as they begin their journey into Kubernetes. Topics include pod networking, service discovery, cluster policies, load balancing, and service meshes. Join us to learn more about Kubernetes networking on AWS."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2023 Chalk Talk - Connecting and securing services with Amazon VPC Lattice",
+      "hosts"    : "Riggs Goodman III",
+      "url"      : "/2024/02/01/chalk-talk_lattice.html",
+      "date"     : "01 Feb 2024",
+      "abstract" : "Amazon VPC Lattice helps you connect your applications and services securely and simplifies the way microservices communicate in a multi-account and multi-virtual private cloud (VPC) environment. In this chalk talk, learn how you can connect your Amazon EC2, Amazon EKS, Amazon ECS, or AWS Lambda microservices whether they are on AWS or on premises. Explore common use cases like multiple account/VPC connectivity, service-to-service authentication and authorization, load balancing, blue-green/canary deployments, and more. Bring your questions."
+    } ,
+  
+    {
+      "title"    : "re:Invent 2023 Chalk Talk - Why is it always DNS? Ask us anything",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2024/01/25/chalk-talk_dns.html",
+      "date"     : "25 Jan 2024",
+      "abstract" : "This chalk talk helps you better understand how the many capabilities of Amazon Route 53—including Route 53 Resolver DNS Firewall and public hosted zones over registrar services and Route 53 Resolver endpoints—fit into the bigger picture of DNS as a foundational networking service. Whether you have been wanting to move your domain to AWS but have been nervous about the widespread impact a mistake could cause or are just curious what benefits DNSSEC might bring you, this session is for you."
+    } ,
+  
+    {
       "title"    : "What's new with AWS Verified Access",
       "hosts"    : "Alexandra Huides, Tom Adamski",
       "url"      : "/2024/01/18/ava_year_in_review.html",

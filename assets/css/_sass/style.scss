@@ -8,3 +8,70 @@
 .tall-nav {
   padding: 1rem 1rem;
 }
+
+.content-area {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.content-area h1, .content-area .date {
+  text-align: center;
+  color: #333;
+}
+
+.content-area .video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  padding-top: 25px;
+  height: 0;
+  margin-bottom: 20px;
+}
+
+.content-area .video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.content-area .button {
+  display: block;
+  width: max-content;
+  margin: 20px auto;
+  padding: 10px 20px;
+  text-align: center;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.content-area .button:hover {
+  background-color: #0056b3;
+}
+
+.content-area p, .content-area .date {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.content-area .abstract {
+  background-color: #f8f9fa;
+  border-left: 4px solid #007bff;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.title-tile {
+  background-color: #f8f9fa; /* Light grey background */
+  border: 1px solid #ddd;    /* Border for the tile */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+  padding: 20px;             /* Padding inside the tile */
+  margin-bottom: 20px;       /* Space below the tile */
+  text-align: center;        /* Center the text */
+  border-radius: 8px;        /* Rounded corners */
+  font-size: 1.5em;          /* Larger font size for the title */
+}
+
