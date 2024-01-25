@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2023 Chalk Talk - Why is it always DNS? Ask us anything"
-videoid: 
+videoid: 2043431620
 date:   2024-01-25 10:30:00 -0800
 abstract: "This chalk talk helps you better understand how the many capabilities of Amazon Route 53—including Route 53 Resolver DNS Firewall and public hosted zones over registrar services and Route 53 Resolver endpoints—fit into the bigger picture of DNS as a foundational networking service. Whether you have been wanting to move your domain to AWS but have been nervous about the widespread impact a mistake could cause or are just curious what benefits DNSSEC might bring you, this session is for you."
 hosts: "Tom Adamski"
