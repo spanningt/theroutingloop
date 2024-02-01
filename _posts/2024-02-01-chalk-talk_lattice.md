@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2023 Chalk Talk - Connecting and securing services with Amazon VPC Lattice"
-videoid: 
+videoid: 2050244740
 date:   2024-02-01 10:30:00 -0800
 abstract: "Amazon VPC Lattice helps you connect your applications and services securely and simplifies the way microservices communicate in a multi-account and multi-virtual private cloud (VPC) environment. In this chalk talk, learn how you can connect your Amazon EC2, Amazon EKS, Amazon ECS, or AWS Lambda microservices whether they are on AWS or on premises. Explore common use cases like multiple account/VPC connectivity, service-to-service authentication and authorization, load balancing, blue-green/canary deployments, and more. Bring your questions."
 hosts: "Riggs Goodman III"
