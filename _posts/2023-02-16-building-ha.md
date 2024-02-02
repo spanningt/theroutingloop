@@ -7,7 +7,7 @@ abstract: "Learn how to build highly highly available applications spanning mult
 hosts: "Sidhartha Chauhan"
 guests: "Stanley Su, AWS Principal Product Manager for AWS Infrastructure"
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

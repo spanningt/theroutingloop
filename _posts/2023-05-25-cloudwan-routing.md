@@ -7,7 +7,7 @@ abstract: " In this session we'll whiteboard global routing scenarios with Cloud
 hosts: "Alex & Jamie"
 guests:
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

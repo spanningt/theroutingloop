@@ -7,7 +7,7 @@ abstract: "Join us to see Tim go through Amazon VPC Lattice Demo. VPC Lattice is
 hosts: "Tom Adamski"
 guests: "Tim Dormer, Specialist Solutions Architect, App Networking"
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

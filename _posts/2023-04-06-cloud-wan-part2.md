@@ -7,7 +7,7 @@ abstract: "A followup to last weeks hand's on session showing Cloud WAN live dep
 hosts: "Jamie Wenzel, Alexandra Huides"
 guests: 
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

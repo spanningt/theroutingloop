@@ -7,7 +7,7 @@ abstract: "Join us in this live session where we’ll configure AWS CloudWAN fro
 hosts: "Alexandra Huides, Matt Lehwess"
 guests: 
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

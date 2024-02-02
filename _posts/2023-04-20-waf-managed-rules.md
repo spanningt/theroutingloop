@@ -7,7 +7,7 @@ abstract: "When using AWS Managed Rule groups for WAF, sometimes you may need to
 hosts: "Tom Adamski"
 guests: "Devansh Agrawal, Cloud Support Engineer "
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

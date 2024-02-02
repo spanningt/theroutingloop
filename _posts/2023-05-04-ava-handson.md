@@ -7,7 +7,7 @@ abstract: "Join us for a live demo of AWS Verified Access. Built on AWS Zero Tru
 hosts: "Tom Adamski"
 guests: 
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

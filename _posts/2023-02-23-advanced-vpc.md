@@ -7,7 +7,7 @@ abstract: "Jamie and Matt cover advanced VPC architectures and basics of VPC net
 hosts: "Jamie Wenzel, Matt Lehwess"
 guests: ""
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

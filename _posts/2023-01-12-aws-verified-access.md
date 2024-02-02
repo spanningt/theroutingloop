@@ -7,7 +7,7 @@ abstract: "Join us for an overview of AWS Verified Access. Built on AWS Zero Tru
 hosts: "Tom Adamski"
 guests: "Jess Szmajda, GM for AWS VPN"
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

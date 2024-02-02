@@ -7,7 +7,7 @@ abstract: "Amazon CloudFront improves the speed and quality of web delivery to t
 hosts: "Sidhartha Chauhan"
 guests: "Sagar Desarda, AMER Tech Leader – Edge Services"
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

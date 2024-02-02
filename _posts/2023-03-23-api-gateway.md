@@ -3,12 +3,11 @@ layout: default
 title:  "Networking with Amazon API Gateway"
 videoid: 1773477247
 date:   2023-03-23 10:30:00 -0800
-abstract: "We'll go over the networking aspects of Amazon API Gateway service. This includes executing the API (from 
-the Internet or privately from other VPCs) as well as backend integrations."
+abstract: "We'll go over the networking aspects of Amazon API Gateway service. This includes executing the API (from the Internet or privately from other VPCs) as well as backend integrations."
 hosts: "Tom Adamski"
 guests: "Giedrius Praspaliauskas, Senior Solutions Architect specializing in Serverless"
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>

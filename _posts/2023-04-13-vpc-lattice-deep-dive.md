@@ -7,7 +7,7 @@ abstract: "Join us to deep dive into recently launched Amazon VPC Lattice servic
 hosts: "Sidhartha Chauhan, Jamie Wenzel"
 guests: "Justin Davies, Principal Product Manager for Amazon VPC Lattice"
 ---
-div class="content-area">
+<div class="content-area">
   <span class="date">{{ page.date | date: "%-d %B %Y" }}</span>
 
   <h1>{{ page.title }}</h1>
