@@ -17,11 +17,11 @@
     } ,
   
     {
-      "title"    : "Public IPv4 Pricing Change Q&A",
-      "hosts"    : "Jamie Wenzel, Alexandra Huides",
-      "url"      : "/2024/02/15/public_ipv4.html",
+      "title"    : "re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS (Part2)",
+      "hosts"    : "Alexandra Huides",
+      "url"      : "/2024/02/15/chalk-talk_k8s_part2.html",
       "date"     : "15 Feb 2024",
-      "abstract" : "On Feb 1st, the new charge for public IPv4 addresses announced on 7/28/2023 came in effect. Join us in this session to dive deeper into how you can identify and optimize these costs. We&#39;ll also talk about IPv6, of course, and see if and how adopting IPv6 can help you optimize public IPv4 usage."
+      "abstract" : "Deploying Kubernetes clusters requires collaboration between cluster operators, network operators, and security operators. This chalk talk, intended for developers, system admins, and DevOps engineers, explores strategies and considerations for cluster operators as they begin their journey into Kubernetes. Topics include pod networking, service discovery, cluster policies, load balancing, and service meshes. Join us to learn more about Kubernetes networking on AWS."
     } ,
   
     {
