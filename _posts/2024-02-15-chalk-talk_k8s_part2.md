@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS (Part2)"
-videoid: 
+videoid: 2063875733
 date:   2024-02-15 10:30:00 -0800
 abstract: "Deploying Kubernetes clusters requires collaboration between cluster operators, network operators, and security operators. This chalk talk, intended for developers, system admins, and DevOps engineers, explores strategies and considerations for cluster operators as they begin their journey into Kubernetes. Topics include pod networking, service discovery, cluster policies, load balancing, and service meshes. Join us to learn more about Kubernetes networking on AWS."
 hosts: "Alexandra Huides"

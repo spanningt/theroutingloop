@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-02-13T10:02:13-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN</title><link href="/2024/02/29/chalk-talk_inspection.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN" /><published>2024-02-29T10:30:00-08:00</published><updated>2024-02-29T10:30:00-08:00</updated><id>/2024/02/29/chalk-talk_inspection</id><content type="html" xml:base="/2024/02/29/chalk-talk_inspection.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-02-15T15:25:57-08:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN</title><link href="/2024/02/29/chalk-talk_inspection.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN" /><published>2024-02-29T10:30:00-08:00</published><updated>2024-02-29T10:30:00-08:00</updated><id>/2024/02/29/chalk-talk_inspection</id><content type="html" xml:base="/2024/02/29/chalk-talk_inspection.html"><![CDATA[<div class="content-area">
   <span class="date">29 February 2024</span>
 
   <h1>re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN</h1>
@@ -57,15 +57,13 @@
 
   
   
-  
-    <p>Session hasn't started. Join live on <b>15 February 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+     
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe src="https://player.twitch.tv/?video=2063875733&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   
 
-  
-    <b>Video on demand will become available soon after the livestream</b>
   
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS</title><link href="/2024/02/08/chalk-talk_k8s.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS" /><published>2024-02-08T10:30:00-08:00</published><updated>2024-02-08T10:30:00-08:00</updated><id>/2024/02/08/chalk-talk_k8s</id><content type="html" xml:base="/2024/02/08/chalk-talk_k8s.html"><![CDATA[<div class="content-area">
   <span class="date">8 February 2024</span>
