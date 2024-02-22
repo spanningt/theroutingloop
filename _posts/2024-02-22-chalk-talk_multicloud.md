@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2023 Chalk Talk - Connecting multicloud and hybrid networks"
-videoid: 
+videoid: 2070685632
 date:   2024-02-22 10:30:00 -0800
 abstract: "There is additional complexity to consider when connecting your network with other cloud providers, your on-premises network, or resources in a collocation facility. In this chalk talk, learn common patterns for multicloud and hybrid connectivity using AWS Direct Connect, AWS Cloud WAN, AWS Transit Gateway, AWS Site-to-Site VPN, or SD-WAN devices. Based on your questions, the talk will introduce real-world use cases and best practices."
 hosts: "Matt Lehwess"
