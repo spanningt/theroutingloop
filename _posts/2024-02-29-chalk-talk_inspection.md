@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN"
-videoid: 
+videoid: 2077571400
 date:   2024-02-29 10:30:00 -0800
 abstract: "AWS Cloud WAN connects your branch offices, data centers, and Amazon Virtual Private Clouds (Amazon VPCs), helping you build a global network with a few clicks. In this chalk talk, explore architecture models for inspecting ingress, egress, and east-west traffic when using AWS Cloud WAN."
 hosts: "Sidhartha Chauhan"
