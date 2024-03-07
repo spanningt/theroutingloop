@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "How to achieve availability and scale with Elastic Load Balancing",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2024/03/07/ELB_scale.html",
+      "date"     : "07 Mar 2024",
+      "abstract" : "Join Jamie and Zob to deep dive into Elastic Load Balancing services and learn how they help with crating highly available and scalable architectures.  ."
+    } ,
+  
+    {
       "title"    : "re:Invent 2023 Chalk Talk - Traffic Inspection with AWS Cloud WAN",
       "hosts"    : "Sidhartha Chauhan",
       "url"      : "/2024/02/29/chalk-talk_inspection.html",
