@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Introducing mTLS on Application Load Balancer with a live demonstration",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2024/03/21/ALB_mTLS.html",
+      "date"     : "21 Mar 2024",
+      "abstract" : "In this session we will talk about the recently released ALB feature mTLS. We will demonstrate how to enable this feature, talk about how to maintain the trust store, and how to implement this in existing workloads."
+    } ,
+  
+    {
       "title"    : "How to achieve availability and scale with Elastic Load Balancing",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2024/03/07/ELB_scale.html",
