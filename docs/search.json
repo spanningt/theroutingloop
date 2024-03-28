@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Generative AI with AWS Networking",
+      "hosts"    : "Jamie Wenzel, ",
+      "url"      : "/2024/03/28/net_genai.html",
+      "date"     : "28 Mar 2024",
+      "abstract" : "In this session we talk about AWS GenAI capabilities. We also have a discussion on how this can be applied to networking logs, CFN rollouts and troubleshooting, and the art of the possible for the AWS networking space."
+    } ,
+  
+    {
       "title"    : "Introducing mTLS on Application Load Balancer with a live demonstration",
       "hosts"    : "Jamie Wenzel",
       "url"      : "/2024/03/21/ALB_mTLS.html",
