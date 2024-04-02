@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Egress inspection architectures with AWS Network Firewall",
+      "hosts"    : "Tom Adamski",
+      "url"      : "/2024/04/04/anf_tls.html",
+      "date"     : "04 Apr 2024",
+      "abstract" : "Join to learn about egress network deployment models with AWS Network Firewall and how to control TLS encrypted traffic. Session will include a hands-on demo of ANF TLS inspection capabilities."
+    } ,
+  
+    {
       "title"    : "Generative AI with AWS Networking",
       "hosts"    : "Jamie Wenzel, ",
       "url"      : "/2024/03/28/net_genai.html",
