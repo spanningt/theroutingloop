@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Ingress inspection architectures on AWS",
+      "hosts"    : "Alex Huides",
+      "url"      : "/2024/04/18/ingress_inspection.html",
+      "date"     : "18 Apr 2024",
+      "abstract" : "Join to learn about different firewall deployments for your Internet facing applications. We&#39;ll cover network inspection basics and patterns for deployment of AWS WAF, AWS Network Firewall and 3rd party appliances. Expect a demo - time permitting."
+    } ,
+  
+    {
       "title"    : "Network Security Protections for LLMs",
       "hosts"    : "Riggs Goodman III",
       "url"      : "/2024/04/11/edge_llm.html",
