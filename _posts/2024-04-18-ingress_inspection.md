@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Ingress inspection architectures on AWS"
-videoid: 
+videoid: 2123327312
 date:   2024-04-18 10:30:00 -0800
 abstract: "Join to learn about different firewall deployments for your Internet facing applications. We'll cover network inspection basics and patterns for deployment of AWS WAF, AWS Network Firewall and 3rd party appliances. Expect a demo - time permitting."
 hosts: "Alex Huides"

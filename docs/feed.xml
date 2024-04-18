@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-04-17T11:53:45-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Ingress inspection architectures on AWS</title><link href="/2024/04/18/ingress_inspection.html" rel="alternate" type="text/html" title="Ingress inspection architectures on AWS" /><published>2024-04-18T11:30:00-07:00</published><updated>2024-04-18T11:30:00-07:00</updated><id>/2024/04/18/ingress_inspection</id><content type="html" xml:base="/2024/04/18/ingress_inspection.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-04-18T13:48:51-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Ingress inspection architectures on AWS</title><link href="/2024/04/18/ingress_inspection.html" rel="alternate" type="text/html" title="Ingress inspection architectures on AWS" /><published>2024-04-18T11:30:00-07:00</published><updated>2024-04-18T11:30:00-07:00</updated><id>/2024/04/18/ingress_inspection</id><content type="html" xml:base="/2024/04/18/ingress_inspection.html"><![CDATA[<div class="content-area">
   <span class="date">18 April 2024</span>
 
   <h1>Ingress inspection architectures on AWS</h1>
@@ -11,15 +11,13 @@
 
   
   
-  
-    <p>Session hasn't started. Join live on <b>18 April 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+     
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe src="https://player.twitch.tv/?video=2123327312&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   
 
-  
-    <b>Video on demand will become available soon after the livestream</b>
   
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 April 2024]]></summary></entry><entry><title type="html">Network Security Protections for LLMs</title><link href="/2024/04/11/edge_llm.html" rel="alternate" type="text/html" title="Network Security Protections for LLMs" /><published>2024-04-11T11:30:00-07:00</published><updated>2024-04-11T11:30:00-07:00</updated><id>/2024/04/11/edge_llm</id><content type="html" xml:base="/2024/04/11/edge_llm.html"><![CDATA[<div class="content-area">
   <span class="date">11 April 2024</span>
