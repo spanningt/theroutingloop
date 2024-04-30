@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Direct Connect and Hybrid Connectivity with Equinix",
+      "hosts"    : "Riggs Goodman III",
+      "url"      : "/2024/05/02/dx_equinix.html",
+      "date"     : "02 May 2024",
+      "abstract" : "Equinix is joining us for the Routing Loop this week. In this session, we will dive deep into the capabilities Equinix provides as a AWS Direct Connect partner to provide connectivity for hybrid workloads. In addition, we will have the Direct Connect Product Manager with us to discuss new capabilities we recently launched with DX"
+    } ,
+  
+    {
       "title"    : "Ingress inspection architectures on AWS",
       "hosts"    : "Alex Huides",
       "url"      : "/2024/04/18/ingress_inspection.html",
