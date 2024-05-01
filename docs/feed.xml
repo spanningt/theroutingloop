@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-04-30T07:22:03-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Direct Connect and Hybrid Connectivity with Equinix</title><link href="/2024/05/02/dx_equinix.html" rel="alternate" type="text/html" title="Direct Connect and Hybrid Connectivity with Equinix" /><published>2024-05-02T11:30:00-07:00</published><updated>2024-05-02T11:30:00-07:00</updated><id>/2024/05/02/dx_equinix</id><content type="html" xml:base="/2024/05/02/dx_equinix.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-01T10:10:29-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Direct Connect and Hybrid Connectivity with Equinix</title><link href="/2024/05/02/dx_equinix.html" rel="alternate" type="text/html" title="Direct Connect and Hybrid Connectivity with Equinix" /><published>2024-05-02T11:30:00-07:00</published><updated>2024-05-02T11:30:00-07:00</updated><id>/2024/05/02/dx_equinix</id><content type="html" xml:base="/2024/05/02/dx_equinix.html"><![CDATA[<div class="content-area">
   <span class="date">2 May 2024</span>
 
   <h1>Direct Connect and Hybrid Connectivity with Equinix</h1>
@@ -21,7 +21,28 @@
   
     <b>Video on demand will become available soon after the livestream</b>
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 May 2024]]></summary></entry><entry><title type="html">Ingress inspection architectures on AWS</title><link href="/2024/04/18/ingress_inspection.html" rel="alternate" type="text/html" title="Ingress inspection architectures on AWS" /><published>2024-04-18T11:30:00-07:00</published><updated>2024-04-18T11:30:00-07:00</updated><id>/2024/04/18/ingress_inspection</id><content type="html" xml:base="/2024/04/18/ingress_inspection.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 May 2024]]></summary></entry><entry><title type="html">Securing your applications against web threats with AWS WAF</title><link href="/2024/04/24/edge_waf.html" rel="alternate" type="text/html" title="Securing your applications against web threats with AWS WAF" /><published>2024-04-24T11:30:00-07:00</published><updated>2024-04-24T11:30:00-07:00</updated><id>/2024/04/24/edge_waf</id><content type="html" xml:base="/2024/04/24/edge_waf.html"><![CDATA[<div class="content-area">
+  <span class="date">24 April 2024</span>
+
+  <h1>Securing your applications against web threats with AWS WAF</h1>
+
+  <p><b>Hosts:</b><br />Sidhartha Chauhan</p>
+  <p><b>Guests:</b><br />Oleksandr Golovatyi, Sr Technical Account Manager <br /> Sagar Desarda,  US Tech Leader, Edge-Services</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />AWS WAF provides a multitude of capabilities for protecting your internet-facing applications. In this session, learn how applications fronted by Amazon CloudFront, Application Load Balancer, Amazon API Gateway, and other AWS services can be protected through seamless integration with AWS WAF. Get additional insights into AWS WAF configuration best practices to help secure your application at an optimal cost.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2134616096&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[24 April 2024]]></summary></entry><entry><title type="html">Ingress inspection architectures on AWS</title><link href="/2024/04/18/ingress_inspection.html" rel="alternate" type="text/html" title="Ingress inspection architectures on AWS" /><published>2024-04-18T11:30:00-07:00</published><updated>2024-04-18T11:30:00-07:00</updated><id>/2024/04/18/ingress_inspection</id><content type="html" xml:base="/2024/04/18/ingress_inspection.html"><![CDATA[<div class="content-area">
   <span class="date">18 April 2024</span>
 
   <h1>Ingress inspection architectures on AWS</h1>
@@ -189,25 +210,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS (Part2)</title><link href="/2024/02/15/chalk-talk_k8s_part2.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS (Part2)" /><published>2024-02-15T10:30:00-08:00</published><updated>2024-02-15T10:30:00-08:00</updated><id>/2024/02/15/chalk-talk_k8s_part2</id><content type="html" xml:base="/2024/02/15/chalk-talk_k8s_part2.html"><![CDATA[<div class="content-area">
-  <span class="date">15 February 2024</span>
-
-  <h1>re:Invent 2023 Chalk Talk - Networking strategies for Kubernetes on AWS (Part2)</h1>
-
-  <p><b>Hosts:</b><br />Alexandra Huides</p>
-  <p><b>Guests:</b><br />Federica Ciuffo, Senior Containers SA</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Deploying Kubernetes clusters requires collaboration between cluster operators, network operators, and security operators. This chalk talk, intended for developers, system admins, and DevOps engineers, explores strategies and considerations for cluster operators as they begin their journey into Kubernetes. Topics include pod networking, service discovery, cluster policies, load balancing, and service meshes. Join us to learn more about Kubernetes networking on AWS.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2063875733&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[15 February 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 February 2024]]></summary></entry></feed>

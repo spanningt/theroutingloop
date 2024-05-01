@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Securing your applications against web threats with AWS WAF",
+      "hosts"    : "Sidhartha Chauhan",
+      "url"      : "/2024/04/24/edge_waf.html",
+      "date"     : "24 Apr 2024",
+      "abstract" : "AWS WAF provides a multitude of capabilities for protecting your internet-facing applications. In this session, learn how applications fronted by Amazon CloudFront, Application Load Balancer, Amazon API Gateway, and other AWS services can be protected through seamless integration with AWS WAF. Get additional insights into AWS WAF configuration best practices to help secure your application at an optimal cost."
+    } ,
+  
+    {
       "title"    : "Ingress inspection architectures on AWS",
       "hosts"    : "Alex Huides",
       "url"      : "/2024/04/18/ingress_inspection.html",
