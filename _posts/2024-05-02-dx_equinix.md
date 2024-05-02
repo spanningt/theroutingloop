@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Direct Connect and Hybrid Connectivity with Equinix"
-videoid:
+videoid: 2135580586
 date:   2024-05-02 10:30:00 -0800
 abstract: "Equinix is joining us for the Routing Loop this week. In this session, we will dive deep into the capabilities Equinix provides as a AWS Direct Connect partner to provide connectivity for hybrid workloads. In addition, we will have the Direct Connect Product Manager with us to discuss new capabilities we recently launched with DX"
 hosts: "Riggs Goodman III"
