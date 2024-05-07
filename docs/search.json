@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration",
+      "hosts"    : "Matt Lehwess",
+      "url"      : "/2024/05/16/cisco_cloud_wan.html",
+      "date"     : "16 May 2024",
+      "abstract" : "Join our session with experts from AWS and Cisco as they walk you through the integration of AWS Cloud WAN with Cisco Catalyst SD-WAN. Learn about each solution, discover how they work together, and see how you can manage AWS Cloud WAN using Cisco SD-WAN. We&#39;ll also include a live demo."
+    } ,
+  
+    {
       "title"    : "Direct Connect and Hybrid Connectivity with Equinix",
       "hosts"    : "Riggs Goodman III",
       "url"      : "/2024/05/02/dx_equinix.html",

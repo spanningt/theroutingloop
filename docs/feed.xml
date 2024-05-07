@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-02T12:39:41-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Direct Connect and Hybrid Connectivity with Equinix</title><link href="/2024/05/02/dx_equinix.html" rel="alternate" type="text/html" title="Direct Connect and Hybrid Connectivity with Equinix" /><published>2024-05-02T11:30:00-07:00</published><updated>2024-05-02T11:30:00-07:00</updated><id>/2024/05/02/dx_equinix</id><content type="html" xml:base="/2024/05/02/dx_equinix.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-07T11:11:57-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</title><link href="/2024/05/16/cisco_cloud_wan.html" rel="alternate" type="text/html" title="Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration" /><published>2024-05-16T11:30:00-07:00</published><updated>2024-05-16T11:30:00-07:00</updated><id>/2024/05/16/cisco_cloud_wan</id><content type="html" xml:base="/2024/05/16/cisco_cloud_wan.html"><![CDATA[<div class="content-area">
+  <span class="date">16 May 2024</span>
+
+  <h1>Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</h1>
+
+  <p><b>Hosts:</b><br />Matt Lehwess</p>
+  <p><b>Guests:</b><br />AWS &amp; Cisco</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join our session with experts from AWS and Cisco as they walk you through the integration of AWS Cloud WAN with Cisco Catalyst SD-WAN. Learn about each solution, discover how they work together, and see how you can manage AWS Cloud WAN using Cisco SD-WAN. We'll also include a live demo.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>16 May 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 May 2024]]></summary></entry><entry><title type="html">Direct Connect and Hybrid Connectivity with Equinix</title><link href="/2024/05/02/dx_equinix.html" rel="alternate" type="text/html" title="Direct Connect and Hybrid Connectivity with Equinix" /><published>2024-05-02T11:30:00-07:00</published><updated>2024-05-02T11:30:00-07:00</updated><id>/2024/05/02/dx_equinix</id><content type="html" xml:base="/2024/05/02/dx_equinix.html"><![CDATA[<div class="content-area">
   <span class="date">2 May 2024</span>
 
   <h1>Direct Connect and Hybrid Connectivity with Equinix</h1>
@@ -187,25 +210,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 February 2024]]></summary></entry><entry><title type="html">re:Invent 2023 Chalk Talk - Connecting multicloud and hybrid networks</title><link href="/2024/02/22/chalk-talk_multicloud.html" rel="alternate" type="text/html" title="re:Invent 2023 Chalk Talk - Connecting multicloud and hybrid networks" /><published>2024-02-22T10:30:00-08:00</published><updated>2024-02-22T10:30:00-08:00</updated><id>/2024/02/22/chalk-talk_multicloud</id><content type="html" xml:base="/2024/02/22/chalk-talk_multicloud.html"><![CDATA[<div class="content-area">
-  <span class="date">22 February 2024</span>
-
-  <h1>re:Invent 2023 Chalk Talk - Connecting multicloud and hybrid networks</h1>
-
-  <p><b>Hosts:</b><br />Matt Lehwess</p>
-  <p><b>Guests:</b><br />James Devine, Principal SA <br /> Alexis Marcou, Senior SA</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />There is additional complexity to consider when connecting your network with other cloud providers, your on-premises network, or resources in a collocation facility. In this chalk talk, learn common patterns for multicloud and hybrid connectivity using AWS Direct Connect, AWS Cloud WAN, AWS Transit Gateway, AWS Site-to-Site VPN, or SD-WAN devices. Based on your questions, the talk will introduce real-world use cases and best practices.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2070685632&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[22 February 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[29 February 2024]]></summary></entry></feed>
