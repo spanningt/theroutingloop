@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Approaching security and identity with cloud networking",
+      "hosts"    : "Jamie Wenzel",
+      "url"      : "/2024/05/09/sec_id_net.html",
+      "date"     : "09 May 2024",
+      "abstract" : "In this session we talk about security from a wholistic approach as opposed to configurations on individual services. We will discuss best practices on how to plan, create and manage your security and identity, And what it means and looks like in practice."
+    } ,
+  
+    {
       "title"    : "Direct Connect and Hybrid Connectivity with Equinix",
       "hosts"    : "Riggs Goodman III",
       "url"      : "/2024/05/02/dx_equinix.html",
