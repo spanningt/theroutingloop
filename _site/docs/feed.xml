@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-10T08:19:42-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</title><link href="/2024/05/16/cisco_cloud_wan.html" rel="alternate" type="text/html" title="Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration" /><published>2024-05-16T11:30:00-07:00</published><updated>2024-05-16T11:30:00-07:00</updated><id>/2024/05/16/cisco_cloud_wan</id><content type="html" xml:base="/2024/05/16/cisco_cloud_wan.html"><![CDATA[<div class="content-area">
+  <span class="date">16 May 2024</span>
+
+  <h1>Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</h1>
+
+  <p><b>Hosts:</b><br />Matt Lehwess</p>
+  <p><b>Guests:</b><br />AWS &amp; Cisco</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join our session with experts from AWS and Cisco as they walk you through the integration of AWS Cloud WAN with Cisco Catalyst SD-WAN. Learn about each solution, discover how they work together, and see how you can manage AWS Cloud WAN using Cisco SD-WAN. We'll also include a live demo.
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>16 May 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 May 2024]]></summary></entry><entry><title type="html">Approaching security and identity with cloud networking</title><link href="/2024/05/09/sec_id_net.html" rel="alternate" type="text/html" title="Approaching security and identity with cloud networking" /><published>2024-05-09T11:30:00-07:00</published><updated>2024-05-09T11:30:00-07:00</updated><id>/2024/05/09/sec_id_net</id><content type="html" xml:base="/2024/05/09/sec_id_net.html"><![CDATA[<div class="content-area">
+  <span class="date">9 May 2024</span>
+
+  <h1>Approaching security and identity with cloud networking</h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel</p>
+  <p><b>Guests:</b><br />Everett Hinckley, Principal Security Consultant</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />In this session we talk about security from a wholistic approach as opposed to configurations on individual services. We will discuss best practices on how to plan, create and manage your security and identity, And what it means and looks like in practice.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2142214223&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[9 May 2024]]></summary></entry><entry><title type="html">Direct Connect and Hybrid Connectivity with Equinix</title><link href="/2024/05/02/dx_equinix.html" rel="alternate" type="text/html" title="Direct Connect and Hybrid Connectivity with Equinix" /><published>2024-05-02T11:30:00-07:00</published><updated>2024-05-02T11:30:00-07:00</updated><id>/2024/05/02/dx_equinix</id><content type="html" xml:base="/2024/05/02/dx_equinix.html"><![CDATA[<div class="content-area">
+  <span class="date">2 May 2024</span>
+
+  <h1>Direct Connect and Hybrid Connectivity with Equinix</h1>
+
+  <p><b>Hosts:</b><br />Riggs Goodman III</p>
+  <p><b>Guests:</b><br />Equinix Team </p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Equinix is joining us for the Routing Loop this week. In this session, we will dive deep into the capabilities Equinix provides as a AWS Direct Connect partner to provide connectivity for hybrid workloads. In addition, we will have the Direct Connect Product Manager with us to discuss new capabilities we recently launched with DX
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2135580586&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 May 2024]]></summary></entry><entry><title type="html">Securing your applications against web threats with AWS WAF</title><link href="/2024/04/24/edge_waf.html" rel="alternate" type="text/html" title="Securing your applications against web threats with AWS WAF" /><published>2024-04-24T11:30:00-07:00</published><updated>2024-04-24T11:30:00-07:00</updated><id>/2024/04/24/edge_waf</id><content type="html" xml:base="/2024/04/24/edge_waf.html"><![CDATA[<div class="content-area">
+  <span class="date">24 April 2024</span>
+
+  <h1>Securing your applications against web threats with AWS WAF</h1>
+
+  <p><b>Hosts:</b><br />Sidhartha Chauhan</p>
+  <p><b>Guests:</b><br />Oleksandr Golovatyi, Sr Technical Account Manager <br /> Sagar Desarda,  US Tech Leader, Edge-Services</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />AWS WAF provides a multitude of capabilities for protecting your internet-facing applications. In this session, learn how applications fronted by Amazon CloudFront, Application Load Balancer, Amazon API Gateway, and other AWS services can be protected through seamless integration with AWS WAF. Get additional insights into AWS WAF configuration best practices to help secure your application at an optimal cost.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2134616096&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[24 April 2024]]></summary></entry><entry><title type="html">Ingress inspection architectures on AWS</title><link href="/2024/04/18/ingress_inspection.html" rel="alternate" type="text/html" title="Ingress inspection architectures on AWS" /><published>2024-04-18T11:30:00-07:00</published><updated>2024-04-18T11:30:00-07:00</updated><id>/2024/04/18/ingress_inspection</id><content type="html" xml:base="/2024/04/18/ingress_inspection.html"><![CDATA[<div class="content-area">
+  <span class="date">18 April 2024</span>
+
+  <h1>Ingress inspection architectures on AWS</h1>
+
+  <p><b>Hosts:</b><br />Alex Huides</p>
+  <p><b>Guests:</b><br />Tom Adamski, Principal SA, Networking </p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join to learn about different firewall deployments for your Internet facing applications. We'll cover network inspection basics and patterns for deployment of AWS WAF, AWS Network Firewall and 3rd party appliances. Expect a demo - time permitting.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2123327312&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 April 2024]]></summary></entry><entry><title type="html">Network Security Protections for LLMs</title><link href="/2024/04/11/edge_llm.html" rel="alternate" type="text/html" title="Network Security Protections for LLMs" /><published>2024-04-11T11:30:00-07:00</published><updated>2024-04-11T11:30:00-07:00</updated><id>/2024/04/11/edge_llm</id><content type="html" xml:base="/2024/04/11/edge_llm.html"><![CDATA[<div class="content-area">
+  <span class="date">11 April 2024</span>
+
+  <h1>Network Security Protections for LLMs</h1>
+
+  <p><b>Hosts:</b><br />Riggs Goodman III</p>
+  <p><b>Guests:</b><br />Adam Boeglin, Principal SA, ML Infrastructure <br /> Alan Erdley, Principal Edge GTM Specialist <br /> EJ Chen, Sr Solutions Architect, Edge <br /> Justin Kurpius, Sr Edge Specialist</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Large Language Models are top of mind for many customers of AWS with the development of Gen AI applications. However, managing the applications applications against unwanted traffic can result in increased costs. In this Routing Loop Session, we will dive into the affects of bot traffic on LLM applications, the impact to costs, and how you can provide network layer security capabilities using AWS WAF and Amazon CloudFront to mitigate this traffic. At the end, we will dive into the different AWS chipsets that support these workloads, including AWS Trainium and AWS Inferentia.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2117152694&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 April 2024]]></summary></entry><entry><title type="html">Egress inspection architectures with AWS Network Firewall</title><link href="/2024/04/04/anf_tls.html" rel="alternate" type="text/html" title="Egress inspection architectures with AWS Network Firewall" /><published>2024-04-04T11:30:00-07:00</published><updated>2024-04-04T11:30:00-07:00</updated><id>/2024/04/04/anf_tls</id><content type="html" xml:base="/2024/04/04/anf_tls.html"><![CDATA[<div class="content-area">
+  <span class="date">4 April 2024</span>
+
+  <h1>Egress inspection architectures with AWS Network Firewall</h1>
+
+  <p><b>Hosts:</b><br />Tom Adamski</p>
+  <p><b>Guests:</b><br /></p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join to learn about egress network deployment models with AWS Network Firewall and how to control TLS encrypted traffic. Session will include a hands-on demo of ANF TLS inspection capabilities.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2110792611&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[4 April 2024]]></summary></entry><entry><title type="html">Generative AI with AWS Networking</title><link href="/2024/03/28/net_genai.html" rel="alternate" type="text/html" title="Generative AI with AWS Networking" /><published>2024-03-28T11:30:00-07:00</published><updated>2024-03-28T11:30:00-07:00</updated><id>/2024/03/28/net_genai</id><content type="html" xml:base="/2024/03/28/net_genai.html"><![CDATA[<div class="content-area">
+  <span class="date">28 March 2024</span>
+
+  <h1>Generative AI with AWS Networking</h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel, </p>
+  <p><b>Guests:</b><br />Du'An Lightfoot, Sr. Developer Advocate <br /> Sidhartha Chauhan, Principal Solutions Architect</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />In this session we talk about AWS GenAI capabilities. We also have a discussion on how this can be applied to networking logs, CFN rollouts and troubleshooting, and the art of the possible for the AWS networking space.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2104174218&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[28 March 2024]]></summary></entry><entry><title type="html">Introducing mTLS on Application Load Balancer with a live demonstration</title><link href="/2024/03/21/ALB_mTLS.html" rel="alternate" type="text/html" title="Introducing mTLS on Application Load Balancer with a live demonstration" /><published>2024-03-21T11:30:00-07:00</published><updated>2024-03-21T11:30:00-07:00</updated><id>/2024/03/21/ALB_mTLS</id><content type="html" xml:base="/2024/03/21/ALB_mTLS.html"><![CDATA[<div class="content-area">
+  <span class="date">21 March 2024</span>
+
+  <h1>Introducing mTLS on Application Load Balancer with a live demonstration</h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel</p>
+  <p><b>Guests:</b><br />William Wang, Sr. Product Manager <br /> Ankit Chadha, Sr Networking Solutions Architect</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />In this session we will talk about the recently released ALB feature mTLS. We will demonstrate how to enable this feature, talk about how to maintain the trust store, and how to implement this in existing workloads.
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2101133816&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 March 2024]]></summary></entry><entry><title type="html">How to achieve availability and scale with Elastic Load Balancing</title><link href="/2024/03/07/ELB_scale.html" rel="alternate" type="text/html" title="How to achieve availability and scale with Elastic Load Balancing" /><published>2024-03-07T10:30:00-08:00</published><updated>2024-03-07T10:30:00-08:00</updated><id>/2024/03/07/ELB_scale</id><content type="html" xml:base="/2024/03/07/ELB_scale.html"><![CDATA[<div class="content-area">
+  <span class="date">7 March 2024</span>
+
+  <h1>How to achieve availability and scale with Elastic Load Balancing</h1>
+
+  <p><b>Hosts:</b><br />Jamie Wenzel</p>
+  <p><b>Guests:</b><br />Jon Zobrist, Head of ELB customer success</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />Join Jamie and Zob to deep dive into Elastic Load Balancing services and learn how they help with crating highly available and scalable architectures.  .
+  </div>
+
+  
+  
+     
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?video=2084056897&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
+  
+
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[7 March 2024]]></summary></entry></feed>
