@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-10T08:19:42-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</title><link href="/2024/05/16/cisco_cloud_wan.html" rel="alternate" type="text/html" title="Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration" /><published>2024-05-16T11:30:00-07:00</published><updated>2024-05-16T11:30:00-07:00</updated><id>/2024/05/16/cisco_cloud_wan</id><content type="html" xml:base="/2024/05/16/cisco_cloud_wan.html"><![CDATA[<div class="content-area">
-  <span class="date">16 May 2024</span>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-22T12:49:17-04:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</title><link href="/2024/05/23/cisco_cloud_wan.html" rel="alternate" type="text/html" title="Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration" /><published>2024-05-23T11:00:00-04:00</published><updated>2024-05-23T11:00:00-04:00</updated><id>/2024/05/23/cisco_cloud_wan</id><content type="html" xml:base="/2024/05/23/cisco_cloud_wan.html"><![CDATA[<div class="content-area">
+  <span class="date">23 May 2024</span>
 
   <h1>Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</h1>
 
-  <p><b>Hosts:</b><br />Matt Lehwess</p>
+  <p><b>Hosts:</b><br />Matt Lehwess, Jamie Wenzel</p>
   <p><b>Guests:</b><br />AWS &amp; Cisco</p>
   <div class="abstract">
     <b>Abstract:</b><br />Join our session with experts from AWS and Cisco as they walk you through the integration of AWS Cloud WAN with Cisco Catalyst SD-WAN. Learn about each solution, discover how they work together, and see how you can manage AWS Cloud WAN using Cisco SD-WAN. We'll also include a live demo.
@@ -12,7 +12,7 @@
   
   
   
-    <p>Session hasn't started. Join live on <b>16 May 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <p>Session hasn't started. Join live on <b>23 May 2024 at 7:00AM PST / 10:00PM EST / 3:00PM GMT</b></p>
     <div class="video-container">
       <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
@@ -21,7 +21,7 @@
   
     <b>Video on demand will become available soon after the livestream</b>
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[16 May 2024]]></summary></entry><entry><title type="html">Approaching security and identity with cloud networking</title><link href="/2024/05/09/sec_id_net.html" rel="alternate" type="text/html" title="Approaching security and identity with cloud networking" /><published>2024-05-09T11:30:00-07:00</published><updated>2024-05-09T11:30:00-07:00</updated><id>/2024/05/09/sec_id_net</id><content type="html" xml:base="/2024/05/09/sec_id_net.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 May 2024]]></summary></entry><entry><title type="html">Approaching security and identity with cloud networking</title><link href="/2024/05/09/sec_id_net.html" rel="alternate" type="text/html" title="Approaching security and identity with cloud networking" /><published>2024-05-09T14:30:00-04:00</published><updated>2024-05-09T14:30:00-04:00</updated><id>/2024/05/09/sec_id_net</id><content type="html" xml:base="/2024/05/09/sec_id_net.html"><![CDATA[<div class="content-area">
   <span class="date">9 May 2024</span>
 
   <h1>Approaching security and identity with cloud networking</h1>
@@ -42,7 +42,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[9 May 2024]]></summary></entry><entry><title type="html">Direct Connect and Hybrid Connectivity with Equinix</title><link href="/2024/05/02/dx_equinix.html" rel="alternate" type="text/html" title="Direct Connect and Hybrid Connectivity with Equinix" /><published>2024-05-02T11:30:00-07:00</published><updated>2024-05-02T11:30:00-07:00</updated><id>/2024/05/02/dx_equinix</id><content type="html" xml:base="/2024/05/02/dx_equinix.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[9 May 2024]]></summary></entry><entry><title type="html">Direct Connect and Hybrid Connectivity with Equinix</title><link href="/2024/05/02/dx_equinix.html" rel="alternate" type="text/html" title="Direct Connect and Hybrid Connectivity with Equinix" /><published>2024-05-02T14:30:00-04:00</published><updated>2024-05-02T14:30:00-04:00</updated><id>/2024/05/02/dx_equinix</id><content type="html" xml:base="/2024/05/02/dx_equinix.html"><![CDATA[<div class="content-area">
   <span class="date">2 May 2024</span>
 
   <h1>Direct Connect and Hybrid Connectivity with Equinix</h1>
@@ -63,7 +63,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 May 2024]]></summary></entry><entry><title type="html">Securing your applications against web threats with AWS WAF</title><link href="/2024/04/24/edge_waf.html" rel="alternate" type="text/html" title="Securing your applications against web threats with AWS WAF" /><published>2024-04-24T11:30:00-07:00</published><updated>2024-04-24T11:30:00-07:00</updated><id>/2024/04/24/edge_waf</id><content type="html" xml:base="/2024/04/24/edge_waf.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[2 May 2024]]></summary></entry><entry><title type="html">Securing your applications against web threats with AWS WAF</title><link href="/2024/04/24/edge_waf.html" rel="alternate" type="text/html" title="Securing your applications against web threats with AWS WAF" /><published>2024-04-24T14:30:00-04:00</published><updated>2024-04-24T14:30:00-04:00</updated><id>/2024/04/24/edge_waf</id><content type="html" xml:base="/2024/04/24/edge_waf.html"><![CDATA[<div class="content-area">
   <span class="date">24 April 2024</span>
 
   <h1>Securing your applications against web threats with AWS WAF</h1>
@@ -84,7 +84,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[24 April 2024]]></summary></entry><entry><title type="html">Ingress inspection architectures on AWS</title><link href="/2024/04/18/ingress_inspection.html" rel="alternate" type="text/html" title="Ingress inspection architectures on AWS" /><published>2024-04-18T11:30:00-07:00</published><updated>2024-04-18T11:30:00-07:00</updated><id>/2024/04/18/ingress_inspection</id><content type="html" xml:base="/2024/04/18/ingress_inspection.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[24 April 2024]]></summary></entry><entry><title type="html">Ingress inspection architectures on AWS</title><link href="/2024/04/18/ingress_inspection.html" rel="alternate" type="text/html" title="Ingress inspection architectures on AWS" /><published>2024-04-18T14:30:00-04:00</published><updated>2024-04-18T14:30:00-04:00</updated><id>/2024/04/18/ingress_inspection</id><content type="html" xml:base="/2024/04/18/ingress_inspection.html"><![CDATA[<div class="content-area">
   <span class="date">18 April 2024</span>
 
   <h1>Ingress inspection architectures on AWS</h1>
@@ -105,7 +105,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 April 2024]]></summary></entry><entry><title type="html">Network Security Protections for LLMs</title><link href="/2024/04/11/edge_llm.html" rel="alternate" type="text/html" title="Network Security Protections for LLMs" /><published>2024-04-11T11:30:00-07:00</published><updated>2024-04-11T11:30:00-07:00</updated><id>/2024/04/11/edge_llm</id><content type="html" xml:base="/2024/04/11/edge_llm.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 April 2024]]></summary></entry><entry><title type="html">Network Security Protections for LLMs</title><link href="/2024/04/11/edge_llm.html" rel="alternate" type="text/html" title="Network Security Protections for LLMs" /><published>2024-04-11T14:30:00-04:00</published><updated>2024-04-11T14:30:00-04:00</updated><id>/2024/04/11/edge_llm</id><content type="html" xml:base="/2024/04/11/edge_llm.html"><![CDATA[<div class="content-area">
   <span class="date">11 April 2024</span>
 
   <h1>Network Security Protections for LLMs</h1>
@@ -126,7 +126,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 April 2024]]></summary></entry><entry><title type="html">Egress inspection architectures with AWS Network Firewall</title><link href="/2024/04/04/anf_tls.html" rel="alternate" type="text/html" title="Egress inspection architectures with AWS Network Firewall" /><published>2024-04-04T11:30:00-07:00</published><updated>2024-04-04T11:30:00-07:00</updated><id>/2024/04/04/anf_tls</id><content type="html" xml:base="/2024/04/04/anf_tls.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 April 2024]]></summary></entry><entry><title type="html">Egress inspection architectures with AWS Network Firewall</title><link href="/2024/04/04/anf_tls.html" rel="alternate" type="text/html" title="Egress inspection architectures with AWS Network Firewall" /><published>2024-04-04T14:30:00-04:00</published><updated>2024-04-04T14:30:00-04:00</updated><id>/2024/04/04/anf_tls</id><content type="html" xml:base="/2024/04/04/anf_tls.html"><![CDATA[<div class="content-area">
   <span class="date">4 April 2024</span>
 
   <h1>Egress inspection architectures with AWS Network Firewall</h1>
@@ -147,7 +147,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[4 April 2024]]></summary></entry><entry><title type="html">Generative AI with AWS Networking</title><link href="/2024/03/28/net_genai.html" rel="alternate" type="text/html" title="Generative AI with AWS Networking" /><published>2024-03-28T11:30:00-07:00</published><updated>2024-03-28T11:30:00-07:00</updated><id>/2024/03/28/net_genai</id><content type="html" xml:base="/2024/03/28/net_genai.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[4 April 2024]]></summary></entry><entry><title type="html">Generative AI with AWS Networking</title><link href="/2024/03/28/net_genai.html" rel="alternate" type="text/html" title="Generative AI with AWS Networking" /><published>2024-03-28T14:30:00-04:00</published><updated>2024-03-28T14:30:00-04:00</updated><id>/2024/03/28/net_genai</id><content type="html" xml:base="/2024/03/28/net_genai.html"><![CDATA[<div class="content-area">
   <span class="date">28 March 2024</span>
 
   <h1>Generative AI with AWS Networking</h1>
@@ -168,7 +168,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[28 March 2024]]></summary></entry><entry><title type="html">Introducing mTLS on Application Load Balancer with a live demonstration</title><link href="/2024/03/21/ALB_mTLS.html" rel="alternate" type="text/html" title="Introducing mTLS on Application Load Balancer with a live demonstration" /><published>2024-03-21T11:30:00-07:00</published><updated>2024-03-21T11:30:00-07:00</updated><id>/2024/03/21/ALB_mTLS</id><content type="html" xml:base="/2024/03/21/ALB_mTLS.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[28 March 2024]]></summary></entry><entry><title type="html">Introducing mTLS on Application Load Balancer with a live demonstration</title><link href="/2024/03/21/ALB_mTLS.html" rel="alternate" type="text/html" title="Introducing mTLS on Application Load Balancer with a live demonstration" /><published>2024-03-21T14:30:00-04:00</published><updated>2024-03-21T14:30:00-04:00</updated><id>/2024/03/21/ALB_mTLS</id><content type="html" xml:base="/2024/03/21/ALB_mTLS.html"><![CDATA[<div class="content-area">
   <span class="date">21 March 2024</span>
 
   <h1>Introducing mTLS on Application Load Balancer with a live demonstration</h1>
@@ -189,7 +189,7 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 March 2024]]></summary></entry><entry><title type="html">How to achieve availability and scale with Elastic Load Balancing</title><link href="/2024/03/07/ELB_scale.html" rel="alternate" type="text/html" title="How to achieve availability and scale with Elastic Load Balancing" /><published>2024-03-07T10:30:00-08:00</published><updated>2024-03-07T10:30:00-08:00</updated><id>/2024/03/07/ELB_scale</id><content type="html" xml:base="/2024/03/07/ELB_scale.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[21 March 2024]]></summary></entry><entry><title type="html">How to achieve availability and scale with Elastic Load Balancing</title><link href="/2024/03/07/ELB_scale.html" rel="alternate" type="text/html" title="How to achieve availability and scale with Elastic Load Balancing" /><published>2024-03-07T13:30:00-05:00</published><updated>2024-03-07T13:30:00-05:00</updated><id>/2024/03/07/ELB_scale</id><content type="html" xml:base="/2024/03/07/ELB_scale.html"><![CDATA[<div class="content-area">
   <span class="date">7 March 2024</span>
 
   <h1>How to achieve availability and scale with Elastic Load Balancing</h1>
