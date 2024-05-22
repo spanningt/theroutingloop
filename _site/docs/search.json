@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Getting to know Amazon VPC IP Address Manager",
+      "hosts"    : "Jamie Wenzel, Matt Lehwess",
+      "url"      : "/2024/05/23/IPAM_net.html",
+      "date"     : "23 May 2024",
+      "abstract" : "Amazon VPC IP Address Manager (IPAM) is a service that simplifies IP address management. This service helps you plan, track, allocate and monitor your IP adddresses in a unified operational view across your AWS environment. Join us for a service overview, and live demonstration"
+    } ,
+  
+    {
       "title"    : "Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration",
       "hosts"    : "Matt Lehwess, Jamie Wenzel",
       "url"      : "/2024/05/23/cisco_cloud_wan.html",
