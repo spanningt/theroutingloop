@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-22T12:38:34-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</title><link href="http://localhost:4000/2024/05/23/cisco_cloud_wan.html" rel="alternate" type="text/html" title="Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration" /><published>2024-05-23T11:00:00-04:00</published><updated>2024-05-23T11:00:00-04:00</updated><id>http://localhost:4000/2024/05/23/cisco_cloud_wan</id><content type="html" xml:base="http://localhost:4000/2024/05/23/cisco_cloud_wan.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-05-22T12:53:21-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</title><link href="http://localhost:4000/2024/05/23/cisco_cloud_wan.html" rel="alternate" type="text/html" title="Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration" /><published>2024-05-23T11:00:00-04:00</published><updated>2024-05-23T11:00:00-04:00</updated><id>http://localhost:4000/2024/05/23/cisco_cloud_wan</id><content type="html" xml:base="http://localhost:4000/2024/05/23/cisco_cloud_wan.html"><![CDATA[<div class="content-area">
   <span class="date">23 May 2024</span>
 
   <h1>Streamlining Your Network: AWS Cloud WAN and Cisco SD-WAN Integration</h1>
@@ -12,7 +12,7 @@
   
   
   
-    <p>Session hasn't started. Join live on <b>23 May 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <p>Session hasn't started. Join live on <b>23 May 2024 at 7:00AM PST / 10:00PM EST / 3:00PM GMT</b></p>
     <div class="video-container">
       <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
