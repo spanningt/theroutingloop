@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "World IPv6 Day (ALL DAY)",
+      "hosts"    : "Regional Hosts in New York, Seattle, San Francisco, London, Mumbai,Bangkok, Manila, Kuala Lumpur Capital of Malaysia , Beijing, Singapore, and Sydney",
+      "url"      : "/2024/06/06/ipv6_day.html",
+      "date"     : "06 Jun 2024",
+      "abstract" : "Join us for a whole day (9:00 AM - 3:30 PM All times are Local time ) of sessions highlighting IPv6 within AWS networking. We&#39;ll have a mix of Guest Speakers, white boarding,  a hands-on workshop, and presentations"
+    } ,
+  
+    {
       "title"    : "Ask Me Anything with Alex and Scott",
       "hosts"    : "Alex Huides",
-      "url"      : "/2024/05/23/AMA_net.html",
-      "date"     : "23 May 2024",
+      "url"      : "/2024/05/30/AMA_net.html",
+      "date"     : "30 May 2024",
       "abstract" : "This is an ask me anything session where our audience brings their networking questions, and go over networking architectures with Alex Huides and Scott Morrison."
     } ,
   
