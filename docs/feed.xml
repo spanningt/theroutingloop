@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-06-12T16:43:03-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">New Launch: AWS Cloud WAN Service Insertion</title><link href="/2024/06/13/service_insertion.html" rel="alternate" type="text/html" title="New Launch: AWS Cloud WAN Service Insertion" /><published>2024-06-13T11:30:00-07:00</published><updated>2024-06-13T11:30:00-07:00</updated><id>/2024/06/13/service_insertion</id><content type="html" xml:base="/2024/06/13/service_insertion.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-06-13T13:16:59-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">New Launch: AWS Cloud WAN Service Insertion</title><link href="/2024/06/13/service_insertion.html" rel="alternate" type="text/html" title="New Launch: AWS Cloud WAN Service Insertion" /><published>2024-06-13T11:30:00-07:00</published><updated>2024-06-13T11:30:00-07:00</updated><id>/2024/06/13/service_insertion</id><content type="html" xml:base="/2024/06/13/service_insertion.html"><![CDATA[<div class="content-area">
   <span class="date">13 June 2024</span>
 
   <h1>New Launch: AWS Cloud WAN Service Insertion</h1>
@@ -11,15 +11,13 @@
 
   
   
-  
-    <p>Session hasn't started. Join live on <b>13 June 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+     
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe src="https://player.twitch.tv/?video=2171257466&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   
 
-  
-    <b>Video on demand will become available soon after the livestream</b>
   
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[13 June 2024]]></summary></entry><entry><title type="html">World IPv6 Day (ALL DAY)</title><link href="/2024/06/06/ipv6_day.html" rel="alternate" type="text/html" title="World IPv6 Day (ALL DAY)" /><published>2024-06-06T11:00:00-07:00</published><updated>2024-06-06T11:00:00-07:00</updated><id>/2024/06/06/ipv6_day</id><content type="html" xml:base="/2024/06/06/ipv6_day.html"><![CDATA[<div class="content-area">
   <span class="date">6 June 2024</span>

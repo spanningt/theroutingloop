@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "New Launch: AWS Cloud WAN Service Insertion"
-videoid: 
+videoid: 2171257466
 date:   2024-06-13 10:30:00 -0800
 abstract: "Join us for a live demo of the new Cloud WAN service insertion feature we launched at re:Inforce on 6/11!
 We’ll review centralized inspection architectures and see the step by step configuration options!"
