@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "New Launch: AWS Cloud WAN Service Insertion",
+      "hosts"    : "Alex & Matt",
+      "url"      : "/2024/06/13/service_insertion.html",
+      "date"     : "13 Jun 2024",
+      "abstract" : "Join us for a live demo of the new Cloud WAN service insertion feature we launched at re:Inforce on 6/11! We’ll review centralized inspection architectures and see the step by step configuration options!"
+    } ,
+  
+    {
       "title"    : "World IPv6 Day (ALL DAY)",
       "hosts"    : "Alex, Tom, Matt",
       "url"      : "/2024/06/06/ipv6_day.html",
