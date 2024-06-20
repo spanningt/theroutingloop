@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-18T07:50:00-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Simplify DNS management using Route 53 Profiles</title><link href="http://localhost:4000/2024/06/20/resolver_profiles.html" rel="alternate" type="text/html" title="Simplify DNS management using Route 53 Profiles" /><published>2024-06-20T11:30:00-07:00</published><updated>2024-06-20T11:30:00-07:00</updated><id>http://localhost:4000/2024/06/20/resolver_profiles</id><content type="html" xml:base="http://localhost:4000/2024/06/20/resolver_profiles.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-06-20T08:07:49-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="http://localhost:4000/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T11:30:00-07:00</published><updated>2024-07-25T11:30:00-07:00</updated><id>http://localhost:4000/2024/07/25/code_talk</id><content type="html" xml:base="http://localhost:4000/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
+  <span class="date">25 July 2024</span>
+
+  <h1>Code Talk: Moving to Zero Trust architecture on AWS</h1>
+
+  <p><b>Hosts:</b><br />Tom</p>
+  <p><b>Guests:</b><br /> Adam Palmer, Principal Solutions Architect, Networking <br /> Pablo Sánchez Carmona, Sr. Solutions Architect, Networking</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />This is a Code Talk, so time to learn while we code! Today, learn how you can use AWS Verified Access and Amazon VPC Lattice to implement a Zero Trust security model on AWS. Learn best practices to create least-privilege access and microsegmentation across workloads. Additionally, find out how infrastructure as code can enable automated deployment and management of robust Zero Trust environments. Sounds good? Join us!
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>25 July 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 July 2024]]></summary></entry><entry><title type="html">Simplify DNS management using Route 53 Profiles</title><link href="http://localhost:4000/2024/06/20/resolver_profiles.html" rel="alternate" type="text/html" title="Simplify DNS management using Route 53 Profiles" /><published>2024-06-20T11:30:00-07:00</published><updated>2024-06-20T11:30:00-07:00</updated><id>http://localhost:4000/2024/06/20/resolver_profiles</id><content type="html" xml:base="http://localhost:4000/2024/06/20/resolver_profiles.html"><![CDATA[<div class="content-area">
   <span class="date">20 June 2024</span>
 
   <h1>Simplify DNS management using Route 53 Profiles</h1>
@@ -216,25 +239,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[24 April 2024]]></summary></entry><entry><title type="html">Ingress inspection architectures on AWS</title><link href="http://localhost:4000/2024/04/18/ingress_inspection.html" rel="alternate" type="text/html" title="Ingress inspection architectures on AWS" /><published>2024-04-18T11:30:00-07:00</published><updated>2024-04-18T11:30:00-07:00</updated><id>http://localhost:4000/2024/04/18/ingress_inspection</id><content type="html" xml:base="http://localhost:4000/2024/04/18/ingress_inspection.html"><![CDATA[<div class="content-area">
-  <span class="date">18 April 2024</span>
-
-  <h1>Ingress inspection architectures on AWS</h1>
-
-  <p><b>Hosts:</b><br />Alex Huides</p>
-  <p><b>Guests:</b><br />Tom Adamski, Principal SA, Networking </p>
-  <div class="abstract">
-    <b>Abstract:</b><br />Join to learn about different firewall deployments for your Internet facing applications. We'll cover network inspection basics and patterns for deployment of AWS WAF, AWS Network Firewall and 3rd party appliances. Expect a demo - time permitting.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2123327312&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 April 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[24 April 2024]]></summary></entry></feed>
