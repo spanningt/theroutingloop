@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Evolution of enterprise networking in the cloud"
-videoid: 
+videoid: 2183236247
 date:   2024-06-27 10:30:00 -0800
 abstract: "Let's talk about enterprise networking evolution! We have Andrew Grey and Scott Morrison, who have tenure in the traditional and cloud networking worlds. We will hear about their experiences as they have seen traditional networking and cloud networking evolve. In this fireside chat, we will explore where the networking world is going based on their experience. Bring your questions!"
 hosts: "Jamie"
