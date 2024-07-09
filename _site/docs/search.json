@@ -9,11 +9,19 @@
     } ,
   
     {
+      "title"    : "Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity",
+      "hosts"    : "Jamie",
+      "url"      : "/2024/07/11/GenAI-Networking-2.html",
+      "date"     : "11 Jul 2024",
+      "abstract" : "Discover how generative AI is revolutionizing the daily work of network engineers. Tune in to learn how to leverage cutting-edge AI assistants to boost your productivity and streamline complex tasks such as:  1) RAG-Powered Knowledge Basics: Enhancing your troubleshooting with AI that understands network contexts.  2) Amazon Bedrock Agents: Creating your personal AI network assistant for faster problem solving.  3) Amazon Q Developer: Accelerating NetDevOps workflows and automating code generation."
+    } ,
+  
+    {
       "title"    : "Evolution of enterprise networking in the cloud",
       "hosts"    : "Jamie",
       "url"      : "/2024/06/27/Large-industry-cloud-evolution.html",
       "date"     : "27 Jun 2024",
-      "abstract" : "Let&#39;s talk about enterprise networking evolution! We have Andrew Grey and Scott Morrison, who have tenure in the traditional and cloud networking worlds. We will hear about their experiences as they have seen traditional networking and cloud networking evolve. In this fireside chat, we will explore where the networking world is going based on their experience. Bring your questions!"
+      "abstract" : "Let&#39;s talk about enterprise networking evolution! We have Andrew Gray and Scott Morrison, who have tenure in the traditional and cloud networking worlds. We will hear about their experiences as they have seen traditional networking and cloud networking evolve. In this fireside chat, we will explore where the networking world is going based on their experience. Bring your questions!"
     } ,
   
     {
