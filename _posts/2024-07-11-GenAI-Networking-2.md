@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity"
-videoid: 
+videoid: 2195132238
 date:   2024-07-11 10:30:00 -0800
 abstract: "Discover how generative AI is revolutionizing the daily work of network engineers. Tune in to learn how to leverage cutting-edge AI assistants to boost your productivity and streamline complex tasks such as: <br><br> 1) RAG-Powered Knowledge Basics: Enhancing your troubleshooting with AI that understands network contexts. <br> 2) Amazon Bedrock Agents: Creating your personal AI network assistant for faster problem solving. <br> 3) Amazon Q Developer: Accelerating NetDevOps workflows and automating code generation."
 hosts: "Jamie"
