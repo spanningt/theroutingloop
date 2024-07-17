@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "All Things Support, and Lessons Learned",
+      "hosts"    : "Matt <br> Jamie",
+      "url"      : "/2024/07/18/Lessons_learned_support_talk.html",
+      "date"     : "18 Jul 2024",
+      "abstract" : "In this session we will talk about how Support works. What they do to figure out a problem. How to determine if something is a bug or misconfiguration. Common gotchas and advise on how to deploy AWS networking constructs for scale, security and reliablility"
+    } ,
+  
+    {
       "title"    : "Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity",
       "hosts"    : "Jamie",
       "url"      : "/2024/07/11/GenAI-Networking-2.html",

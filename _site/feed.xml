@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-09T09:17:00-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="http://localhost:4000/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T14:30:00-04:00</published><updated>2024-07-25T14:30:00-04:00</updated><id>http://localhost:4000/2024/07/25/code_talk</id><content type="html" xml:base="http://localhost:4000/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-17T11:52:22-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="http://localhost:4000/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T14:30:00-04:00</published><updated>2024-07-25T14:30:00-04:00</updated><id>http://localhost:4000/2024/07/25/code_talk</id><content type="html" xml:base="http://localhost:4000/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
   <span class="date">25 July 2024</span>
 
   <h1>Code Talk: Moving to Zero Trust architecture on AWS</h1>
@@ -21,7 +21,30 @@
   
     <b>Video on demand will become available soon after the livestream</b>
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 July 2024]]></summary></entry><entry><title type="html">Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</title><link href="http://localhost:4000/2024/07/11/GenAI-Networking-2.html" rel="alternate" type="text/html" title="Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity" /><published>2024-07-11T14:30:00-04:00</published><updated>2024-07-11T14:30:00-04:00</updated><id>http://localhost:4000/2024/07/11/GenAI-Networking-2</id><content type="html" xml:base="http://localhost:4000/2024/07/11/GenAI-Networking-2.html"><![CDATA[<div class="content-area">
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[25 July 2024]]></summary></entry><entry><title type="html">All Things Support, and Lessons Learned</title><link href="http://localhost:4000/2024/07/18/Lessons_learned_support_talk.html" rel="alternate" type="text/html" title="All Things Support, and Lessons Learned" /><published>2024-07-18T14:30:00-04:00</published><updated>2024-07-18T14:30:00-04:00</updated><id>http://localhost:4000/2024/07/18/Lessons_learned_support_talk</id><content type="html" xml:base="http://localhost:4000/2024/07/18/Lessons_learned_support_talk.html"><![CDATA[<div class="content-area">
+  <span class="date">18 July 2024</span>
+
+  <h1>All Things Support, and Lessons Learned</h1>
+
+  <p><b>Hosts:</b><br />Matt <br /> Jamie</p>
+  <p><b>Guests:</b><br /> Felipe da Silva, Principal SA App Networking</p>
+  <div class="abstract">
+    <b>Abstract:</b><br />In this session we will talk about how Support works. What they do to figure out a problem. How to determine if something is a bug or misconfiguration. Common gotchas and advise on how to deploy AWS networking constructs for scale, security and reliablility
+  </div>
+
+  
+  
+  
+    <p>Session hasn't started. Join live on <b>18 July 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+    <div class="video-container">
+      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+    </div>
+  
+
+  
+    <b>Video on demand will become available soon after the livestream</b>
+  
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[18 July 2024]]></summary></entry><entry><title type="html">Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</title><link href="http://localhost:4000/2024/07/11/GenAI-Networking-2.html" rel="alternate" type="text/html" title="Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity" /><published>2024-07-11T14:30:00-04:00</published><updated>2024-07-11T14:30:00-04:00</updated><id>http://localhost:4000/2024/07/11/GenAI-Networking-2</id><content type="html" xml:base="http://localhost:4000/2024/07/11/GenAI-Networking-2.html"><![CDATA[<div class="content-area">
   <span class="date">11 July 2024</span>
 
   <h1>Supercharge Your Network Engineering: Harnessing GenAI Tools for Enhanced Productivity</h1>
@@ -34,15 +57,13 @@
 
   
   
-  
-    <p>Session hasn't started. Join live on <b>11 July 2024 at 10:30AM PST / 1:30PM EST / 6:30PM GMT</b></p>
+     
     <div class="video-container">
-      <iframe src="https://player.twitch.tv/?channel=aws&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+      <iframe src="https://player.twitch.tv/?video=2195132238&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
     </div>
+    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
   
 
-  
-    <b>Video on demand will become available soon after the livestream</b>
   
 </div>]]></content><author><name></name></author><summary type="html"><![CDATA[11 July 2024]]></summary></entry><entry><title type="html">Evolution of enterprise networking in the cloud</title><link href="http://localhost:4000/2024/06/27/Large-industry-cloud-evolution.html" rel="alternate" type="text/html" title="Evolution of enterprise networking in the cloud" /><published>2024-06-27T14:30:00-04:00</published><updated>2024-06-27T14:30:00-04:00</updated><id>http://localhost:4000/2024/06/27/Large-industry-cloud-evolution</id><content type="html" xml:base="http://localhost:4000/2024/06/27/Large-industry-cloud-evolution.html"><![CDATA[<div class="content-area">
   <span class="date">27 June 2024</span>
@@ -218,25 +239,4 @@
   
 
   
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 May 2024]]></summary></entry><entry><title type="html">Approaching security and identity with cloud networking</title><link href="http://localhost:4000/2024/05/09/sec_id_net.html" rel="alternate" type="text/html" title="Approaching security and identity with cloud networking" /><published>2024-05-09T14:30:00-04:00</published><updated>2024-05-09T14:30:00-04:00</updated><id>http://localhost:4000/2024/05/09/sec_id_net</id><content type="html" xml:base="http://localhost:4000/2024/05/09/sec_id_net.html"><![CDATA[<div class="content-area">
-  <span class="date">9 May 2024</span>
-
-  <h1>Approaching security and identity with cloud networking</h1>
-
-  <p><b>Hosts:</b><br />Jamie Wenzel</p>
-  <p><b>Guests:</b><br />Everett Hinckley, Principal Security Consultant</p>
-  <div class="abstract">
-    <b>Abstract:</b><br />In this session we talk about security from a wholistic approach as opposed to configurations on individual services. We will discuss best practices on how to plan, create and manage your security and identity, And what it means and looks like in practice.
-  </div>
-
-  
-  
-     
-    <div class="video-container">
-      <iframe src="https://player.twitch.tv/?video=2142214223&amp;parent=www.theroutingloop.net&amp;parent=127.0.0.1&amp;autoplay=false" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
-    </div>
-    <a href="https://pulse.aws/survey/6ONETCNV" class="button">Session Feedback/Content Suggestions</a>
-  
-
-  
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[9 May 2024]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[23 May 2024]]></summary></entry></feed>
