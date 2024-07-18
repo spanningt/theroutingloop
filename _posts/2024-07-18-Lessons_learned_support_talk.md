@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "All Things Support, and Lessons Learned"
-videoid: 
+videoid: 2201100657
 date:   2024-07-18 10:30:00 -0800
 abstract: "In this session we will talk about how Support works. What they do to figure out a problem. How to determine if something is a bug or misconfiguration. Common gotchas and advise on how to deploy AWS networking constructs for scale, security and reliablility"
 hosts: "Matt <br> Jamie"
