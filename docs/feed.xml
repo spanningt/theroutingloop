@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-07-25T12:21:50-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T11:30:00-07:00</published><updated>2024-07-25T11:30:00-07:00</updated><id>/2024/07/25/code_talk</id><content type="html" xml:base="/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-07-25T12:28:02-07:00</updated><id>/feed.xml</id><title type="html">The Routing Loop</title><subtitle>Weekly AWS Networking Twitch Show</subtitle><entry><title type="html">Code Talk: Moving to Zero Trust architecture on AWS</title><link href="/2024/07/25/code_talk.html" rel="alternate" type="text/html" title="Code Talk: Moving to Zero Trust architecture on AWS" /><published>2024-07-25T11:30:00-07:00</published><updated>2024-07-25T11:30:00-07:00</updated><id>/2024/07/25/code_talk</id><content type="html" xml:base="/2024/07/25/code_talk.html"><![CDATA[<div class="content-area">
   <span class="date">25 July 2024</span>
 
   <h1>Code Talk: Moving to Zero Trust architecture on AWS</h1>
 
-  <p><b>Hosts:</b><br />Tom</p>
-  <p><b>Guests:</b><br /> Adam Palmer, Principal Solutions Architect, Networking <br /> Pablo Sánchez Carmona, Sr. Solutions Architect, Networking</p>
+  <p><b>Hosts:</b><br />Tom Adamski</p>
+  <p><b>Guests:</b><br /> Adam Palmer, Principal Solutions Architect, Networking <br /> Pablo Sánchez Carmona, Sr. Solutions Architect, Networking <br /> Satish Katpally, Principal Specialist, Networking</p>
   <div class="abstract">
     <b>Abstract:</b><br />This is a Code Talk, so time to learn while we code! Today, learn how you can use AWS Verified Access and Amazon VPC Lattice to implement a Zero Trust security model on AWS. Learn best practices to create least-privilege access and microsegmentation across workloads. Additionally, find out how infrastructure as code can enable automated deployment and management of robust Zero Trust environments. Sounds good? Join us!
   </div>
