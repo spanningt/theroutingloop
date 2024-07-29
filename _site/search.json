@@ -1,8 +1,16 @@
 [
   
     {
+      "title"    : "AWS Application Load Balancer - Routing Algorithms and Health Checking",
+      "hosts"    : "Alex Huides, Tom Adamski",
+      "url"      : "/2024/08/01/alb_routing.html",
+      "date"     : "01 Aug 2024",
+      "abstract" : "In this session, we&#39;ll explore the routing algorithms of AWS Application Load Balancer, including round robin, least outstanding request, and weighted random, to efficiently manage and distribute traffic. We&#39;ll also cover the configuration and importance of health checking to ensure that only healthy instances receive traffic. "
+    } ,
+  
+    {
       "title"    : "Code Talk: Moving to Zero Trust architecture on AWS",
-      "hosts"    : "Tom",
+      "hosts"    : "Tom Adamski",
       "url"      : "/2024/07/25/code_talk.html",
       "date"     : "25 Jul 2024",
       "abstract" : "This is a Code Talk, so time to learn while we code! Today, learn how you can use AWS Verified Access and Amazon VPC Lattice to implement a Zero Trust security model on AWS. Learn best practices to create least-privilege access and microsegmentation across workloads. Additionally, find out how infrastructure as code can enable automated deployment and management of robust Zero Trust environments. Sounds good? Join us!"
